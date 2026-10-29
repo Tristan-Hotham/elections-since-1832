@@ -1,0 +1,701 @@
+election,nation,family,seats
+1832,England,CON,123
+1832,England,LIB,344
+1832,England,SPK,1
+1832,Ireland,CON,31
+1832,Ireland,IRN,43
+1832,Ireland,LIB,31
+1832,Scotland,CON,10
+1832,Scotland,LIB,43
+1832,Wales,CON,14
+1832,Wales,LIB,18
+1835,England,CON,206
+1835,England,LIB,261
+1835,England,SPK,1
+1835,Ireland,CON,37
+1835,Ireland,IRN,35
+1835,Ireland,LIB,33
+1835,Scotland,CON,15
+1835,Scotland,LIB,38
+1835,Wales,CON,17
+1835,Wales,LIB,15
+1837,England,CON,244
+1837,England,LIB,224
+1837,Ireland,CON,32
+1837,Ireland,IRN,31
+1837,Ireland,LIB,42
+1837,Scotland,CON,20
+1837,Scotland,LIB,32
+1837,Scotland,SPK,1
+1837,Wales,CON,19
+1837,Wales,LIB,13
+1841,England,CON,280
+1841,England,LIB,187
+1841,England,SPK,1
+1841,Ireland,CON,43
+1841,Ireland,IRN,21
+1841,Ireland,LIB,41
+1841,Scotland,CON,22
+1841,Scotland,LIB,31
+1841,Wales,CON,21
+1841,Wales,LIB,11
+1847,England,CON,216
+1847,England,LIB,222
+1847,England,OTH,1
+1847,England,PEEL,26
+1847,England,SPK,1
+1847,Ireland,CON,32
+1847,Ireland,IRN,38
+1847,Ireland,LIB,24
+1847,Ireland,PEEL,11
+1847,Scotland,CON,19
+1847,Scotland,LIB,33
+1847,Scotland,PEEL,1
+1847,Wales,CON,17
+1847,Wales,LIB,11
+1847,Wales,PEEL,4
+1852,England,CON,235
+1852,England,LIB,206
+1852,England,PEEL,21
+1852,England,SPK,1
+1852,Ireland,CON,40
+1852,Ireland,IRN,49
+1852,Ireland,LIB,13
+1852,Ireland,PEEL,3
+1852,Scotland,CON,19
+1852,Scotland,LIB,32
+1852,Scotland,PEEL,2
+1852,Wales,CON,18
+1852,Wales,LIB,10
+1852,Wales,PEEL,4
+1857,England,CON,188
+1857,England,LIB,249
+1857,England,OTH,1
+1857,England,PEEL,26
+1857,Ireland,CON,45
+1857,Ireland,IRN,15
+1857,Ireland,LIB,40
+1857,Ireland,PEEL,5
+1857,Scotland,CON,14
+1857,Scotland,LIB,37
+1857,Scotland,PEEL,2
+1857,Wales,CON,16
+1857,Wales,LIB,12
+1857,Wales,PEEL,4
+1859,England,CON,211
+1859,England,LIB,251
+1859,England,PEEL,1
+1859,England,SPK,1
+1859,Ireland,CON,56
+1859,Ireland,LIB,49
+1859,Scotland,CON,13
+1859,Scotland,LIB,40
+1859,Wales,CON,17
+1859,Wales,LIB,15
+1865,England,CON,218
+1865,England,LIB,249
+1865,England,SPK,1
+1865,Ireland,CON,48
+1865,Ireland,LIB,57
+1865,Scotland,CON,11
+1865,Scotland,LIB,42
+1865,Wales,CON,14
+1865,Wales,LIB,18
+1868,England,CON,216
+1868,England,LIB,243
+1868,England,SPK,1
+1868,Ireland,CON,40
+1868,Ireland,LIB,65
+1868,Scotland,CON,7
+1868,Scotland,LIB,53
+1868,Wales,CON,10
+1868,Wales,LIB,23
+1874,England,CON,285
+1874,England,LIB,170
+1874,England,SPK,1
+1874,Ireland,CON,33
+1874,Ireland,IRN,60
+1874,Ireland,LIB,10
+1874,Scotland,CON,18
+1874,Scotland,LIB,42
+1874,Wales,CON,14
+1874,Wales,LIB,19
+1880,England,CON,201
+1880,England,LIB,254
+1880,England,SPK,1
+1880,Ireland,CON,25
+1880,Ireland,IRN,63
+1880,Ireland,LIB,15
+1880,Scotland,CON,7
+1880,Scotland,LIB,53
+1880,Wales,CON,4
+1880,Wales,LIB,29
+1885,England,CON,217
+1885,England,IRN,1
+1885,England,LIB,242
+1885,England,SPK,1
+1885,Ireland,CON,18
+1885,Ireland,IRN,85
+1885,Scotland,CON,10
+1885,Scotland,LIB,61
+1885,Scotland,OTH,1
+1885,Wales,CON,4
+1885,Wales,LIB,30
+1886,England,CON,282
+1886,England,IRN,1
+1886,England,LIB,122
+1886,England,LU,55
+1886,England,SPK,1
+1886,Ireland,CON,17
+1886,Ireland,IRN,84
+1886,Ireland,LU,2
+1886,Scotland,CON,13
+1886,Scotland,LIB,42
+1886,Scotland,LU,17
+1886,Wales,CON,6
+1886,Wales,LIB,26
+1886,Wales,LU,2
+1892,England,CON,235
+1892,England,IRN,1
+1892,England,LIB,190
+1892,England,LU,31
+1892,England,OTH,3
+1892,England,SPK,1
+1892,Ireland,CON,19
+1892,Ireland,IRN,80
+1892,Ireland,LU,4
+1892,Scotland,CON,11
+1892,Scotland,LIB,50
+1892,Scotland,LU,11
+1892,Wales,CON,3
+1892,Wales,LIB,31
+1895,England,CON,296
+1895,England,IRN,1
+1895,England,LIB,112
+1895,England,LU,51
+1895,England,SPK,1
+1895,Ireland,CON,17
+1895,Ireland,IRN,81
+1895,Ireland,LIB,1
+1895,Ireland,LU,4
+1895,Scotland,CON,19
+1895,Scotland,LIB,39
+1895,Scotland,LU,14
+1895,Wales,CON,8
+1895,Wales,LIB,25
+1895,Wales,LU,1
+1900,England,CON,290
+1900,England,IRN,1
+1900,England,LAB,1
+1900,England,LIB,121
+1900,England,LU,47
+1900,England,SPK,1
+1900,Ireland,CON,17
+1900,Ireland,IRN,81
+1900,Ireland,LIB,1
+1900,Ireland,LU,4
+1900,Scotland,CON,21
+1900,Scotland,LIB,34
+1900,Scotland,LU,17
+1900,Wales,CON,6
+1900,Wales,LAB,1
+1900,Wales,LIB,27
+1906,England,CON,108
+1906,England,IRN,1
+1906,England,LAB,26
+1906,England,LIB,305
+1906,England,LU,19
+1906,England,OTH,1
+1906,England,SPK,1
+1906,Ireland,CON,16
+1906,Ireland,IRN,82
+1906,Ireland,LIB,1
+1906,Ireland,LU,1
+1906,Ireland,ULS,3
+1906,Scotland,CON,7
+1906,Scotland,LAB,2
+1906,Scotland,LIB,58
+1906,Scotland,LU,5
+1906,Wales,LAB,1
+1906,Wales,LIB,33
+1918,England,CON,320
+1918,England,IRN,1
+1918,England,LAB,46
+1918,England,LIB,108
+1918,England,OTH,16
+1918,England,SPK,1
+1918,Ireland,CON,25
+1918,Ireland,IRN,6
+1918,Ireland,SF,73
+1918,Ireland,ULS,1
+1918,Scotland,CON,32
+1918,Scotland,LAB,6
+1918,Scotland,LIB,34
+1918,Scotland,OTH,2
+1918,Wales,CON,4
+1918,Wales,LAB,9
+1918,Wales,LIB,21
+1918,Wales,OTH,2
+1922,England,ALLY,1
+1922,England,CON,314
+1922,England,IRN,1
+1922,England,LAB,94
+1922,England,LIB,77
+1922,England,OTH,4
+1922,England,SPK,1
+1922,Northern Ireland,CON,11
+1922,Northern Ireland,IRN,2
+1922,Scotland,CON,15
+1922,Scotland,LAB,29
+1922,Scotland,LIB,28
+1922,Scotland,OTH,2
+1922,Wales,CON,6
+1922,Wales,LAB,18
+1922,Wales,LIB,11
+1922,Wales,OTH,1
+1923,England,CON,225
+1923,England,IRN,1
+1923,England,LAB,138
+1923,England,LIB,125
+1923,England,OTH,2
+1923,England,SPK,1
+1923,Northern Ireland,CON,11
+1923,Northern Ireland,IRN,2
+1923,Scotland,CON,16
+1923,Scotland,LAB,34
+1923,Scotland,LIB,23
+1923,Scotland,OTH,1
+1923,Wales,CON,4
+1923,Wales,LAB,19
+1923,Wales,LIB,12
+1923,Wales,OTH,1
+1924,England,ALLY,7
+1924,England,CON,351
+1924,England,IRN,1
+1924,England,LAB,109
+1924,England,LIB,20
+1924,England,OTH,3
+1924,England,SPK,1
+1924,Northern Ireland,CON,13
+1924,Scotland,CON,38
+1924,Scotland,LAB,26
+1924,Scotland,LIB,9
+1924,Scotland,OTH,1
+1924,Wales,CON,9
+1924,Wales,LAB,16
+1924,Wales,LIB,11
+1929,England,CON,224
+1929,England,IRN,1
+1929,England,LAB,226
+1929,England,LIB,36
+1929,England,OTH,4
+1929,England,SPK,1
+1929,Northern Ireland,CON,11
+1929,Northern Ireland,IRN,2
+1929,Scotland,CON,22
+1929,Scotland,LAB,36
+1929,Scotland,LIB,14
+1929,Scotland,OTH,2
+1929,Wales,CON,1
+1929,Wales,LAB,25
+1929,Wales,LIB,10
+1931,England,ALLY,38
+1931,England,CON,401
+1931,England,LAB,28
+1931,England,LIB,20
+1931,England,OTH,4
+1931,England,SPK,1
+1931,Northern Ireland,CON,11
+1931,Northern Ireland,IRN,2
+1931,Scotland,ALLY,9
+1931,Scotland,CON,50
+1931,Scotland,LAB,3
+1931,Scotland,LIB,8
+1931,Scotland,OTH,4
+1931,Wales,ALLY,5
+1931,Wales,CON,6
+1931,Wales,LAB,15
+1931,Wales,LIB,9
+1931,Wales,OTH,1
+1935,England,ALLY,29
+1935,England,CON,331
+1935,England,LAB,116
+1935,England,LIB,11
+1935,England,OTH,4
+1935,England,SPK,1
+1935,Northern Ireland,CON,11
+1935,Northern Ireland,IRN,2
+1935,Scotland,ALLY,9
+1935,Scotland,CON,37
+1935,Scotland,LAB,20
+1935,Scotland,LIB,3
+1935,Scotland,OTH,5
+1935,Wales,ALLY,5
+1935,Wales,CON,6
+1935,Wales,LAB,18
+1935,Wales,LIB,7
+1945,England,ALLY,8
+1945,England,CON,159
+1945,England,LAB,331
+1945,England,LIB,5
+1945,England,OTH,13
+1945,England,SPK,1
+1945,Northern Ireland,CON,9
+1945,Northern Ireland,IRN,2
+1945,Northern Ireland,OTH,1
+1945,Northern Ireland,ULS,1
+1945,Scotland,ALLY,4
+1945,Scotland,CON,25
+1945,Scotland,LAB,38
+1945,Scotland,LIB,2
+1945,Scotland,OTH,5
+1945,Wales,ALLY,1
+1945,Wales,CON,3
+1945,Wales,LAB,25
+1945,Wales,LIB,7
+1950,England,ALLY,10
+1950,England,CON,243
+1950,England,LAB,250
+1950,England,LIB,2
+1950,England,SPK,1
+1950,Northern Ireland,CON,10
+1950,Northern Ireland,IRN,2
+1950,Scotland,ALLY,6
+1950,Scotland,CON,26
+1950,Scotland,LAB,37
+1950,Scotland,LIB,2
+1950,Wales,ALLY,1
+1950,Wales,CON,3
+1950,Wales,LAB,27
+1950,Wales,LIB,5
+1951,England,ALLY,12
+1951,England,CON,259
+1951,England,LAB,233
+1951,England,LIB,2
+1951,Northern Ireland,CON,9
+1951,Northern Ireland,IRN,3
+1951,Scotland,ALLY,6
+1951,Scotland,CON,29
+1951,Scotland,LAB,35
+1951,Scotland,LIB,1
+1951,Wales,ALLY,1
+1951,Wales,CON,5
+1951,Wales,LAB,27
+1951,Wales,LIB,3
+1955,England,ALLY,14
+1955,England,CON,278
+1955,England,LAB,216
+1955,England,LIB,2
+1955,England,SPK,1
+1955,Northern Ireland,CON,10
+1955,Northern Ireland,SF,2
+1955,Scotland,ALLY,5
+1955,Scotland,CON,31
+1955,Scotland,LAB,34
+1955,Scotland,LIB,1
+1955,Wales,ALLY,1
+1955,Wales,CON,5
+1955,Wales,LAB,27
+1955,Wales,LIB,3
+1959,England,ALLY,13
+1959,England,CON,302
+1959,England,LAB,193
+1959,England,LIB,3
+1959,Northern Ireland,CON,12
+1959,Scotland,ALLY,6
+1959,Scotland,CON,26
+1959,Scotland,LAB,38
+1959,Scotland,LIB,1
+1959,Wales,CON,7
+1959,Wales,LAB,27
+1959,Wales,LIB,2
+1964,England,ALLY,6
+1964,England,CON,255
+1964,England,LAB,246
+1964,England,LIB,3
+1964,England,SPK,1
+1964,Northern Ireland,CON,12
+1964,Scotland,CON,24
+1964,Scotland,LAB,43
+1964,Scotland,LIB,4
+1964,Wales,CON,6
+1964,Wales,LAB,28
+1964,Wales,LIB,2
+1966,England,ALLY,3
+1966,England,CON,216
+1966,England,LAB,285
+1966,England,LIB,6
+1966,England,SPK,1
+1966,Northern Ireland,CON,11
+1966,Northern Ireland,IRN,1
+1966,Scotland,CON,20
+1966,Scotland,LAB,46
+1966,Scotland,LIB,5
+1966,Wales,CON,3
+1966,Wales,LAB,32
+1966,Wales,LIB,1
+1970,England,CON,292
+1970,England,LAB,216
+1970,England,LIB,2
+1970,England,SPK,1
+1970,Northern Ireland,CON,8
+1970,Northern Ireland,IRN,3
+1970,Northern Ireland,ULS,1
+1970,Scotland,CON,23
+1970,Scotland,LAB,44
+1970,Scotland,LIB,3
+1970,Scotland,SNP,1
+1970,Wales,CON,7
+1970,Wales,LAB,27
+1970,Wales,LIB,1
+1970,Wales,OTH,1
+1979,England,CON,306
+1979,England,LAB,203
+1979,England,LIB,7
+1979,Northern Ireland,IRN,2
+1979,Northern Ireland,ULS,10
+1979,Scotland,CON,22
+1979,Scotland,LAB,44
+1979,Scotland,LIB,3
+1979,Scotland,SNP,2
+1979,Wales,CON,11
+1979,Wales,LAB,21
+1979,Wales,LIB,1
+1979,Wales,PC,2
+1979,Wales,SPK,1
+1983,England,CON,362
+1983,England,LAB,148
+1983,England,LIB,13
+1983,Northern Ireland,IRN,1
+1983,Northern Ireland,SF,1
+1983,Northern Ireland,ULS,15
+1983,Scotland,CON,21
+1983,Scotland,LAB,41
+1983,Scotland,LIB,8
+1983,Scotland,SNP,2
+1983,Wales,CON,14
+1983,Wales,LAB,20
+1983,Wales,LIB,2
+1983,Wales,PC,2
+1987,England,CON,357
+1987,England,LAB,155
+1987,England,LIB,10
+1987,England,SPK,1
+1987,Northern Ireland,IRN,3
+1987,Northern Ireland,SF,1
+1987,Northern Ireland,ULS,13
+1987,Scotland,CON,10
+1987,Scotland,LAB,50
+1987,Scotland,LIB,9
+1987,Scotland,SNP,3
+1987,Wales,CON,8
+1987,Wales,LAB,24
+1987,Wales,LIB,3
+1987,Wales,PC,3
+1992,England,CON,319
+1992,England,LAB,195
+1992,England,LIB,10
+1992,Northern Ireland,IRN,4
+1992,Northern Ireland,ULS,13
+1992,Scotland,CON,11
+1992,Scotland,LAB,49
+1992,Scotland,LIB,9
+1992,Scotland,SNP,3
+1992,Wales,CON,6
+1992,Wales,LAB,27
+1992,Wales,LIB,1
+1992,Wales,PC,4
+1997,England,CON,165
+1997,England,LAB,328
+1997,England,LIB,34
+1997,England,OTH,1
+1997,England,SPK,1
+1997,Northern Ireland,IRN,3
+1997,Northern Ireland,SF,2
+1997,Northern Ireland,ULS,13
+1997,Scotland,LAB,56
+1997,Scotland,LIB,10
+1997,Scotland,SNP,6
+1997,Wales,LAB,34
+1997,Wales,LIB,2
+1997,Wales,PC,4
+2001,England,CON,165
+2001,England,LAB,323
+2001,England,LIB,40
+2001,England,OTH,1
+2001,Northern Ireland,IRN,3
+2001,Northern Ireland,SF,4
+2001,Northern Ireland,ULS,11
+2001,Scotland,CON,1
+2001,Scotland,LAB,55
+2001,Scotland,LIB,10
+2001,Scotland,SNP,5
+2001,Scotland,SPK,1
+2001,Wales,LAB,34
+2001,Wales,LIB,2
+2001,Wales,PC,4
+2005,England,CON,194
+2005,England,LAB,286
+2005,England,LIB,47
+2005,England,OTH,2
+2005,Northern Ireland,IRN,3
+2005,Northern Ireland,SF,5
+2005,Northern Ireland,ULS,10
+2005,Scotland,CON,1
+2005,Scotland,LAB,40
+2005,Scotland,LIB,11
+2005,Scotland,SNP,6
+2005,Scotland,SPK,1
+2005,Wales,CON,3
+2005,Wales,LAB,29
+2005,Wales,LIB,4
+2005,Wales,OTH,1
+2005,Wales,PC,3
+2010,England,CON,297
+2010,England,GRN,1
+2010,England,LAB,191
+2010,England,LIB,43
+2010,England,SPK,1
+2010,Northern Ireland,IRN,3
+2010,Northern Ireland,OTH,2
+2010,Northern Ireland,SF,5
+2010,Northern Ireland,ULS,8
+2010,Scotland,CON,1
+2010,Scotland,LAB,41
+2010,Scotland,LIB,11
+2010,Scotland,SNP,6
+2010,Wales,CON,8
+2010,Wales,LAB,26
+2010,Wales,LIB,3
+2010,Wales,PC,3
+2015,England,CON,318
+2015,England,GRN,1
+2015,England,LAB,206
+2015,England,LIB,6
+2015,England,REF,1
+2015,England,SPK,1
+2015,Northern Ireland,IRN,3
+2015,Northern Ireland,OTH,1
+2015,Northern Ireland,SF,4
+2015,Northern Ireland,ULS,10
+2015,Scotland,CON,1
+2015,Scotland,LAB,1
+2015,Scotland,LIB,1
+2015,Scotland,SNP,56
+2015,Wales,CON,11
+2015,Wales,LAB,25
+2015,Wales,LIB,1
+2015,Wales,PC,3
+2017,England,CON,296
+2017,England,GRN,1
+2017,England,LAB,227
+2017,England,LIB,8
+2017,England,SPK,1
+2017,Northern Ireland,OTH,1
+2017,Northern Ireland,SF,7
+2017,Northern Ireland,ULS,10
+2017,Scotland,CON,13
+2017,Scotland,LAB,7
+2017,Scotland,LIB,4
+2017,Scotland,SNP,35
+2017,Wales,CON,8
+2017,Wales,LAB,28
+2017,Wales,PC,4
+2019,England,CON,345
+2019,England,GRN,1
+2019,England,LAB,179
+2019,England,LIB,7
+2019,England,SPK,1
+2019,Northern Ireland,IRN,2
+2019,Northern Ireland,OTH,1
+2019,Northern Ireland,SF,7
+2019,Northern Ireland,ULS,8
+2019,Scotland,CON,6
+2019,Scotland,LAB,1
+2019,Scotland,LIB,4
+2019,Scotland,SNP,48
+2019,Wales,CON,14
+2019,Wales,LAB,22
+2019,Wales,PC,4
+2024,England,CON,116
+2024,England,GRN,4
+2024,England,LAB,347
+2024,England,LIB,65
+2024,England,OTH,5
+2024,England,REF,5
+2024,England,SPK,1
+2024,Northern Ireland,IRN,2
+2024,Northern Ireland,OTH,2
+2024,Northern Ireland,SF,7
+2024,Northern Ireland,ULS,7
+2024,Scotland,CON,5
+2024,Scotland,LAB,37
+2024,Scotland,LIB,6
+2024,Scotland,SNP,9
+2024,Wales,LAB,27
+2024,Wales,LIB,1
+2024,Wales,PC,4
+December 1910,England,CON,209
+December 1910,England,IRN,1
+December 1910,England,LAB,34
+December 1910,England,LIB,186
+December 1910,England,LU,30
+December 1910,England,SPK,1
+December 1910,Ireland,CON,17
+December 1910,Ireland,IRN,84
+December 1910,Ireland,LIB,1
+December 1910,Ireland,LU,1
+December 1910,Scotland,CON,7
+December 1910,Scotland,LAB,3
+December 1910,Scotland,LIB,58
+December 1910,Scotland,LU,4
+December 1910,Wales,CON,3
+December 1910,Wales,LAB,5
+December 1910,Wales,LIB,26
+February 1974,England,CON,267
+February 1974,England,LAB,237
+February 1974,England,LIB,9
+February 1974,England,OTH,2
+February 1974,England,SPK,1
+February 1974,Northern Ireland,IRN,1
+February 1974,Northern Ireland,ULS,11
+February 1974,Scotland,CON,21
+February 1974,Scotland,LAB,40
+February 1974,Scotland,LIB,3
+February 1974,Scotland,SNP,7
+February 1974,Wales,CON,8
+February 1974,Wales,LAB,24
+February 1974,Wales,LIB,2
+February 1974,Wales,PC,2
+January 1910,England,CON,211
+January 1910,England,IRN,1
+January 1910,England,LAB,33
+January 1910,England,LIB,188
+January 1910,England,LU,26
+January 1910,England,OTH,1
+January 1910,England,SPK,1
+January 1910,Ireland,CON,20
+January 1910,Ireland,IRN,81
+January 1910,Ireland,LIB,1
+January 1910,Ireland,LU,1
+January 1910,Scotland,CON,8
+January 1910,Scotland,LAB,2
+January 1910,Scotland,LIB,59
+January 1910,Scotland,LU,3
+January 1910,Wales,CON,2
+January 1910,Wales,LAB,5
+January 1910,Wales,LIB,27
+October 1974,England,CON,252
+October 1974,England,LAB,255
+October 1974,England,LIB,8
+October 1974,England,SPK,1
+October 1974,Northern Ireland,IRN,2
+October 1974,Northern Ireland,ULS,10
+October 1974,Scotland,CON,16
+October 1974,Scotland,LAB,41
+October 1974,Scotland,LIB,3
+October 1974,Scotland,SNP,11
+October 1974,Wales,CON,8
+October 1974,Wales,LAB,23
+October 1974,Wales,LIB,2
+October 1974,Wales,PC,3

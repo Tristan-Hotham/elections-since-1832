@@ -1,0 +1,2327 @@
+wikidata,label,lon,lat,nation,place_source
+wd:Q101170463,Cardiganshire,-4.0723,52.2559,Wales,wikidata P625
+wd:Q1031352,Sittingbourne and Sheppey,0.7833,51.35,England,wikidata P625
+wd:Q1031497,Shrewsbury and Atcham,-2.769,52.665,England,wikidata P625
+wd:Q1031659,Shipley,-1.8,53.85,England,wikidata P625
+wd:Q1031709,Sherwood,-1.13,53.07,England,wikidata P625
+wd:Q1031720,Sheffield Heeley,-1.467,53.369,England,wikidata P625
+wd:Q1031731,Sheffield Hallam,-1.523,53.355,England,wikidata P625
+wd:Q1031745,Sheffield Brightside and Hillsborough,-1.452,53.411,England,wikidata P625
+wd:Q1031751,Sheffield South East,-1.429,53.362,England,wikidata P625
+wd:Q1031760,Sheffield Central,-1.4644,53.3756,England,wikidata P625
+wd:Q1031768,Sevenoaks,0.1833,51.3333,England,wikidata P625
+wd:Q1031788,Selby and Ainsty,-1.079,53.777,England,wikidata P625
+wd:Q1031797,Sefton Central,-2.985,53.523,England,wikidata P625
+wd:Q1031806,Sedgefield,-1.5,54.6,England,wikidata P625
+wd:Q1031819,Scarborough and Whitby,-0.56,54.37,England,wikidata P625
+wd:Q1031840,Salisbury,-1.79,51.07,England,wikidata P625
+wd:Q1031863,Salford and Eccles,-2.34,53.51,England,wikidata P625
+wd:Q1031869,Saffron Walden,0.35,51.95,England,wikidata P625
+wd:Q1031877,Rutland and Melton,-0.8,52.7,England,wikidata P625
+wd:Q1031884,Rutherglen and Hamilton West,-4.175,55.82,Scotland,wikidata P625
+wd:Q1031895,Rushcliffe,-1.09,52.87,England,wikidata P625
+wd:Q1031923,Rugby,-1.35,52.4,England,wikidata P625
+wd:Q1031928,Rotherham,-1.357,53.43,England,wikidata P625
+wd:Q1031931,Rother Valley,-1.357,53.43,England,wikidata P625
+wd:Q1031940,Rossendale and Darwen,-2.24,53.708,England,wikidata P625
+wd:Q1031947,"Ross, Skye and Lochaber",-5.896,57.274,Scotland,wikidata P625
+wd:Q1031958,Romford,0.187,51.588,England,wikidata P625
+wd:Q1031965,Rochford and Southend East,0.81,51.55,England,wikidata P625
+wd:Q1031975,Rochester and Strood,0.5,51.4,England,wikidata P625
+wd:Q1032004,Rochdale,-2.16,53.61,England,wikidata P625
+wd:Q1032015,Richmond Park,-0.278,51.447,England,wikidata P625
+wd:Q1032035,Richmond (Yorks),-1.653,54.405,England,wikidata P625
+wd:Q1032052,Ribble Valley,-2.391,53.873,England,wikidata P625
+wd:Q1032058,Rhondda,-3.491,51.6548,Wales,wikidata P625
+wd:Q1032065,Reigate,-0.1994,51.2587,England,wikidata P625
+wd:Q1032085,Redditch,-1.95,52.25,England,wikidata P625
+wd:Q1032098,Redcar,-1.078,54.603,England,wikidata P625
+wd:Q1032106,Reading West,-0.99,51.46,England,wikidata P625
+wd:Q1032131,Reading East,-0.95,51.46,England,wikidata P625
+wd:Q1032138,Rayleigh and Wickford,0.7,51.6,England,wikidata P625
+wd:Q1032152,Pudsey,-1.6595,53.8379,England,wikidata P625
+wd:Q1032214,Pudsey and Otley,-1.6595,53.8379,England,"wikidata P625 of constituency ""Pudsey"""
+wd:Q1032224,Newton Abbot,-3.497,50.546,England,wikidata P625
+wd:Q1032235,"Normanton, Pontefract and Castleford",-1.361,53.717,England,wikidata P625
+wd:Q1032268,Dundee East,-2.8336,56.5222,Scotland,wikidata P625
+wd:Q1032281,Dundee West,-3.0847,56.5042,Scotland,wikidata P625
+wd:Q1032300,Dunfermline and West Fife,-3.43,56.057,Scotland,wikidata P625
+wd:Q1032319,Beckenham,-0.02,51.389,England,wikidata P625
+wd:Q1032329,Bedford,-0.46,52.14,England,wikidata P625
+wd:Q1032412,Preseli Pembrokeshire,-4.9611,51.9411,Wales,wikidata P625
+wd:Q1032433,Portsmouth South,-1.079,50.787,England,wikidata P625
+wd:Q1032443,Portsmouth North,-1.0628,50.8428,England,wikidata P625
+wd:Q1032451,Poplar and Limehouse,-0.02,51.5,England,wikidata P625
+wd:Q1032459,Poole,-1.98,50.72,England,wikidata P625
+wd:Q1032468,Pontypridd,-3.35,51.601,Wales,wikidata P625
+wd:Q1032482,North Durham,-1.63,54.86,England,wikidata P625
+wd:Q1032489,North East Bedfordshire,-0.574,52.221,England,wikidata P625
+wd:Q1032502,North East Cambridgeshire,0.375,52.433,England,wikidata P625
+wd:Q1032512,North East Derbyshire,-1.55,53.24,England,wikidata P625
+wd:Q1032537,North Dorset,-2.1976,51.0058,England,wikidata P625
+wd:Q1032551,North Devon,-4.0,51.06,England,wikidata P625
+wd:Q1032559,North Cornwall,-4.594,50.689,England,wikidata P625
+wd:Q1032569,North Ayrshire and Arran,-4.915,55.637,Scotland,wikidata P625
+wd:Q1050608,Plymouth Sutton and Devonport,-4.141,50.37,England,wikidata P625
+wd:Q1050631,Plymouth Moor View,-4.14,50.411,England,wikidata P625
+wd:Q1050650,Peterborough,-0.25,52.5833,England,wikidata P625
+wd:Q1050667,Perth and North Perthshire,-3.435,56.395,Scotland,wikidata P625
+wd:Q1050693,Penrith and The Border,-2.7,54.7,England,wikidata P625
+wd:Q1050711,Penistone and Stocksbridge,-1.607,53.508,England,wikidata P625
+wd:Q1050733,Pendle,-2.204,53.845,England,wikidata P625
+wd:Q1050788,Paisley and Renfrewshire North,-4.499,55.86,Scotland,wikidata P625
+wd:Q1050814,Oxford West and Abingdon,-1.3,51.75,England,wikidata P625
+wd:Q1050889,Oxford East,-1.2,51.75,England,wikidata P625
+wd:Q1050914,Orpington,0.085,51.357,England,wikidata P625
+wd:Q1050931,Orkney and Shetland,-1.803,59.775,Scotland,wikidata P625
+wd:Q1050950,Oldham West and Royton,-2.1,53.6,England,wikidata P625
+wd:Q1050969,Oldham East and Saddleworth,-2.1,53.6,England,wikidata P625
+wd:Q1050985,Old Bexley and Sidcup,0.12,51.439,England,wikidata P625
+wd:Q1051003,Ogmore,-3.5667,51.5667,Wales,wikidata P625
+wd:Q1051029,Ochil and South Perthshire,-3.545,56.281,Scotland,wikidata P625
+wd:Q1051057,Nuneaton,-1.45,52.5,England,wikidata P625
+wd:Q1051246,Nottingham South,-1.17,52.92,England,wikidata P625
+wd:Q1051300,Nottingham North,-1.19,53.0,England,wikidata P625
+wd:Q1051397,Nottingham East,-1.13,52.96,England,wikidata P625
+wd:Q1051416,Norwich South,1.27,52.62,England,wikidata P625
+wd:Q1051435,East Surrey,-0.066,51.2303,England,wikidata P625
+wd:Q1051488,Norwich North,1.3,52.65,England,wikidata P625
+wd:Q1051515,Northampton South,-0.89,52.22,England,wikidata P625
+wd:Q1051537,Northampton North,-0.87,52.26,England,wikidata P625
+wd:Q1051556,North Wiltshire,-2.03,51.53,England,wikidata P625
+wd:Q1051572,North West Norfolk,0.5445,52.8244,England,wikidata P625
+wd:Q1051582,North West Leicestershire,-1.4,52.75,England,wikidata P625
+wd:Q1051591,North West Hampshire,-1.45,51.1833,England,wikidata P625
+wd:Q1051601,North West Durham,-1.98,54.77,England,wikidata P625
+wd:Q1051617,North West Cambridgeshire,0.2,52.453,England,wikidata P625
+wd:Q1051633,North Warwickshire,-1.7,52.5,England,wikidata P625
+wd:Q1051661,North Thanet,1.2667,51.375,England,wikidata P625
+wd:Q1052216,North Swindon,-1.782,51.559,England,wikidata P625
+wd:Q1052235,North Somerset,-2.73,51.43,England,wikidata P625
+wd:Q1052248,North Shropshire,-2.72,52.88,England,wikidata P625
+wd:Q1052262,North Norfolk,1.17,52.89,England,wikidata P625
+wd:Q1052276,North Herefordshire,-2.7,52.2,England,wikidata P625
+wd:Q1052293,North East Somerset,-2.5,51.3333,England,wikidata P625
+wd:Q1052307,North East Hertfordshire,-0.0333,51.9167,England,wikidata P625
+wd:Q1052327,Newport West,-3.043,51.583,Wales,wikidata P625
+wd:Q1052345,Newport East,-2.92,51.593,Wales,wikidata P625
+wd:Q1052362,Newcastle-under-Lyme,-2.3,53.04,England,wikidata P625
+wd:Q1052385,Newcastle upon Tyne North,-1.7,55.0,England,wikidata P625
+wd:Q1052935,Newcastle upon Tyne Central,-1.61,55.003,England,wikidata P625
+wd:Q1053007,Newbury,-1.34,51.46,England,wikidata P625
+wd:Q1053027,Newark,-0.9,53.1,England,wikidata P625
+wd:Q1053043,New Forest West,-1.629,50.806,England,wikidata P625
+wd:Q1053065,New Forest East,-1.467,50.82,England,wikidata P625
+wd:Q1053099,Neath,-3.7697,51.7206,Wales,wikidata P625
+wd:Q1053141,Na h-Eileanan an Iar,-6.953,57.671,Scotland,wikidata P625
+wd:Q1053259,Motherwell and Wishaw,-3.9501,55.7822,Scotland,wikidata P625
+wd:Q1053274,Morley and Outwood,-1.602,53.749,England,wikidata P625
+wd:Q1053298,Morecambe and Lunesdale,-2.824,54.089,England,wikidata P625
+wd:Q1053311,Moray,-3.248,57.512,Scotland,wikidata P625
+wd:Q1053339,Montgomeryshire,-3.469,52.64,Wales,wikidata P625
+wd:Q1053353,Monmouth,-2.811,51.768,Wales,wikidata P625
+wd:Q1053362,Mole Valley,-0.328,51.266,England,wikidata P625
+wd:Q1053376,Mitcham and Morden,-0.176,51.401,England,wikidata P625
+wd:Q1053383,Milton Keynes South,-0.687,52.021,England,wikidata P625
+wd:Q1053398,Milton Keynes North,-0.717,52.062,England,wikidata P625
+wd:Q1053415,Midlothian,-3.1078,55.8217,Scotland,wikidata P625
+wd:Q1053429,Middlesbrough South and East Cleveland,-1.139,54.54,England,wikidata P625
+wd:Q1053438,Middlesbrough,-1.2239,54.5589,England,wikidata P625
+wd:Q1053452,Mid Worcestershire,-2.05,52.15,England,wikidata P625
+wd:Q1053541,Mid Norfolk,0.9176,52.6655,England,wikidata P625
+wd:Q1053572,Mid Dorset and North Poole,-2.0693,50.7004,England,wikidata P625
+wd:Q1070042,Colchester,0.9001,51.8868,England,wikidata P625
+wd:Q1070045,Edinburgh West,-3.3328,55.9525,Scotland,wikidata P625
+wd:Q1070050,Birmingham Ladywood,-1.87,52.49,England,wikidata P625
+wd:Q1070055,Canterbury,1.05,51.3,England,wikidata P625
+wd:Q1070064,Bolton West,-2.451,53.577,England,wikidata P625
+wd:Q1070072,Manchester Central,-2.24,53.469,England,wikidata P625
+wd:Q1070093,Edinburgh South,-3.1586,55.9139,Scotland,wikidata P625
+wd:Q1070099,Brighton Pavilion,-0.1353,50.8289,England,wikidata P625
+wd:Q1070108,Doncaster North,-1.055,53.577,England,wikidata P625
+wd:Q1070116,Livingston,-3.517,55.894,Scotland,wikidata P625
+wd:Q1070123,Glasgow Central,-4.2717,55.8416,Scotland,wikidata P625
+wd:Q1070130,Kilmarnock and Loudoun,-4.2964,55.5936,Scotland,wikidata P625
+wd:Q1070140,Buckingham,-0.988,52.0,England,wikidata P625
+wd:Q1070148,Bristol East,-2.53,51.45,England,wikidata P625
+wd:Q1070154,East Renfrewshire,-4.3606,55.7487,Scotland,wikidata P625
+wd:Q1070328,Lewes,0.018,50.876,England,wikidata P625
+wd:Q1070334,Dover,1.2766,51.1775,England,wikidata P625
+wd:Q1072621,Bury St Edmunds,0.9,52.25,England,wikidata P625
+wd:Q1072626,Berwick-upon-Tweed,-1.9167,55.55,England,wikidata P625
+wd:Q1072632,Mid Bedfordshire,-0.383,52.027,England,wikidata P625
+wd:Q1072635,Hertsmere,-0.2667,51.6667,England,wikidata P625
+wd:Q1072645,Ipswich,1.16,52.06,England,wikidata P625
+wd:Q1072660,Great Yarmouth,1.6495,52.6844,England,wikidata P625
+wd:Q1072667,Bishop Auckland,-1.677,54.657,England,wikidata P625
+wd:Q1072676,Hitchin and Harpenden,-0.21,51.83,England,wikidata P625
+wd:Q1072690,Cambridge,0.131,52.203,England,wikidata P625
+wd:Q1072698,Bristol West,-2.6083,51.463,England,wikidata P625
+wd:Q1072703,Hexham,-2.101,54.971,England,wikidata P625
+wd:Q1072710,Hartlepool,-1.2667,54.65,England,wikidata P625
+wd:Q1072715,Braintree,0.55,51.9,England,wikidata P625
+wd:Q1072775,Jarrow,-1.45,54.977,England,wikidata P625
+wd:Q1072792,Blyth Valley,-1.523,55.127,England,wikidata P625
+wd:Q1072896,Darlington,-1.553,54.529,England,wikidata P625
+wd:Q1075417,Bradford West,-1.79,53.8,England,wikidata P625
+wd:Q1075422,Coventry North East,-1.47,52.43,England,wikidata P625
+wd:Q1075428,Leeds West,-1.576,53.798,England,wikidata P625
+wd:Q1075433,Halifax,-1.8833,53.7167,England,wikidata P625
+wd:Q1075440,Bath,-2.3603,51.3809,England,wikidata P625
+wd:Q1075452,Leeds North East,-1.515,53.85,England,wikidata P625
+wd:Q1075461,Leeds East,-1.463,53.8103,England,wikidata P625
+wd:Q1075476,Barnsley Central,-1.48,53.554,England,wikidata P625
+wd:Q1075483,City of Durham,-1.556,54.777,England,wikidata P625
+wd:Q1075498,Leeds Central,-1.5308,53.7775,England,wikidata P625
+wd:Q1075910,Chichester,-0.7792,50.8365,England,wikidata P625
+wd:Q1075915,Daventry,-1.08,52.3,England,wikidata P625
+wd:Q1075920,Leicester West,-1.16,52.65,England,wikidata P625
+wd:Q1075925,Barrow and Furness,-3.178,54.112,England,wikidata P625
+wd:Q1075935,Chesham and Amersham,-0.61,51.694,England,wikidata P625
+wd:Q1075944,Horsham,-0.3362,51.0434,England,wikidata P625
+wd:Q1077324,Bridgend,-3.581,51.507,Wales,wikidata P625
+wd:Q1077332,Cardiff North,-3.203,51.517,Wales,wikidata P625
+wd:Q1077338,Islwyn,-3.19,51.653,Wales,wikidata P625
+wd:Q1077346,Edmonton,-0.055,51.628,England,wikidata P625
+wd:Q1077357,Gower,-4.137,51.62,Wales,wikidata P625
+wd:Q1077363,Merthyr Tydfil and Rhymney,-3.308,51.752,Wales,wikidata P625
+wd:Q1077371,Harrow West,-0.364,51.585,England,wikidata P625
+wd:Q1077377,Cynon Valley,-3.461,51.657,Wales,wikidata P625
+wd:Q1077385,Carmarthen East and Dinefwr,-4.1,51.9333,Wales,wikidata P625
+wd:Q1077391,Greenwich and Woolwich,0.028,51.483,England,wikidata P625
+wd:Q1077398,Ceredigion,-4.0723,52.2559,Wales,wikidata P625
+wd:Q1077406,Delyn,-3.193,53.252,Wales,wikidata P625
+wd:Q1077415,Clwyd South,-3.1142,52.9403,Wales,wikidata P625
+wd:Q1077422,Brecon and Radnorshire,-3.382,52.094,Wales,wikidata P625
+wd:Q1077431,Carmarthen West and South Pembrokeshire,-4.701,51.745,Wales,wikidata P625
+wd:Q1077439,Ealing North,-0.345,51.537,England,wikidata P625
+wd:Q1077449,Clwyd West,-3.4606,53.1431,Wales,wikidata P625
+wd:Q1077455,Croydon North,-0.0984,51.4025,England,wikidata P625
+wd:Q1077463,Leicester East,-1.08,52.64,England,wikidata P625
+wd:Q1077473,Chesterfield,-1.4,53.25,England,wikidata P625
+wd:Q1077481,Blackburn,-2.5,53.74,England,wikidata P625
+wd:Q1077488,Bassetlaw,-0.95,53.4,England,wikidata P625
+wd:Q1077497,Enfield North,-0.075,51.667,England,wikidata P625
+wd:Q1077506,Kettering,-0.75,52.42,England,wikidata P625
+wd:Q1077513,Enfield Southgate,-0.122,51.647,England,wikidata P625
+wd:Q1077519,Ilford South,0.086,51.564,England,wikidata P625
+wd:Q1077528,Harrow East,-0.313,51.606,England,wikidata P625
+wd:Q1077534,Leicester South,-1.14,52.6,England,wikidata P625
+wd:Q1077540,Brent North,-0.29,51.57,England,wikidata P625
+wd:Q1077545,Charnwood,-1.2,52.7,England,wikidata P625
+wd:Q1077552,Islington North,-0.114,51.561,England,wikidata P625
+wd:Q1077561,Derby South,-1.45,52.9,England,wikidata P625
+wd:Q1077573,Folkestone and Hythe,1.0833,51.1,England,wikidata P625
+wd:Q1077582,Gainsborough,-0.5,53.35,England,wikidata P625
+wd:Q1077590,Ealing Southall,-0.354,51.505,England,wikidata P625
+wd:Q1077598,Loughborough,-1.2,52.77,England,wikidata P625
+wd:Q1077604,Lincoln,-0.54,53.23,England,wikidata P625
+wd:Q1077612,Chingford and Woodford Green,0.003,51.617,England,wikidata P625
+wd:Q1077620,Finchley and Golders Green,-0.18,51.59,England,wikidata P625
+wd:Q1077626,Chipping Barnet,-0.194,51.64,England,wikidata P625
+wd:Q1077631,Blackpool South,-2.914,53.767,England,wikidata P625
+wd:Q1077750,Feltham and Heston,-0.412,51.46,England,wikidata P625
+wd:Q1077754,Erith and Thamesmead,0.132,51.494,England,wikidata P625
+wd:Q1077764,Hove,-0.175,50.834,England,wikidata P625
+wd:Q1077771,Fylde,-2.9035,53.7987,England,wikidata P625
+wd:Q1077778,Birmingham Yardley,-1.82,52.46,England,wikidata P625
+wd:Q1077785,Dewsbury,-1.672,53.691,England,wikidata P625
+wd:Q1077802,Liverpool Walton,-2.967,53.447,England,wikidata P625
+wd:Q1077806,Brentford and Isleworth,-0.3236,51.4802,England,wikidata P625
+wd:Q1077816,Don Valley,-1.133,53.492,England,wikidata P625
+wd:Q1077825,Keighley,-1.838,53.896,England,wikidata P625
+wd:Q1080287,Birmingham Edgbaston,-1.9,52.45,England,wikidata P625
+wd:Q1080299,Liverpool West Derby,-2.891,53.439,England,wikidata P625
+wd:Q1080308,Manchester Gorton,-2.2071,53.486,England,wikidata P625
+wd:Q1080320,Colne Valley,-1.861,53.62,England,wikidata P625
+wd:Q1080330,Henley,-1.05,51.65,England,wikidata P625
+wd:Q1080341,Bootle,-2.989,53.446,England,wikidata P625
+wd:Q1080350,Basingstoke,-1.084,51.262,England,wikidata P625
+wd:Q1080358,Birmingham Erdington,-1.87,52.51,England,wikidata P625
+wd:Q1080368,Makerfield,-2.676,53.524,England,wikidata P625
+wd:Q1080378,Birmingham Hall Green,-1.84,52.43,England,wikidata P625
+wd:Q1080391,Lichfield,-1.8203,52.755,England,wikidata P625
+wd:Q1080403,Birmingham Hodge Hill,-1.82,52.5,England,wikidata P625
+wd:Q1080409,Huddersfield,-1.7584,53.6565,England,wikidata P625
+wd:Q1080413,Birkenhead,-3.01,53.36,England,wikidata P625
+wd:Q1080418,Fareham,-1.2112,50.8576,England,wikidata P625
+wd:Q1080424,Leigh,-2.5,53.5,England,wikidata P625
+wd:Q1080435,Kingston upon Hull West and Hessle,-0.411,53.747,England,wikidata P625
+wd:Q1080445,Great Grimsby,-0.08,53.56,England,wikidata P625
+wd:Q1080484,Gloucester,-2.249,51.867,England,wikidata P625
+wd:Q1080493,Maidstone and The Weald,0.55,51.2,England,wikidata P625
+wd:Q1080502,Devizes,-1.995,51.352,England,wikidata P625
+wd:Q1080510,Forest of Dean,-2.4321,51.9068,England,wikidata P625
+wd:Q1080518,East Devon,-3.3371,50.7103,England,wikidata P625
+wd:Q1080625,Bournemouth West,-1.913,50.717,England,wikidata P625
+wd:Q1080634,Bournemouth East,-1.803,50.725,England,wikidata P625
+wd:Q1087870,Guildford,-0.552,51.246,England,wikidata P625
+wd:Q109658772,Croydon South,-0.098,51.331,England,"wikidata P625 of constituency ""Croydon South"""
+wd:Q109659501,Rugby,-1.35,52.4,England,wikidata P625
+wd:Q11003,Watford,-0.4,51.65,England,wikidata P625
+wd:Q1113086,Hackney South and Shoreditch,-0.06,51.54,England,wikidata P625
+wd:Q1113118,Eltham,0.062,51.456,England,wikidata P625
+wd:Q1113129,Bromley and Chislehurst,0.045,51.3984,England,wikidata P625
+wd:Q1113142,Leyton and Wanstead,0.013,51.571,England,wikidata P625
+wd:Q1117254,Hayes and Harlington,-0.435,51.493,England,wikidata P625
+wd:Q11797238,Bandon,-8.7425,51.7469,Ireland,"wikidata place ""Bandon"" (Q678018)"
+wd:Q11797241,Bow and Bromley,-0.0288,51.5298,England,"wikidata place ""Bow"" (Q122607)"
+wd:Q11797243,Bradford Central,-1.754,53.792,England,"wikidata place ""Bradford"" (Q2834810)"
+wd:Q11797244,Bristol Central,-2.5989,51.4638,England,"wikidata P625 of constituency ""Bristol Central"""
+wd:Q11797246,Glasgow Garscadden,-4.2369,55.8636,Scotland,"OS Open Names ""Glasgow"""
+wd:Q11797248,Hertfordshire,-0.2091,51.8647,England,"wikidata county ""Hertfordshire"""
+wd:Q11797249,Hitchin,-0.28,51.95,England,wikidata P625
+wd:Q11797250,Heywood and Radcliffe,-2.219,53.59,England,"wikidata place ""Heywood"" (Q1013970)"
+wd:Q11797251,Horncastle,-0.114,53.208,England,"wikidata place ""Horncastle"" (Q1628403)"
+wd:Q11797252,Hornsey,-0.12,51.58,England,"wikidata place ""Hornsey"" (Q1952832)"
+wd:Q11797253,Huyton,-2.843,53.41,England,"wikidata place ""Huyton"" (Q1639484)"
+wd:Q11797254,Hoxton,-0.085,51.534,England,"wikidata place ""Hoxton"" (Q1998354)"
+wd:Q11797255,Hythe,1.084,51.0716,England,"wikidata place ""Hythe"" (Q967166)"
+wd:Q11797257,Ilkeston,-1.3092,52.9711,England,"wikidata place ""Ilkeston"" (Q2061067)"
+wd:Q11797258,Kidderminster,-2.249,52.3885,England,"wikidata place ""Kidderminster"" (Q844062)"
+wd:Q11797259,Lanark,-3.782,55.674,Scotland,wikidata P625
+wd:Q11797260,Knutsford,-2.3708,53.3025,England,"wikidata place ""Knutsford"" (Q1470791)"
+wd:Q11797261,Leeds,-1.5436,53.7975,England,"wikidata place ""Leeds"" (Q39121)"
+wd:Q11797262,Leith Burghs,-3.17,55.9801,Scotland,"wikidata place ""Leith"" (Q1018540)"
+wd:Q11797263,Linlithgowshire,-3.6007,55.977,Scotland,stand-in town Linlithgow (OS Open Names)
+wd:Q11797264,Liskeard,-4.4651,50.4536,England,"wikidata place ""Liskeard"" (Q2019908)"
+wd:Q11797265,Liverpool East Toxteth,-2.8789,53.4167,England,"wikidata place ""Liverpool"" (Q21665571), nudged 2.5 km by the direction in its name"
+wd:Q11797266,Luton,-0.4279,51.8911,England,"wikidata place ""Luton"" (Q21683239)"
+wd:Q11797268,Manchester Exchange,-2.25,53.4167,England,"wikidata place ""Manchester"" (Q21525592)"
+wd:Q11797269,Manchester Moss Side,-2.244,53.459,England,"OS Open Names ""Moss Side"""
+wd:Q11797272,Mid Oxfordshire,-1.2836,51.7792,England,"wikidata county ""Oxfordshire"""
+wd:Q11797274,Midhurst,-0.74,50.985,England,"wikidata place ""Midhurst"" (Q1700135)"
+wd:Q11797276,Newcastle upon Tyne West,-1.6526,54.9778,England,"wikidata place ""Newcastle upon Tyne"" (Q1425428), nudged 2.5 km by the direction in its name"
+wd:Q11797277,Newport,-2.9978,51.5886,Wales,"wikidata place ""Newport"" (Q101254)"
+wd:Q11797280,North Lanarkshire,-3.8333,55.5833,Scotland,"wikidata P625 of constituency ""Lanarkshire"""
+wd:Q11797281,North Lancashire,-2.62,53.9277,England,"wikidata county ""Lancashire"", nudged 15 km by the direction in its name"
+wd:Q11797282,North Northamptonshire,-0.8101,52.4517,England,"wikidata county ""Northamptonshire"", nudged 15 km by the direction in its name"
+wd:Q11797283,North Leicestershire,-1.1618,52.8354,England,"wikidata county ""Leicestershire"", nudged 15 km by the direction in its name"
+wd:Q11797284,Peebles and Selkirk,-3.1889,55.6519,Scotland,"wikidata place ""Peebles"" (Q1011507)"
+wd:Q11797285,Southampton,-1.4044,50.9067,England,"wikidata place ""Southampton"" (Q79848)"
+wd:Q11797286,Ripon,-1.5236,54.1381,England,"wikidata place ""Ripon"" (Q661529)"
+wd:Q11797288,North Staffordshire,-2.0532,52.9455,England,"wikidata county ""Staffordshire"", nudged 15 km by the direction in its name"
+wd:Q11797290,Walthamstow East,-0.0208,51.5849,England,"wikidata P625 of constituency ""Walthamstow"""
+wd:Q11797292,West Sussex,-0.3559,50.9471,England,"wikidata county ""Sussex"", nudged 15 km by the direction in its name"
+wd:Q11797293,Wolverhampton,-2.1253,52.5842,England,"wikidata place ""Wolverhampton"" (Q126269)"
+wd:Q11797294,Westhoughton,-2.64,53.6,England,wikidata P625
+wd:Q11799080,Montgomery,-3.1493,52.5628,Wales,"wikidata place ""Montgomery"" (Q1311946)"
+wd:Q118874826,Fareham and Waterlooville,-1.13,50.88,England,wikidata P625
+wd:Q120176290,North Cotswolds,-1.9889,51.8253,England,wikidata P625
+wd:Q120703715,Bicester and Woodstock,-1.25,51.87,England,wikidata P625
+wd:Q120703717,Buckingham and Bletchley,-0.87,51.97,England,wikidata P625
+wd:Q120727303,Harpenden and Berkhamsted,-0.4774,51.7931,England,wikidata P625
+wd:Q120727304,St Neots and Mid Cambridgeshire,1.71,52.47,England,wikidata P625
+wd:Q120727307,Melton and Syston,-0.8938,52.7827,England,wikidata P625
+wd:Q120727310,Earley and Woodley,-0.92,51.42,England,wikidata P625
+wd:Q120727317,East Grinstead and Uckfield,-0.031,51.0396,England,wikidata P625
+wd:Q120727319,Godalming and Ash,-0.59,51.17,England,wikidata P625
+wd:Q120727321,Waveney Valley,1.71,52.47,England,wikidata P625
+wd:Q120727324,Hamble Valley,-1.28,50.88,England,wikidata P625
+wd:Q120727326,Stratford and Bow,-0.0153,51.5403,England,wikidata P625
+wd:Q120727337,Weald of Kent,0.69,51.11,England,wikidata P625
+wd:Q120756000,Melksham and Devizes,-2.0417,51.3525,England,wikidata P625
+wd:Q120756019,Tiverton and Minehead,-3.4411,51.0398,England,wikidata P625
+wd:Q120823173,East Wiltshire,-1.7466,51.3445,England,wikidata P625
+wd:Q120823352,Isle of Wight East,-1.17,50.66,England,wikidata P625
+wd:Q120823354,Isle of Wight West,-1.39,50.67,England,wikidata P625
+wd:Q120900542,Wakefield and Rothwell,-1.49,53.71,England,wikidata P625
+wd:Q120972476,Bromley and Biggin Hill,0.0226,51.3608,England,wikidata P625
+wd:Q121026996,Streatham and Croydon North,-0.1135,51.421,England,wikidata P625
+wd:Q121027005,Lewisham West and East Dulwich,-0.0561,51.4427,England,wikidata P625
+wd:Q121027008,Cramlington and Killingworth,-1.56,55.07,England,wikidata P625
+wd:Q121045534,Torridge and Tavistock,-4.2098,50.7834,England,wikidata P625
+wd:Q121045630,Exmouth and Exeter East,-3.424,50.7234,England,wikidata P625
+wd:Q121045726,Honiton and Sidmouth,-3.1165,50.7907,England,wikidata P625
+wd:Q121090646,Rhondda and Ogmore,-3.5035,51.6338,Wales,wikidata P625
+wd:Q121090647,Newport West and Islwyn,-3.1065,51.6405,Wales,wikidata P625
+wd:Q121090648,Ceredigion Preseli,-4.0775,52.1999,Wales,wikidata P625
+wd:Q121090651,Montgomeryshire and Glyndŵr,-3.4455,52.6336,Wales,wikidata P625
+wd:Q121090652,Neath and Swansea East,-3.7731,51.6972,Wales,wikidata P625
+wd:Q121090653,Mid and South Pembrokeshire,-4.7569,51.7765,Wales,wikidata P625
+wd:Q121090655,Bangor Aberconwy,-3.7096,53.148,Wales,wikidata P625
+wd:Q121090657,Blaenau Gwent and Rhymney,-3.2666,51.7481,Wales,wikidata P625
+wd:Q121090658,"Brecon, Radnor and Cwm Tawe",-3.4486,52.1081,Wales,wikidata P625
+wd:Q121090660,Merthyr Tydfil and Aberdare,-3.447,51.7389,Wales,wikidata P625
+wd:Q121090661,Blaydon and Consett,-1.78,54.9,England,wikidata P625
+wd:Q121090664,Clwyd East,-3.2469,53.1511,Wales,wikidata P625
+wd:Q121090665,Clwyd North,-3.4759,53.2449,Wales,wikidata P625
+wd:Q121090666,"Stone, Great Wyrley and Penkridge",-2.1292,52.7067,England,wikidata P625
+wd:Q121090668,Leeds West and Pudsey,-1.64,53.8,England,wikidata P625
+wd:Q121090673,Frome and East Somerset,-2.458,51.2486,England,wikidata P625
+wd:Q121090690,Aberafan Maesteg,-3.7049,51.5924,Wales,wikidata P625
+wd:Q121090697,Barnsley North,-1.45,53.58,England,wikidata P625
+wd:Q121090704,Barnsley South,-1.3837,53.5174,England,wikidata P625
+wd:Q121090727,Wetherby and Easingwold,-1.2888,53.9802,England,wikidata P625
+wd:Q121143310,South Cotswolds,-2.1185,51.6045,England,wikidata P625
+wd:Q121143322,Mid Buckinghamshire,-0.88,51.78,England,wikidata P625
+wd:Q121143325,Gorton and Denton,-2.1195,53.4461,England,wikidata P625
+wd:Q121143330,Clapham and Brixton Hill,-0.1295,51.4586,England,wikidata P625
+wd:Q121143344,Queen's Park and Maida Vale,-0.2084,51.5312,England,wikidata P625
+wd:Q121143362,Penrith and Solway,-2.6372,54.7084,England,wikidata P625
+wd:Q121143375,Angus and Perthshire Glens,-3.591,56.697,Scotland,wikidata P625
+wd:Q121143401,Runcorn and Helsby,-2.7682,53.2791,England,wikidata P625
+wd:Q121188908,Beckenham and Penge,-0.0331,51.4008,England,wikidata P625
+wd:Q121189272,Eltham and Chislehurst,0.0568,51.4361,England,wikidata P625
+wd:Q121189937,Bristol Central,-2.5989,51.4638,England,wikidata P625
+wd:Q121237152,East Kilbride and Strathaven,-4.1113,55.6576,Scotland,wikidata P625
+wd:Q121237251,"Motherwell, Wishaw and Carluke",-3.7573,55.7558,Scotland,wikidata P625
+wd:Q121282228,Walsall and Bloxwich,-1.9889,52.5989,England,wikidata P625
+wd:Q121282268,Goole and Pocklington,-0.73,53.8,England,wikidata P625
+wd:Q121282556,Normanton and Hemsworth,-1.38,53.65,England,wikidata P625
+wd:Q121296301,Glasgow West,-4.3416,55.8874,Scotland,wikidata P625
+wd:Q121296340,Jarrow and Gateshead East,-1.5,54.96,England,wikidata P625
+wd:Q121296345,Washington and Gateshead South,-1.56,54.905,England,wikidata P625
+wd:Q121296378,Gateshead Central and Whickham,-1.64,54.95,England,wikidata P625
+wd:Q121296385,Bathgate and Linlithgow,-3.6275,55.92,Scotland,wikidata P625
+wd:Q121307831,Leeds Central and Headingley,-1.58,53.82,England,wikidata P625
+wd:Q121335336,Bridlington and The Wolds,-0.46,54.02,England,wikidata P625
+wd:Q121365270,Milton Keynes Central,-0.72,52.03,England,wikidata P625
+wd:Q121365275,Leeds South West and Morley,-1.59,53.75,England,wikidata P625
+wd:Q121407090,Dundee Central,-3.0092,56.4769,Scotland,wikidata P625
+wd:Q121407172,Inverclyde and Renfrewshire West,-4.7542,55.8982,Scotland,wikidata P625
+wd:Q121407193,Alloa and Grangemouth,-3.7826,56.1544,Scotland,wikidata P625
+wd:Q121407210,Perth and Kinross-shire,-3.9598,56.3182,Scotland,wikidata P625
+wd:Q121407212,Stirling and Strathallan,-4.1548,56.2554,Scotland,wikidata P625
+wd:Q121407234,Dunfermline and Dollar,-3.5693,56.1098,Scotland,wikidata P625
+wd:Q121407246,Aberdeenshire North and Moray East,-2.7561,57.5431,Scotland,wikidata P625
+wd:Q121407270,Hamilton and Clyde Valley,-3.9234,55.6735,Scotland,wikidata P625
+wd:Q121407329,Mid Dunbartonshire,-4.2566,55.966,Scotland,wikidata P625
+wd:Q121407335,"Pontefract, Castleford and Knottingley",-1.32,53.7,England,wikidata P625
+wd:Q121407346,Arbroath and Broughty Ferry,-2.71,56.5752,Scotland,wikidata P625
+wd:Q121407402,Ossett and Denby Dale,-1.61,53.61,England,wikidata P625
+wd:Q121407404,"Moray West, Nairn and Strathspey",-3.8009,57.2838,Scotland,wikidata P625
+wd:Q121407406,Gordon and Buchan,-2.4408,57.3916,Scotland,wikidata P625
+wd:Q121407410,"Inverness, Skye and West Ross-shire",-4.7083,57.3018,Scotland,wikidata P625
+wd:Q121407542,"Argyll, Bute and South Lochaber",-5.2211,56.2894,Scotland,wikidata P625
+wd:Q121407704,Doncaster East and the Isle of Axholme,-0.88,53.57,England,wikidata P625
+wd:Q12202055,Teignbridge,-3.497,50.546,England,wikidata P625
+wd:Q12237837,Liverpool Garston,-2.864,53.359,England,wikidata P625
+wd:Q122827953,Kensington and Bayswater,-0.1923,51.5041,England,wikidata P625
+wd:Q122827964,Southgate and Wood Green,-0.1305,51.6497,England,wikidata P625
+wd:Q122834579,Edmonton and Winchmore Hill,-0.0699,51.6292,England,wikidata P625
+wd:Q122834583,Hornsey and Friern Barnet,-0.1294,51.5888,England,wikidata P625
+wd:Q122834591,Vauxhall and Camberwell Green,-0.1096,51.4828,England,wikidata P625
+wd:Q123460191,Reading Central,-0.97,51.46,England,wikidata P625
+wd:Q123460238,Reading West and Mid Berkshire,-1.14,51.45,England,wikidata P625
+wd:Q123560556,Widnes and Halewood,-2.7747,53.3699,England,wikidata P625
+wd:Q123663060,Taunton and Wellington,-3.1231,50.9823,England,wikidata P625
+wd:Q123663124,North East Somerset and Hanham,-2.5418,51.3755,England,wikidata P625
+wd:Q123663158,Wells and Mendip Hills,-2.7591,51.2621,England,wikidata P625
+wd:Q123663170,Glastonbury and Somerton,-2.6083,51.0491,England,wikidata P625
+wd:Q123663174,Dewsbury and Batley,-1.63,53.68,England,wikidata P625
+wd:Q123676540,Brent West,-0.2985,51.56,England,wikidata P625
+wd:Q123676544,"Harborough, Oadby and Wigston",-1.0,52.5,England,wikidata P625
+wd:Q123676556,West Ham and Beckton,0.0678,51.5193,England,wikidata P625
+wd:Q123676565,Mid Leicestershire,-1.2307,52.6767,England,wikidata P625
+wd:Q123676571,Hinckley and Bosworth,-1.4,52.6,England,wikidata P625
+wd:Q123676577,Hammersmith and Chiswick,-0.245,51.4931,England,wikidata P625
+wd:Q123684686,Corby and East Northamptonshire,-0.53,52.48,England,wikidata P625
+wd:Q123684691,Grantham and Bourne,-0.5172,52.9033,England,wikidata P625
+wd:Q123692176,Henley and Thame,-1.05,51.65,England,wikidata P625
+wd:Q123692183,Herne Bay and Sandwich,1.27,51.34,England,wikidata P625
+wd:Q123692220,Didcot and Wantage,-1.3057,51.6267,England,wikidata P625
+wd:Q123692239,Farnham and Bordon,-0.79,51.14,England,wikidata P625
+wd:Q123692247,Dorking and Horley,-0.32,51.2,England,wikidata P625
+wd:Q123699782,Nottingham North and Kimberley,-1.21,52.99,England,wikidata P625
+wd:Q123699786,Wellingborough and Rushden,-0.7,52.3,England,wikidata P625
+wd:Q1237015,Maldon and East Chelmsford,0.7,51.72,England,wikidata P625
+wd:Q123805597,Dunstable and Leighton Buzzard,-0.5953,51.9191,England,wikidata P625
+wd:Q123900471,Ely and East Cambridgeshire,0.2831,52.3579,England,wikidata P625
+wd:Q123907187,Halesowen,-2.06,52.46,England,wikidata P625
+wd:Q123907230,Richmond and Northallerton,-1.69,54.39,England,wikidata P625
+wd:Q123924860,North West Essex,0.34,51.89,England,wikidata P625
+wd:Q124060751,Blyth and Ashington,-1.57,55.15,England,wikidata P625
+wd:Q124060753,Newton Aycliffe and Spennymoor,-1.5048,54.6721,England,wikidata P625
+wd:Q124060759,Newcastle upon Tyne Central and West,-1.67,54.98,England,wikidata P625
+wd:Q124060764,Middlesbrough and Thornaby East,-1.25,54.56,England,wikidata P625
+wd:Q124077757,Stockton West,-1.41,54.54,England,wikidata P625
+wd:Q124201337,Chester North and Neston,-2.9545,53.2468,England,wikidata P625
+wd:Q124201391,Chester South and Eddisbury,-2.6828,53.1214,England,wikidata P625
+wd:Q124201395,Ellesmere Port and Bromborough,-2.9406,53.2919,England,wikidata P625
+wd:Q124201400,Whitehaven and Workington,-3.4172,54.478,England,wikidata P625
+wd:Q124217037,Leigh and Atherton,-2.5335,53.4925,England,wikidata P625
+wd:Q124217041,Bolton South and Walkden,-2.3908,53.546,England,wikidata P625
+wd:Q124217066,Worsley and Eccles,-2.4287,53.4703,England,wikidata P625
+wd:Q124217070,Pendle and Clitheroe,-2.2489,53.8726,England,wikidata P625
+wd:Q124217086,Blackley and Middleton South,-2.2117,53.5247,England,wikidata P625
+wd:Q124242202,Droitwich and Evesham,-2.05,52.16,England,wikidata P625
+wd:Q124255313,Bury St Edmunds and Stowmarket,0.8528,52.2774,England,wikidata P625
+wd:Q124255314,North Warwickshire and Bedworth,-1.7,52.5,England,wikidata P625
+wd:Q124255319,Kingswinford and South Staffordshire,-2.21,52.54,England,wikidata P625
+wd:Q124255322,Birmingham Hall Green and Moseley,-1.87,52.45,England,wikidata P625
+wd:Q124255323,Broadland and Fakenham,1.16,52.72,England,wikidata P625
+wd:Q124255325,Luton South and South Bedfordshire,-0.4065,51.8547,England,wikidata P625
+wd:Q124255329,Tipton and Wednesbury,-2.0446,52.5414,England,wikidata P625
+wd:Q124255334,Solihull West and Shirley,-1.82,52.4,England,wikidata P625
+wd:Q124255336,Meriden and Solihull East,-1.69,52.42,England,wikidata P625
+wd:Q124255351,Birmingham Hodge Hill and Solihull North,-1.79,52.495,England,wikidata P625
+wd:Q124528139,Sussex Weald,0.24,50.99,England,wikidata P625
+wd:Q124540258,Maidstone and Malling,0.47,51.29,England,wikidata P625
+wd:Q124793570,Rawmarsh and Conisbrough,-1.31,53.48,England,wikidata P625
+wd:Q124793659,Kingston upon Hull North and Cottingham,-0.37,53.78,England,wikidata P625
+wd:Q124793664,Kingston upon Hull West and Haltemprice,-0.41,53.74,England,wikidata P625
+wd:Q124803040,Brigg and Immingham,-0.35,53.64,England,wikidata P625
+wd:Q124803041,Great Grimsby and Cleethorpes,-0.0859,53.5625,England,wikidata P625
+wd:Q124811248,"Oldham West, Chadderton and Royton",-2.1,53.6,England,wikidata P625
+wd:Q125874211,Carmarthen,-4.1712,51.9373,Wales,wikidata P625
+wd:Q126690599,Rutland and Stamford,-0.5523,52.6993,England,wikidata P625
+wd:Q126734423,Brighton Kemptown and Peacehaven,-0.035,50.824,England,wikidata P625
+wd:Q126740766,Hove and Portslade,-0.175,50.834,England,wikidata P625
+wd:Q126746175,Cardiff East,-3.128,51.511,Wales,wikidata P625
+wd:Q126877467,Brent East,-0.23,51.55,England,wikidata P625
+wd:Q126877547,Bridgwater,-3.1069,51.1288,England,wikidata P625
+wd:Q126877727,Hampstead and Highgate,-0.173,51.556,England,wikidata P625
+wd:Q126877936,Bethnal Green and Stepney,-0.0564,51.5223,England,wikidata P625
+wd:Q126878028,Blackpool North and Fleetwood,-2.914,53.863,England,wikidata P625
+wd:Q126878313,Bristol North East,-2.53,51.4751,England,wikidata P625
+wd:Q126884224,Coventry East,-1.46,52.425,England,wikidata P625
+wd:Q126884241,Dudley,-2.11,52.52,England,wikidata P625
+wd:Q126884247,East Thanet,1.4,51.35,England,wikidata P625
+wd:Q126884270,Hitchin,-0.28,51.95,England,wikidata P625
+wd:Q126884276,Lowestoft,1.68,52.45,England,wikidata P625
+wd:Q126884283,Peckham,-0.0693,51.4772,England,wikidata P625
+wd:Q126884430,Mid Cheshire,-2.5157,53.2143,England,wikidata P625
+wd:Q126884434,South Devon,-3.7152,50.3499,England,wikidata P625
+wd:Q126884452,Manchester Rusholme,-2.2317,53.4574,England,wikidata P625
+wd:Q126884481,Tonbridge,0.24,50.99,England,wikidata P625
+wd:Q126884487,Spen Valley,-1.7,53.71,England,wikidata P625
+wd:Q126884489,South Shropshire,-2.65,52.53,England,wikidata P625
+wd:Q126884536,Wolverhampton West,-2.16,52.5885,England,wikidata P625
+wd:Q126884544,West Bromwich,-1.9939,52.5197,England,wikidata P625
+wd:Q126884548,North Northumberland,-1.91,55.51,England,wikidata P625
+wd:Q126884550,North Bedfordshire,-0.4,52.19,England,wikidata P625
+wd:Q126884553,Smethwick,-2.0,52.4833,England,wikidata P625
+wd:Q126884555,Shrewsbury,-2.86,52.72,England,wikidata P625
+wd:Q126884559,Selby,-1.079,53.777,England,wikidata P625
+wd:Q126884560,Salford,-2.2997,53.4937,England,wikidata P625
+wd:Q126884563,Rutherglen,-4.133,55.8136,Scotland,wikidata P625
+wd:Q126884573,Croydon East,-0.0443,51.3616,England,wikidata P625
+wd:Q126884582,Croydon West,-0.0976,51.382,England,wikidata P625
+wd:Q126884593,Edinburgh East and Musselburgh,-3.1052,55.9415,Scotland,wikidata P625
+wd:Q126884596,Lancaster and Wyre,-2.8126,53.898,England,wikidata P625
+wd:Q126884601,Newcastle upon Tyne East and Wallsend,-1.548,54.975,England,wikidata P625
+wd:Q126884606,Monmouthshire,-2.811,51.768,Wales,wikidata P625
+wd:Q126884614,Liverpool Garston,-2.864,53.359,England,wikidata P625
+wd:Q126884617,Lewisham North,-0.0357,51.4715,England,wikidata P625
+wd:Q126884622,Leeds South,-1.52,53.78,England,wikidata P625
+wd:Q126884695,Sherwood Forest,-1.13,53.07,England,wikidata P625
+wd:Q126890268,Dover and Deal,1.2766,51.1775,England,wikidata P625
+wd:Q126890286,Coatbridge and Bellshill,-4.06,55.885,Scotland,wikidata P625
+wd:Q126890298,Glenrothes and Mid Fife,-3.173,56.197,Scotland,wikidata P625
+wd:Q126890335,Cumbernauld and Kirkintilloch,-4.038,55.957,Scotland,wikidata P625
+wd:Q126890613,Lothian East,-2.7264,55.9475,Scotland,wikidata P625
+wd:Q126890677,Burton and Uttoxeter,-1.83,52.87,England,wikidata P625
+wd:Q126890782,Southend East and Rochford,0.81,51.55,England,wikidata P625
+wd:Q126890873,Cowdenbeath and Kirkcaldy,-3.2736,56.0992,Scotland,wikidata P625
+wd:Q126890929,Keighley and Ilkley,-1.838,53.896,England,wikidata P625
+wd:Q126890943,Southend West and Leigh,0.66,51.55,England,wikidata P625
+wd:Q126890982,Swindon North,-1.782,51.559,England,wikidata P625
+wd:Q126890992,Swindon South,-1.782,51.559,England,wikidata P625
+wd:Q126892704,Belfast South and Mid Down,-5.9098,54.5243,Northern Ireland,wikidata P625
+wd:Q126892714,Heywood and Middleton North,-2.21,53.57,England,wikidata P625
+wd:Q15216802,Esher,-0.37,51.35,England,wikidata P625
+wd:Q15225323,Horsham and Crawley,-0.233,51.092,England,wikidata P625
+wd:Q15226141,Howden,-0.865,53.747,England,wikidata P625
+wd:Q15226507,Huddersfield East,-1.7734,53.647,England,wikidata P625
+wd:Q15226511,Huddersfield West,-1.803,53.646,England,wikidata P625
+wd:Q16238708,North Armagh,-6.656,54.348,Northern Ireland,"wikidata P625 of constituency ""Armagh"""
+wd:Q16245864,Croydon South,-0.098,51.331,England,"wikidata P625 of constituency ""Croydon South"""
+wd:Q16247412,Holmfirth,-1.787,53.57,England,"wikidata place ""Holmfirth"" (Q2469027)"
+wd:Q16249522,Llandaff and Barry,-3.2133,51.4933,Wales,"wikidata place ""Llandaff"" (Q1244613)"
+wd:Q16249623,Luton East,-0.3914,51.8911,England,"wikidata place ""Luton"" (Q21683239), nudged 2.5 km by the direction in its name"
+wd:Q16258076,Nottingham Central,-1.1492,52.955,England,"wikidata place ""Nottingham"" (Q41262)"
+wd:Q16258460,Truro,-5.051,50.26,England,"wikidata place ""Truro"" (Q180803)"
+wd:Q16825287,Calne,-2.0043,51.4353,England,"wikidata place ""Calne"" (Q1235307)"
+wd:Q16829343,Denbigh Boroughs,-3.4157,53.1872,Wales,"wikidata place ""Denbigh"" (Q1186888)"
+wd:Q16830011,North Donegal,-8.0,55.0551,Ireland,"wikidata county ""Donegal"", nudged 15 km by the direction in its name"
+wd:Q16838362,North Galway,-9.4503,53.4996,Ireland,"wikidata county ""Galway"", nudged 15 km by the direction in its name"
+wd:Q16841372,Harrow,-0.3464,51.5836,England,"wikidata place ""Harrow"" (Q54961)"
+wd:Q16843334,Heywood,-2.219,53.59,England,"wikidata place ""Heywood"" (Q1013970)"
+wd:Q16846522,Brierley Hill,-2.1245,52.4795,England,"wikidata place ""Brierley Hill"" (Q2734868)"
+wd:Q16846570,Brighouse and Spenborough,-1.794,53.707,England,"wikidata place ""Brighouse"" (Q183296)"
+wd:Q16848872,Isle of Thanet,1.3808,51.3874,England,stand-in town Margate (OS Open Names)
+wd:Q16851951,Kensington North,-0.2,51.505,England,"wikidata P625 of constituency ""Kensington"""
+wd:Q16852387,Kincardine and Deeside,-3.719,56.069,Scotland,"wikidata place ""Kincardine"" (Q1011221)"
+wd:Q16931189,North Longford,-7.75,53.8018,Ireland,"wikidata county ""Longford"", nudged 15 km by the direction in its name"
+wd:Q16931364,Motherwell South,-3.9956,55.7666,Scotland,"wikidata place ""Motherwell"" (Q737547), nudged 2.5 km by the direction in its name"
+wd:Q16931796,North Sligo,-8.6667,54.3851,Ireland,"wikidata county ""Sligo"", nudged 15 km by the direction in its name"
+wd:Q16931805,Paisley North,-4.4239,55.8681,Scotland,"wikidata place ""Paisley"" (Q211870), nudged 2.5 km by the direction in its name"
+wd:Q16931901,Lambeth North,-0.1193,51.5128,England,"wikidata place ""Lambeth"" (Q148349), nudged 2.5 km by the direction in its name"
+wd:Q16932413,North Roscommon,-8.25,53.8851,Ireland,"wikidata county ""Roscommon"", nudged 15 km by the direction in its name"
+wd:Q16932616,West Perthshire,-4.1865,56.4917,Scotland,"wikidata county ""Perthshire"", nudged 15 km by the direction in its name"
+wd:Q16933074,New Shoreham,-0.2682,50.8329,England,"wikidata item ""New Shoreham"" (Q60576142)"
+wd:Q16933435,Newington West,-0.1267,51.4898,England,"wikidata place ""Walworth"" (Q1231883), nudged 2.5 km by the direction in its name"
+wd:Q16933457,Newry,-6.3492,54.1756,Northern Ireland,"wikidata place ""Newry"" (Q269980)"
+wd:Q16934096,Northallerton,-1.4285,54.3378,England,"wikidata place ""Northallerton"" (Q920381)"
+wd:Q16934113,North Tayside,-3.3389,56.5928,Scotland,stand-in town Blairgowrie (OS Open Names)
+wd:Q16934211,Nottingham West,-1.1866,52.955,England,"wikidata place ""Nottingham"" (Q41262), nudged 2.5 km by the direction in its name"
+wd:Q16950440,Manchester Clayton,-2.25,53.4167,England,"wikidata place ""Manchester"" (Q21525592)"
+wd:Q16950688,South East Derbyshire,-1.3797,53.003,England,"wikidata county ""Derbyshire"", nudged 15 km by the direction in its name"
+wd:Q16951964,Midlothian and Peebles,-3.1078,55.8217,Scotland,"wikidata P625 of constituency ""Midlothian"""
+wd:Q16958798,North Nottinghamshire,-1.004,53.2896,England,"wikidata county ""Nottinghamshire"", nudged 15 km by the direction in its name"
+wd:Q16992011,Liverpool Fairfield,-2.9392,53.4149,England,"OS Open Names ""Fairfield"""
+wd:Q16996254,Lewisham North,-0.0357,51.4715,England,"wikidata P625 of constituency ""Lewisham North"""
+wd:Q16998101,Morecambe and Lonsdale,-2.85,54.0667,England,"wikidata place ""Morecambe"" (Q985279)"
+wd:Q16998724,New Forest and Christchurch,-1.633,50.879,England,"wikidata place ""New Forest"" (Q1972541)"
+wd:Q16998873,Newham North West,-5.0798,50.277,England,"OS Open Names ""Newham"", nudged 2.5 km by the direction in its name"
+wd:Q17021531,Stroud and Thornbury,-2.28,51.74,England,"wikidata P625 of constituency ""Stroud"""
+wd:Q17035342,Wellington (Shropshire),-2.5157,52.7001,England,"wikidata place ""Wellington"" (Q1898698)"
+wd:Q17040072,Woolwich,0.0667,51.4917,England,"wikidata place ""Woolwich"" (Q1006232)"
+wd:Q17061963,South Wexford,-6.6667,52.3649,Ireland,"wikidata county ""Wexford"", nudged 15 km by the direction in its name"
+wd:Q18160399,Harrogate,-1.5378,53.9919,England,"wikidata place ""Harrogate"" (Q215829)"
+wd:Q18160409,The Hartlepools,-1.2667,54.65,England,wikidata P625
+wd:Q20586720,Cardiff Central,-3.15,51.504,Wales,"wikidata P625 of constituency ""Cardiff Central"""
+wd:Q2403157,Woodspring,-2.75,51.4,England,wikidata P625
+wd:Q24768,Exeter,-3.534,50.722,England,wikidata P625
+wd:Q253159,Paisley and Renfrewshire South,-4.485,55.814,Scotland,wikidata P625
+wd:Q26159921,Western Division of Suffolk,0.8145,52.2122,England,"wikidata county ""Suffolk"", nudged 15 km by the direction in its name"
+wd:Q262741,Cardiff South,-3.1792,51.4591,Wales,"wikidata place ""Cardiff"" (Q10690), nudged 2.5 km by the direction in its name"
+wd:Q269062,Mid Down,-5.94,54.36,Northern Ireland,"wikidata county ""Down"""
+wd:Q280886,Kingswood,-2.504,51.462,England,wikidata P625
+wd:Q290462,Radnor Boroughs,-3.16,52.24,Wales,"wikidata item ""Radnor"" (Q60576220)"
+wd:Q290823,Aberavon,-3.812,51.6,Wales,wikidata P625
+wd:Q299976,Aberconwy,-3.805,53.302,Wales,wikidata P625
+wd:Q299984,Aberdeen North,-2.135,57.176,Scotland,wikidata P625
+wd:Q299997,Aberdeen South,-2.133,57.095,Scotland,wikidata P625
+wd:Q3043035,Mid Derbyshire,-1.4,52.95,England,wikidata P625
+wd:Q30597380,Partick,-4.3028,55.8708,Scotland,"OS Open Names ""Partick"""
+wd:Q30607474,Thirsk and Malton,-0.9946,54.1984,England,"wikidata P625 of constituency ""Thirsk and Malton"""
+wd:Q3133785,Banff and Buchan,-2.451,57.472,Scotland,wikidata P625
+wd:Q3133809,Barking,0.11,51.53,England,wikidata P625
+wd:Q3133832,Barnsley East,-1.38,53.54,England,wikidata P625
+wd:Q3133856,Basildon and Billericay,0.44,51.6,England,wikidata P625
+wd:Q3133894,Batley and Spen,-1.635,53.717,England,wikidata P625
+wd:Q3133916,Battersea,-0.17,51.46,England,wikidata P625
+wd:Q3133970,Bermondsey and Old Southwark,-0.07,51.49,England,wikidata P625
+wd:Q3134016,"Berwickshire, Roxburgh and Selkirk",-2.411,55.776,Scotland,wikidata P625
+wd:Q3134130,Bethnal Green and Bow,-0.05,51.53,England,wikidata P625
+wd:Q3134150,Beverley and Holderness,-0.156,53.8,England,wikidata P625
+wd:Q3134165,Bexhill and Battle,0.47,50.886,England,wikidata P625
+wd:Q3134218,Blaydon,-1.7167,54.95,England,wikidata P625
+wd:Q3136714,Birmingham Northfield,-1.98,52.4,England,wikidata P625
+wd:Q3136734,Birmingham Perry Barr,-1.9042,52.5249,England,wikidata P625
+wd:Q3136751,Birmingham Selly Oak,-1.94,52.43,England,wikidata P625
+wd:Q3137325,Blackley and Broughton,-2.202,53.51,England,wikidata P625
+wd:Q3137610,Blackpool North and Cleveleys,-2.914,53.863,England,wikidata P625
+wd:Q3137641,Blaenau Gwent,-3.195,51.777,Wales,wikidata P625
+wd:Q3137665,Bognor Regis and Littlehampton,-0.599,50.799,England,wikidata P625
+wd:Q3137680,Bolsover,-1.3,53.23,England,wikidata P625
+wd:Q3137707,Bolton North East,-2.41,53.587,England,wikidata P625
+wd:Q3137734,Bolton South East,-2.4,53.566,England,wikidata P625
+wd:Q3137757,Boston and Skegness,0.02,53.0,England,wikidata P625
+wd:Q3137771,Bosworth,-1.4,52.6,England,wikidata P625
+wd:Q3137794,Bracknell,-0.75,51.42,England,wikidata P625
+wd:Q3137808,Bradford East,-1.74,53.8,England,wikidata P625
+wd:Q3137827,Bradford South,-1.7667,53.7667,England,wikidata P625
+wd:Q3137848,Brent Central,-0.25,51.55,England,wikidata P625
+wd:Q3137868,Brentwood and Ongar,0.23,51.68,England,wikidata P625
+wd:Q3137895,Bridgwater and West Somerset,-3.31,51.13,England,wikidata P625
+wd:Q3137917,Brigg and Goole,-0.8,53.55,England,wikidata P625
+wd:Q3137937,Brighton Kemptown,-0.035,50.824,England,wikidata P625
+wd:Q3137955,Bristol North West,-2.6178,51.5029,England,wikidata P625
+wd:Q3137980,Broadland,1.16,52.72,England,wikidata P625
+wd:Q3138034,Maldon,0.7279,51.6829,England,wikidata P625
+wd:Q3138076,Llanelli,-4.2258,51.7206,Wales,wikidata P625
+wd:Q3138091,Liverpool Wavertree,-2.9168,53.3996,England,wikidata P625
+wd:Q3138122,Leeds North West,-1.6,53.85,England,wikidata P625
+wd:Q3138145,Kingston upon Hull North,-0.3631,53.7697,England,wikidata P625
+wd:Q3138167,Kingston and Surbiton,-0.291,51.377,England,wikidata P625
+wd:Q3138197,Islington South and Finsbury,-0.106,51.538,England,wikidata P625
+wd:Q3138221,Houghton and Sunderland South,-1.4417,54.8583,England,wikidata P625
+wd:Q3138259,Halesowen and Rowley Regis,-2.05,52.45,England,wikidata P625
+wd:Q3138286,Hackney North and Stoke Newington,-0.07,51.56,England,wikidata P625
+wd:Q3138317,Filton and Bradley Stoke,-2.538,51.517,England,wikidata P625
+wd:Q3138335,Faversham and Mid Kent,0.8,51.25,England,wikidata P625
+wd:Q3138350,Falkirk,-3.8712,56.0324,Scotland,wikidata P625
+wd:Q3138391,Esher and Walton,-0.37,51.35,England,wikidata P625
+wd:Q3138417,Edinburgh South West,-3.3089,55.8833,Scotland,wikidata P625
+wd:Q3138439,Edinburgh North and Leith,-3.1997,55.9692,Scotland,wikidata P625
+wd:Q3138472,East Lothian,-2.7264,55.9475,Scotland,wikidata P625
+wd:Q3138501,Doncaster Central,-1.122,53.511,England,wikidata P625
+wd:Q3138528,Derbyshire Dales,-1.65,53.15,England,wikidata P625
+wd:Q3138553,Dartford,0.25,51.4167,England,wikidata P625
+wd:Q3138569,Dagenham and Rainham,0.17,51.53,England,wikidata P625
+wd:Q3138595,"Coatbridge, Chryston and Bellshill",-4.06,55.885,Scotland,wikidata P625
+wd:Q3138621,Chippenham,-2.2038,51.3811,England,wikidata P625
+wd:Q3138645,Cardiff Central,-3.15,51.504,Wales,wikidata P625
+wd:Q3138658,Cannock Chase,-2.0,52.7,England,wikidata P625
+wd:Q3231554,Bromsgrove,-2.1,52.4,England,wikidata P625
+wd:Q3231585,Broxbourne,-0.0667,51.7278,England,wikidata P625
+wd:Q3231619,Broxtowe,-1.25,52.9,England,wikidata P625
+wd:Q3231676,Croydon South,-0.098,51.331,England,wikidata P625
+wd:Q3231723,"Cumbernauld, Kilsyth and Kirkintilloch East",-4.038,55.957,Scotland,wikidata P625
+wd:Q3231747,Denton and Reddish,-2.1598,53.4378,England,wikidata P625
+wd:Q3231812,Derby North,-1.49,52.95,England,wikidata P625
+wd:Q3231892,Dwyfor Meirionnydd,-3.983,52.849,Wales,wikidata P625
+wd:Q3231914,Ealing Central and Acton,-0.28,51.51,England,wikidata P625
+wd:Q3235145,Burnley,-2.245,53.787,England,wikidata P625
+wd:Q3235146,Burton,-1.83,52.87,England,wikidata P625
+wd:Q3235346,Cities of London and Westminster,-0.13,51.51,England,wikidata P625
+wd:Q3238753,Bury North,-2.299,53.607,England,wikidata P625
+wd:Q3238774,Bury South,-2.299,53.58,England,wikidata P625
+wd:Q3238808,Caerphilly,-3.218,51.579,Wales,wikidata P625
+wd:Q3238840,"Caithness, Sutherland and Easter Ross",-3.779,58.277,Scotland,wikidata P625
+wd:Q3238861,Calder Valley,-1.937,53.705,England,wikidata P625
+wd:Q3238889,Camberwell and Peckham,-0.07,51.475,England,wikidata P625
+wd:Q3238907,Camborne and Redruth,-5.22,50.18,England,wikidata P625
+wd:Q3238926,Cardiff South and Penarth,-3.127,51.469,Wales,wikidata P625
+wd:Q3238943,Cardiff West,-3.214,51.486,Wales,wikidata P625
+wd:Q3238953,Carlisle,-2.937,54.879,England,wikidata P625
+wd:Q3238966,Carshalton and Wallington,-0.15,51.36,England,wikidata P625
+wd:Q3238981,Castle Point,0.57,51.54,England,wikidata P625
+wd:Q3238991,Central Ayrshire,-4.5677,55.5562,Scotland,wikidata P625
+wd:Q3239015,Central Devon,-3.9,50.7,England,wikidata P625
+wd:Q3239055,Central Suffolk and North Ipswich,1.15,52.2,England,wikidata P625
+wd:Q3239111,Chatham and Aylesford,0.4833,51.3333,England,wikidata P625
+wd:Q3239124,Cheadle,-2.204,53.396,England,wikidata P625
+wd:Q3239148,Chelmsford,0.4829,51.7249,England,wikidata P625
+wd:Q3239170,Chelsea and Fulham,-0.19,51.48,England,wikidata P625
+wd:Q3239188,Cheltenham,-2.078,51.89,England,wikidata P625
+wd:Q3285346,Manchester North West,-2.2878,53.4392,England,"wikidata place ""Manchester"" (Q21525592), nudged 2.5 km by the direction in its name"
+wd:Q3301627,Garston and Halewood,-2.87,53.358,England,wikidata P625
+wd:Q3301660,Gateshead,-1.5951,54.9435,England,wikidata P625
+wd:Q3301684,Gedling,-1.05,52.97,England,wikidata P625
+wd:Q3301704,Gillingham and Rainham,0.5667,51.3667,England,wikidata P625
+wd:Q3301747,Glasgow East,-4.1469,55.8556,Scotland,wikidata P625
+wd:Q3301764,Glasgow North,-4.2928,55.8942,Scotland,wikidata P625
+wd:Q3301796,Glasgow North East,-4.2158,55.8883,Scotland,wikidata P625
+wd:Q3301821,Glasgow North West,-4.3514,55.8911,Scotland,wikidata P625
+wd:Q3301842,Glasgow South,-4.2722,55.8128,Scotland,wikidata P625
+wd:Q3301862,Glasgow South West,-4.3386,55.8336,Scotland,wikidata P625
+wd:Q3301886,Glenrothes,-3.173,56.197,Scotland,wikidata P625
+wd:Q3301906,Gordon,-3.178,56.969,Scotland,wikidata P625
+wd:Q3301998,Gosport,-1.17,50.8,England,wikidata P625
+wd:Q3302028,Grantham and Stamford,-0.5,52.8,England,wikidata P625
+wd:Q3302057,Gravesham,0.3667,51.4,England,wikidata P625
+wd:Q3302105,Clacton,1.15,51.83,England,wikidata P625
+wd:Q3302128,Cleethorpes,-0.3,53.63,England,wikidata P625
+wd:Q3302172,Ellesmere Port and Neston,-2.969,53.276,England,wikidata P625
+wd:Q3302198,Elmet and Rothwell,-1.404,53.818,England,wikidata P625
+wd:Q3302232,Hereford and South Herefordshire,-2.7,52.0,England,wikidata P625
+wd:Q3302256,Hertford and Stortford,0.0167,51.8167,England,wikidata P625
+wd:Q3302282,Heywood and Middleton,-2.21,53.57,England,wikidata P625
+wd:Q3302305,High Peak,-1.85,53.35,England,wikidata P625
+wd:Q3302325,Inverclyde,-4.7528,55.9022,Scotland,wikidata P625
+wd:Q3302442,"Inverness, Nairn, Badenoch and Strathspey",-3.965,57.381,Scotland,wikidata P625
+wd:Q3302470,Kenilworth and Southam,-1.4,52.25,England,wikidata P625
+wd:Q3302490,Kensington,-0.2,51.505,England,wikidata P625
+wd:Q3334633,Chorley,-2.632,53.653,England,wikidata P625
+wd:Q3334655,Christchurch,-1.819,50.8079,England,wikidata P625
+wd:Q3334702,City of Chester,-2.9167,53.1667,England,wikidata P625
+wd:Q3335586,Congleton,-2.2667,53.15,England,wikidata P625
+wd:Q3335605,Copeland,-3.389,54.431,England,wikidata P625
+wd:Q3335626,Corby,-0.53,52.48,England,wikidata P625
+wd:Q3335749,Coventry North West,-1.56,52.43,England,wikidata P625
+wd:Q3335775,Coventry South,-1.51,52.39,England,wikidata P625
+wd:Q3335844,Crawley,-0.183,51.113,England,wikidata P625
+wd:Q3335863,Crewe and Nantwich,-2.4833,53.0833,England,wikidata P625
+wd:Q3335881,Croydon Central,-0.054,51.369,England,wikidata P625
+wd:Q3335941,Dudley North,-2.11,52.52,England,wikidata P625
+wd:Q3335964,Dudley South,-2.13,52.49,England,wikidata P625
+wd:Q3335993,Dulwich and West Norwood,-0.084,51.447,England,wikidata P625
+wd:Q3336017,Dumfries and Galloway,-3.608,55.069,Scotland,wikidata P625
+wd:Q3336059,"Dumfriesshire, Clydesdale and Tweeddale",-3.506,55.2,Scotland,wikidata P625
+wd:Q3336099,Lewisham East,-0.0063,51.4444,England,wikidata P625
+wd:Q3336117,Lewisham West and Penge,-0.05,51.43,England,wikidata P625
+wd:Q3336133,Linlithgow and East Falkirk,-3.663,55.993,Scotland,wikidata P625
+wd:Q3336139,Liverpool Riverside,-2.947,53.355,England,wikidata P625
+wd:Q3336187,Kirkcaldy and Cowdenbeath,-3.2736,56.0992,Scotland,wikidata P625
+wd:Q3336201,Knowsley,-2.828,53.461,England,wikidata P625
+wd:Q3336217,Lanark and Hamilton East,-3.777,55.6749,Scotland,wikidata P625
+wd:Q3336228,Lancaster and Fleetwood,-2.7059,54.0054,England,wikidata P625
+wd:Q3336696,Meriden,-1.71,52.4,England,wikidata P625
+wd:Q3336720,Meon Valley,-1.024,50.9,England,wikidata P625
+wd:Q3336746,Mansfield,-1.2,53.14,England,wikidata P625
+wd:Q3336781,Manchester Withington,-2.234,53.433,England,wikidata P625
+wd:Q3336813,Maidenhead,-0.72,51.54,England,wikidata P625
+wd:Q3336829,Macclesfield,-2.1333,53.3167,England,wikidata P625
+wd:Q3336848,Luton South,-0.4245,51.8732,England,wikidata P625
+wd:Q3336866,Luton North,-0.446,51.902,England,wikidata P625
+wd:Q3336884,Ludlow,-2.746,52.488,England,wikidata P625
+wd:Q3336909,Louth and Horncastle,0.0,53.3,England,wikidata P625
+wd:Q3336954,Ilford North,0.085,51.594,England,wikidata P625
+wd:Q3336979,Hyndburn,-2.382,53.768,England,wikidata P625
+wd:Q3336990,Huntingdon,-0.2575,52.3008,England,wikidata P625
+wd:Q3337022,Hornsey and Wood Green,-0.133,51.59,England,wikidata P625
+wd:Q3337041,Hornchurch and Upminster,0.22,51.58,England,wikidata P625
+wd:Q3337060,Holborn and St Pancras,-0.135,51.535,England,wikidata P625
+wd:Q3337106,Hendon,-0.2507,51.6125,England,wikidata P625
+wd:Q3337141,Hemsworth,-1.354,53.614,England,wikidata P625
+wd:Q3337168,Hemel Hempstead,-0.4952,51.7895,England,wikidata P625
+wd:Q3337181,Hazel Grove,-2.11,53.37,England,wikidata P625
+wd:Q3337210,Havant,-0.98,50.82,England,wikidata P625
+wd:Q3337224,Hastings and Rye,0.657,50.91,England,wikidata P625
+wd:Q3337248,Harwich and North Essex,1.02,51.92,England,wikidata P625
+wd:Q3337289,Harrogate and Knaresborough,-1.474,53.989,England,wikidata P625
+wd:Q3337305,Harlow,0.09,51.77,England,wikidata P625
+wd:Q3337330,Harborough,-1.0,52.5,England,wikidata P625
+wd:Q3337350,Hampstead and Kilburn,-0.194,51.549,England,wikidata P625
+wd:Q3337375,Hammersmith,-0.23,51.51,England,wikidata P625
+wd:Q3337393,Halton,-2.706,53.327,England,wikidata P625
+wd:Q3337409,Haltemprice and Howden,-0.689,53.796,England,wikidata P625
+wd:Q3337458,Erewash,-1.32,52.9,England,wikidata P625
+wd:Q3337484,Epsom and Ewell,-0.27,51.33,England,wikidata P625
+wd:Q3337505,Epping Forest,0.09,51.67,England,wikidata P625
+wd:Q3337569,Eddisbury,-2.6595,53.1162,England,wikidata P625
+wd:Q3337598,Eastleigh,-1.34,50.94,England,wikidata P625
+wd:Q3337618,Eastbourne,0.286,50.778,England,wikidata P625
+wd:Q3337642,East Yorkshire,-0.466,54.029,England,wikidata P625
+wd:Q3337670,East Worthing and Shoreham,-0.326,50.822,England,wikidata P625
+wd:Q3337694,"East Kilbride, Strathaven and Lesmahagow",-4.07,55.68,Scotland,wikidata P625
+wd:Q3337705,East Hampshire,-0.98,50.98,England,wikidata P625
+wd:Q3337719,East Ham,0.059,51.527,England,wikidata P625
+wd:Q3342877,North East Hampshire,-0.91,51.2,England,wikidata P625
+wd:Q3343077,West Dunbartonshire,-4.506,55.966,Scotland,wikidata P625
+wd:Q3398996,Conwy,-3.688,53.191,Wales,wikidata P625
+wd:Q3399026,Caernarfon,-4.308,52.976,Wales,wikidata P625
+wd:Q3399037,Lewisham West,-0.034,51.435,England,wikidata P625
+wd:Q3399074,Brent South,-0.2721,51.5456,England,wikidata P625
+wd:Q3403573,Poplar and Canning Town,0.0,51.515,England,wikidata P625
+wd:Q3403590,Brent East,-0.23,51.55,England,wikidata P625
+wd:Q3403595,Hampstead and Highgate,-0.173,51.556,England,wikidata P625
+wd:Q3403599,Meirionnydd Nant Conwy,-3.605,52.841,Wales,wikidata P625
+wd:Q3403605,Regent's Park and Kensington North,-0.187,51.527,England,wikidata P625
+wd:Q3403614,Sunderland North,-1.374,54.921,England,wikidata P625
+wd:Q3403624,Dagenham,0.157,51.555,England,wikidata P625
+wd:Q3403635,"Ealing, Acton and Shepherd's Bush",-0.26,51.517,England,wikidata P625
+wd:Q368216,Hammersmith and Fulham,-0.21,51.48,England,wikidata P625
+wd:Q372802,Dublin College Green,-6.2603,53.3497,Ireland,"wikidata place ""Dublin"" (Q1761)"
+wd:Q373667,Mid Sussex,-0.115,51.033,England,wikidata P625
+wd:Q382733,Newcastle upon Tyne East and Wallsend,-1.548,54.975,England,wikidata P625
+wd:Q386926,Newham North East,-5.0093,50.277,England,"OS Open Names ""Newham"", nudged 2.5 km by the direction in its name"
+wd:Q389529,West Monmouthshire,-2.811,51.768,Wales,"wikidata P625 of constituency ""Monmouthshire"""
+wd:Q3939625,Rochester,0.5,51.3833,England,wikidata P625
+wd:Q3939637,Rochester and Chatham,0.5167,51.3833,England,wikidata P625
+wd:Q4116294,Falmouth and Camborne,-5.18,50.195,England,wikidata P625
+wd:Q4119957,Pontefract and Castleford,-1.316,53.708,England,wikidata P625
+wd:Q4119959,Westbury,-2.186,51.26,England,wikidata P625
+wd:Q4119961,Salford,-2.2997,53.4937,England,"wikidata P625 of constituency ""Salford"""
+wd:Q4119965,Leominster,-2.7,52.22,England,wikidata P625
+wd:Q4119967,Harwich,1.24,51.86,England,wikidata P625
+wd:Q4119969,St Helens South,-2.731,53.448,England,wikidata P625
+wd:Q4119972,Taunton,-3.1,51.0192,England,"wikidata place ""Taunton"" (Q845619)"
+wd:Q4119975,Normanton,-1.415,53.7,England,wikidata P625
+wd:Q4119978,Bridgwater,-3.1069,51.1288,England,"wikidata P625 of constituency ""Bridgwater"""
+wd:Q4119980,North Essex,0.565,51.8942,England,"wikidata county ""Essex"", nudged 15 km by the direction in its name"
+wd:Q4119982,Kensington and Chelsea,-0.186,51.494,England,wikidata P625
+wd:Q4119986,Sheffield Hillsborough,-1.488,53.408,England,wikidata P625
+wd:Q4119988,Sheffield Brightside,-1.444,53.409,England,wikidata P625
+wd:Q4120170,Crosby,-3.029,53.491,England,wikidata P625
+wd:Q4120184,Hereford,-2.7,52.0,England,wikidata P625
+wd:Q4120186,Manchester Blackley,-2.202,53.51,England,wikidata P625
+wd:Q4120287,City of York,-1.0833,53.95,England,"wikidata place ""York"" (Q42462)"
+wd:Q4120298,Blaby,-1.2,52.5,England,wikidata P625
+wd:Q4120305,Plymouth Sutton,-4.14,50.37,England,wikidata P625
+wd:Q4120309,West Derbyshire,-1.65,53.1,England,wikidata P625
+wd:Q4164454,Plymouth Devonport,-4.14,50.41,England,wikidata P625
+wd:Q42112330,Hammersmith,-0.23,51.51,England,"wikidata P625 of constituency ""Hammersmith"""
+wd:Q42112391,Hammersmith,-0.23,51.51,England,"wikidata P625 of constituency ""Hammersmith"""
+wd:Q42112914,Chelmsford,0.4829,51.7249,England,"wikidata P625 of constituency ""Chelmsford"""
+wd:Q42112985,Barnsley East,-1.38,53.54,England,"wikidata P625 of constituency ""Barnsley East"""
+wd:Q42113308,Fulham,-0.2138,51.4767,England,"wikidata place ""Fulham"" (Q3367868)"
+wd:Q42113982,Westminster North,-0.18,51.525,England,"wikidata P625 of constituency ""Westminster North"""
+wd:Q42114169,Kensington,-0.2,51.505,England,"wikidata P625 of constituency ""Kensington"""
+wd:Q42114651,Arundel,-0.5547,50.8547,England,"wikidata place ""Arundel"" (Q716658)"
+wd:Q42114757,Lancaster,-2.801,54.047,England,"wikidata place ""Lancaster"" (Q168052)"
+wd:Q42114870,Edinburgh East,-3.1414,55.9441,Scotland,"wikidata P625 of constituency ""Edinburgh East"""
+wd:Q42114937,Glasgow Central,-4.2717,55.8416,Scotland,"wikidata P625 of constituency ""Glasgow Central"""
+wd:Q42114997,Newcastle upon Tyne East,-1.57,54.99,England,"wikidata P625 of constituency ""Newcastle upon Tyne East"""
+wd:Q42122454,West Ham South,0.013,51.54,England,"wikidata P625 of constituency ""West Ham"""
+wd:Q42122456,West Ham North,0.013,51.54,England,"wikidata P625 of constituency ""West Ham"""
+wd:Q42296848,Merthyr Tydfil,-3.3781,51.7472,Wales,"wikidata place ""Merthyr Tydfil"" (Q752762)"
+wd:Q42296850,East Aberdeenshire,-2.4174,57.1667,Scotland,"wikidata county ""Aberdeenshire"", nudged 15 km by the direction in its name"
+wd:Q42296856,Chippenham,-2.2038,51.3811,England,"wikidata P625 of constituency ""Chippenham"""
+wd:Q42297573,Somerset North,-2.9,51.1225,England,"wikidata item ""Somerset"" (Q21694741), nudged 2.5 km by the direction in its name"
+wd:Q42297589,Renfrewshire East,-4.2677,55.8416,Scotland,"wikidata county ""Renfrewshire"", nudged 15 km by the direction in its name"
+wd:Q42297603,Bedford,-0.46,52.14,England,"wikidata P625 of constituency ""Bedford"""
+wd:Q42297607,Bethnal Green and Bow,-0.05,51.53,England,"wikidata P625 of constituency ""Bethnal Green and Bow"""
+wd:Q42297626,Somersetshire Northern,-2.4987,51.4162,England,stand-in town Keynsham (OS Open Names)
+wd:Q42298168,Central Ayrshire,-4.5677,55.5562,Scotland,"wikidata P625 of constituency ""Central Ayrshire"""
+wd:Q42298185,Renfrewshire West,-4.749,55.8416,Scotland,"wikidata county ""Renfrewshire"", nudged 15 km by the direction in its name"
+wd:Q42298195,Motherwell and Wishaw,-3.9501,55.7822,Scotland,"wikidata P625 of constituency ""Motherwell and Wishaw"""
+wd:Q42298198,Liverpool Wavertree,-2.9168,53.3996,England,"wikidata P625 of constituency ""Liverpool Wavertree"""
+wd:Q42298201,Huntingdonshire,-0.2205,52.3813,England,"wikidata county ""Huntingdonshire"""
+wd:Q42298207,Cambridgeshire,0.0441,52.3297,England,"wikidata county ""Cambridgeshire"""
+wd:Q42298233,Dunbartonshire East,-4.2886,55.96,Scotland,"wikidata county ""Dunbartonshire"", nudged 15 km by the direction in its name"
+wd:Q42298234,Dunbartonshire West,-4.7714,55.96,Scotland,"wikidata county ""Dunbartonshire"", nudged 15 km by the direction in its name"
+wd:Q42298243,Hemel Hempstead,-0.4952,51.7895,England,"wikidata P625 of constituency ""Hemel Hempstead"""
+wd:Q42298245,Gainsborough,-0.5,53.35,England,"wikidata P625 of constituency ""Gainsborough"""
+wd:Q42298258,Bermondsey,-0.0757,51.4986,England,"wikidata place ""Bermondsey"" (Q822040)"
+wd:Q426019,Newham South,-5.0445,50.2319,England,"OS Open Names ""Newham"", nudged 2.5 km by the direction in its name"
+wd:Q42868210,Aberdeenshire West,-2.9159,57.1667,Scotland,"wikidata county ""Aberdeenshire"", nudged 15 km by the direction in its name"
+wd:Q42890711,Londonderry County,-6.85,54.92,Northern Ireland,"wikidata county ""Londonderry"""
+wd:Q42890828,Nottingham West,-1.1866,52.955,England,"wikidata place ""Nottingham"" (Q41262), nudged 2.5 km by the direction in its name"
+wd:Q42890858,Essex South Eastern,0.7827,51.624,England,"wikidata county ""Essex"", nudged 15 km by the direction in its name"
+wd:Q42890905,Kingston upon Hull Central,-0.3325,53.7444,England,"wikidata place ""Kingston upon Hull"" (Q128147)"
+wd:Q42890987,Reading,-0.9731,51.4542,England,wikidata P625
+wd:Q42891012,Reading South,-0.9731,51.4542,England,"wikidata P625 of constituency ""Reading"""
+wd:Q42891026,Reading North,-0.9731,51.4542,England,"wikidata P625 of constituency ""Reading"""
+wd:Q42960028,Bromsgrove,-2.1,52.4,England,"wikidata P625 of constituency ""Bromsgrove"""
+wd:Q42960987,Poplar,-0.0178,51.5066,England,"wikidata place ""Poplar"" (Q123360)"
+wd:Q42961919,Billericay,0.4184,51.628,England,"wikidata place ""Billericay"" (Q862832)"
+wd:Q42965644,Bradford East,-1.74,53.8,England,"wikidata P625 of constituency ""Bradford East"""
+wd:Q42965738,Windsor,-0.6998,51.4349,England,"wikidata P625 of constituency ""Windsor"""
+wd:Q42965824,Northamptonshire South,-0.8101,52.1815,England,"wikidata county ""Northamptonshire"", nudged 15 km by the direction in its name"
+wd:Q42965826,Northamptonshire Southern,-0.8101,52.1815,England,"wikidata county ""Northamptonshire"", nudged 15 km by the direction in its name"
+wd:Q42965986,Scarborough and Whitby,-0.56,54.37,England,"wikidata P625 of constituency ""Scarborough and Whitby"""
+wd:Q42965997,Scarborough,-0.4,54.2825,England,"wikidata place ""Scarborough"" (Q743521)"
+wd:Q42966305,Sedgefield,-1.5,54.6,England,"wikidata P625 of constituency ""Sedgefield"""
+wd:Q42967186,Coventry South,-1.51,52.39,England,"wikidata P625 of constituency ""Coventry South"""
+wd:Q42967363,Kingston upon Hull North,-0.3631,53.7697,England,"wikidata P625 of constituency ""Kingston upon Hull North"""
+wd:Q42967475,Kingston upon Hull West,-0.561,53.7444,England,"wikidata place ""Kingston upon Hull"" (Q128147), nudged 15 km by the direction in its name"
+wd:Q42967535,Horsham,-0.3362,51.0434,England,"wikidata P625 of constituency ""Horsham"""
+wd:Q42967606,Horsham,-0.3362,51.0434,England,"wikidata P625 of constituency ""Horsham"""
+wd:Q42967723,Nottingham East,-1.13,52.96,England,"wikidata P625 of constituency ""Nottingham East"""
+wd:Q42967795,Nottingham South,-1.17,52.92,England,"wikidata P625 of constituency ""Nottingham South"""
+wd:Q42968204,Leicester East,-1.08,52.64,England,"wikidata P625 of constituency ""Leicester East"""
+wd:Q42968276,Leicester South,-1.14,52.6,England,"wikidata P625 of constituency ""Leicester South"""
+wd:Q42968338,Leicester West,-1.16,52.65,England,"wikidata P625 of constituency ""Leicester West"""
+wd:Q42968989,Birmingham Erdington,-1.87,52.51,England,"wikidata P625 of constituency ""Birmingham Erdington"""
+wd:Q43021273,Antrim,-6.28,54.865,Northern Ireland,"wikidata county ""Antrim"""
+wd:Q43021337,Antrim East,-6.0452,54.865,Northern Ireland,"wikidata county ""Antrim"", nudged 15 km by the direction in its name"
+wd:Q43021405,Antrim North,-6.28,55.0001,Northern Ireland,"wikidata county ""Antrim"", nudged 15 km by the direction in its name"
+wd:Q43021449,Antrim South,-6.28,54.7299,Northern Ireland,"wikidata county ""Antrim"", nudged 15 km by the direction in its name"
+wd:Q43021619,County Louth,-6.5,53.8333,Ireland,"wikidata county ""County Louth"""
+wd:Q43021882,County Armagh,-6.65,54.35,Northern Ireland,"wikidata county ""County Armagh"""
+wd:Q43022046,Belfast East,-5.8928,54.5983,Northern Ireland,"wikidata P625 of constituency ""Belfast East"""
+wd:Q43022117,Belfast North,-5.965,54.663,Northern Ireland,"wikidata P625 of constituency ""Belfast North"""
+wd:Q43022190,Belfast South,-5.9251,54.5824,Northern Ireland,"wikidata P625 of constituency ""Belfast South"""
+wd:Q43022233,Belfast West,-5.9566,54.6063,Northern Ireland,"wikidata P625 of constituency ""Belfast West"""
+wd:Q43022373,Dublin University,-6.2546,53.3438,Ireland,hand: university seat placed at Trinity College Dublin
+wd:Q43039373,Croydon North,-0.0984,51.4025,England,"wikidata P625 of constituency ""Croydon North"""
+wd:Q43039468,Beverley,-0.4316,53.8425,England,"wikidata place ""Beverley"" (Q851718)"
+wd:Q43039538,Beverley,-0.4316,53.8425,England,"wikidata place ""Beverley"" (Q851718)"
+wd:Q43039623,Leeds Central,-1.5308,53.7775,England,"wikidata P625 of constituency ""Leeds Central"""
+wd:Q43039627,Leeds East,-1.463,53.8103,England,"wikidata P625 of constituency ""Leeds East"""
+wd:Q43039739,Broxtowe,-1.25,52.9,England,"wikidata P625 of constituency ""Broxtowe"""
+wd:Q43039860,Stroud,-2.28,51.74,England,"wikidata P625 of constituency ""Stroud"""
+wd:Q43287372,Gateshead,-1.5951,54.9435,England,"wikidata P625 of constituency ""Gateshead"""
+wd:Q43287479,Stone,-2.1724,52.8724,England,"wikidata P625 of constituency ""Stone"""
+wd:Q43287505,Stourbridge,-2.13,52.45,England,"wikidata P625 of constituency ""Stourbridge"""
+wd:Q43287529,Lichfield,-1.8203,52.755,England,"wikidata P625 of constituency ""Lichfield"""
+wd:Q43288228,Forest of Dean,-2.4321,51.9068,England,"wikidata P625 of constituency ""Forest of Dean"""
+wd:Q43288260,Stockport,-2.1696,53.4108,England,"wikidata P625 of constituency ""Stockport"""
+wd:Q43288529,Sheffield Central,-1.4644,53.3756,England,"wikidata P625 of constituency ""Sheffield Central"""
+wd:Q43289496,Preston,-2.6915,53.7721,England,"wikidata P625 of constituency ""Preston"""
+wd:Q43291052,Huddersfield,-1.7584,53.6565,England,"wikidata P625 of constituency ""Huddersfield"""
+wd:Q43291088,Bristol East,-2.53,51.45,England,"wikidata P625 of constituency ""Bristol East"""
+wd:Q43291100,Wansbeck,-1.6354,55.1657,England,"wikidata P625 of constituency ""Wansbeck"""
+wd:Q43291110,Fylde,-2.9035,53.7987,England,"wikidata P625 of constituency ""Fylde"""
+wd:Q43291129,Eddisbury,-2.6595,53.1162,England,"wikidata P625 of constituency ""Eddisbury"""
+wd:Q43291154,Stafford,-2.1346,52.7792,England,"wikidata P625 of constituency ""Stafford"""
+wd:Q43291180,Derbyshire Mid,-1.6043,53.1381,England,"wikidata county ""Derbyshire"""
+wd:Q43291190,Derbyshire Southern,-1.6043,53.003,England,"wikidata county ""Derbyshire"", nudged 15 km by the direction in its name"
+wd:Q43291215,Wentworth,-1.375,53.475,England,"wikidata P625 of constituency ""Wentworth"""
+wd:Q43291242,Lewisham East,-0.0063,51.4444,England,"wikidata P625 of constituency ""Lewisham East"""
+wd:Q43291276,Daventry,-1.08,52.3,England,"wikidata P625 of constituency ""Daventry"""
+wd:Q43291296,Fareham,-1.2112,50.8576,England,"wikidata P625 of constituency ""Fareham"""
+wd:Q43291321,Portsmouth North,-1.0628,50.8428,England,"wikidata P625 of constituency ""Portsmouth North"""
+wd:Q43291340,Plymouth Drake,-4.1352,50.3783,England,"wikidata item ""Drake"" (Q5305586)"
+wd:Q43291368,Rye,0.7333,50.95,England,"wikidata place ""Rye"" (Q1020800)"
+wd:Q43291394,Blackburn,-2.5,53.74,England,"wikidata P625 of constituency ""Blackburn"""
+wd:Q43291494,Hackney Central,-0.0595,51.5433,England,"wikidata place ""Hackney"" (Q58888182)"
+wd:Q45137253,Tamworth,-1.7514,52.6244,England,"wikidata P625 of constituency ""Tamworth"""
+wd:Q45137456,Hendon,-0.2507,51.6125,England,"wikidata P625 of constituency ""Hendon"""
+wd:Q45369953,National University of Ireland,-6.2603,53.3498,Ireland,hand: university seat placed at Dublin
+wd:Q45370367,King's County,-7.4889,53.2739,Ireland,stand-in town Tullamore (GeoNames)
+wd:Q45370463,Down,-5.94,54.36,Northern Ireland,"wikidata county ""Down"""
+wd:Q45370545,Down North,-5.94,54.4951,Northern Ireland,"wikidata county ""Down"", nudged 15 km by the direction in its name"
+wd:Q45370635,Down South,-5.94,54.2249,Northern Ireland,"wikidata county ""Down"", nudged 15 km by the direction in its name"
+wd:Q45373600,County Waterford,-7.5,52.25,Ireland,"wikidata county ""County Waterford"""
+wd:Q4544828,Wenlock,-2.558,52.5966,England,"wikidata item ""Wenlock"" (Q60576064)"
+wd:Q45583697,Arfon,-4.2,53.2,Wales,"wikidata P625 of constituency ""Arfon"""
+wd:Q45584112,Tewkesbury,-2.0733,51.935,England,"wikidata P625 of constituency ""Tewkesbury"""
+wd:Q45584819,Christchurch,-1.819,50.8079,England,"wikidata P625 of constituency ""Christchurch"""
+wd:Q45585899,Medway,0.5,51.4333,England,"wikidata P625 of constituency ""Medway"""
+wd:Q45586413,Battersea,-0.17,51.46,England,"wikidata P625 of constituency ""Battersea"""
+wd:Q45586856,Norfolk Mid,0.9493,52.6726,England,"wikidata county ""Norfolk"""
+wd:Q45587614,Norfolk Eastern,1.1722,52.6726,England,"wikidata county ""Norfolk"", nudged 15 km by the direction in its name"
+wd:Q45588003,Norfolk North Western,0.7258,52.8077,England,"wikidata county ""Norfolk"", nudged 15 km by the direction in its name"
+wd:Q45588543,Woolwich,0.0667,51.4917,England,"wikidata place ""Woolwich"" (Q1006232)"
+wd:Q45589237,Walthamstow,-0.0208,51.5849,England,"wikidata P625 of constituency ""Walthamstow"""
+wd:Q45590095,Middlesbrough,-1.2239,54.5589,England,"wikidata P625 of constituency ""Middlesbrough"""
+wd:Q45590543,Rhondda,-3.491,51.6548,Wales,"wikidata P625 of constituency ""Rhondda"""
+wd:Q45591236,Bradford West,-1.79,53.8,England,"wikidata P625 of constituency ""Bradford West"""
+wd:Q45591650,Truro,-5.051,50.26,England,"wikidata place ""Truro"" (Q180803)"
+wd:Q45592119,Pudsey,-1.6595,53.8379,England,"wikidata P625 of constituency ""Pudsey"""
+wd:Q45592559,Wokingham,-0.9891,51.408,England,"wikidata P625 of constituency ""Wokingham"""
+wd:Q45593009,Birkenhead,-3.01,53.36,England,"wikidata P625 of constituency ""Birkenhead"""
+wd:Q45594683,Durham North Western,-1.8492,54.8639,England,"wikidata county ""Durham"", nudged 15 km by the direction in its name"
+wd:Q45595036,Durham Northern,-1.6143,54.8639,England,"wikidata county ""Durham"", nudged 15 km by the direction in its name"
+wd:Q45595768,Stratford-on-Avon,-1.7,52.15,England,"wikidata P625 of constituency ""Stratford-on-Avon"""
+wd:Q45596360,Tottenham,-0.083,51.5868,England,"wikidata P625 of constituency ""Tottenham"""
+wd:Q45596785,Tower Hamlets Stepney,-0.0462,51.5152,England,"wikidata place ""Stepney"" (Q123627)"
+wd:Q45597309,New Forest,-1.633,50.879,England,"wikidata place ""New Forest"" (Q1972541)"
+wd:Q45819791,Finsbury,-0.0925,51.5224,England,"wikidata place ""Finsbury"" (Q1817328)"
+wd:Q4666848,Aberdare,-3.445,51.7131,Wales,"wikidata place ""Aberdare"" (Q319369)"
+wd:Q4666874,Aberdeen,-2.1,57.15,Scotland,"wikidata place ""Aberdeen"" (Q36405)"
+wd:Q4666895,Aberdeen Central,-2.1,57.15,Scotland,"wikidata place ""Aberdeen"" (Q36405)"
+wd:Q4667014,Aberdeen and Kincardine Central,-2.1,57.15,Scotland,"wikidata place ""Aberdeen"" (Q36405)"
+wd:Q4667015,Aberdeen and Kincardine East,-2.0585,57.15,Scotland,"wikidata place ""Aberdeen"" (Q36405), nudged 2.5 km by the direction in its name"
+wd:Q4667029,Aberdeenshire,-2.6667,57.1667,Scotland,"wikidata county ""Aberdeenshire"""
+wd:Q4667193,Abertillery,-3.13,51.73,Wales,"wikidata place ""Abertillery"" (Q2272537)"
+wd:Q4667818,Abingdon,-1.2828,51.6669,England,"wikidata item ""Abingdon"" (Q60576258)"
+wd:Q4672871,Accrington,-2.3638,53.7534,England,"wikidata place ""Accrington"" (Q1622949)"
+wd:Q4677662,Acton,-0.2627,51.5105,England,"wikidata place ""Acton"" (Q83609)"
+wd:Q47365734,Gloucestershire Western,-2.4011,51.806,England,"wikidata county ""Gloucestershire"", nudged 15 km by the direction in its name"
+wd:Q47365833,Leicestershire Southern,-1.1618,52.5651,England,"wikidata county ""Leicestershire"", nudged 15 km by the direction in its name"
+wd:Q47365891,Devon Northern,-3.8059,50.8528,England,"wikidata county ""Devon"", nudged 15 km by the direction in its name"
+wd:Q47365895,Devon Eastern,-3.5925,50.7176,England,"wikidata county ""Devon"", nudged 15 km by the direction in its name"
+wd:Q4736985,Altrincham,-2.3557,53.3834,England,"wikidata place ""Altrincham"" (Q445058)"
+wd:Q4736997,Altrincham and Sale,-2.3557,53.3834,England,"wikidata place ""Altrincham"" (Q445058)"
+wd:Q47412612,Salford,-2.2997,53.4937,England,"wikidata P625 of constituency ""Salford"""
+wd:Q47412653,Worcestershire Western,-2.3856,52.2197,England,"wikidata county ""Worcestershire"", nudged 15 km by the direction in its name"
+wd:Q47412714,Warwickshire Northern,-1.5847,52.4686,England,"wikidata county ""Warwickshire"", nudged 15 km by the direction in its name"
+wd:Q47412741,Caernarvonshire,-4.16,53.0824,Wales,"wikidata item ""Caernarvonshire"" (Q60595439)"
+wd:Q47412893,Surrey Eastern,-0.1957,51.2597,England,"wikidata county ""Surrey"", nudged 15 km by the direction in its name"
+wd:Q47412942,Leitrim,-8.0,54.1167,Ireland,"wikidata county ""Leitrim"""
+wd:Q47412987,Longford,-7.75,53.6667,Ireland,"wikidata county ""Longford"""
+wd:Q47413022,Lanarkshire Northern,-3.8333,55.5833,Scotland,"wikidata P625 of constituency ""Lanarkshire"""
+wd:Q47413111,Shropshire Northern,-2.7105,52.7882,England,"wikidata county ""Shropshire"", nudged 15 km by the direction in its name"
+wd:Q47413158,Wiltshire Northern,-1.9149,51.4424,England,"wikidata county ""Wiltshire"", nudged 15 km by the direction in its name"
+wd:Q47413358,Queen's County,-7.2998,53.0344,Ireland,stand-in town Portlaoise (GeoNames)
+wd:Q47413659,Southwark,-0.0901,51.4988,England,"wikidata place ""Southwark"" (Q5273898)"
+wd:Q47413748,Westmeath,-7.5,53.5,Ireland,"wikidata county ""Westmeath"""
+wd:Q47413844,Westmorland,-2.5833,54.5,England,"wikidata county ""Westmorland"""
+wd:Q47504686,Bridgwater,-3.1069,51.1288,England,"wikidata P625 of constituency ""Bridgwater"""
+wd:Q47517304,Ashburton,-3.751,50.517,England,"wikidata place ""Ashburton"" (Q724915)"
+wd:Q47517315,Reigate,-0.1994,51.2587,England,"wikidata P625 of constituency ""Reigate"""
+wd:Q47517318,Essex Northern,0.565,51.8942,England,"wikidata county ""Essex"", nudged 15 km by the direction in its name"
+wd:Q47517321,Staffordshire Southern,-2.0532,52.6752,England,"wikidata county ""Staffordshire"", nudged 15 km by the direction in its name"
+wd:Q4754596,Andover,-1.4667,51.2167,England,"wikidata place ""Andover"" (Q492805)"
+wd:Q4777327,Antrim,-6.28,54.865,Northern Ireland,"wikidata county ""Antrim"""
+wd:Q4781304,Appleby,-0.5616,53.6232,England,"OS Open Names ""Appleby"""
+wd:Q4789860,Argyllshire,-5.0742,56.2306,Scotland,stand-in town Inveraray (OS Open Names)
+wd:Q4792577,Armagh,-6.656,54.348,Northern Ireland,wikidata P625
+wd:Q4792584,Armagh City,-6.656,54.348,Northern Ireland,"wikidata P625 of constituency ""Armagh"""
+wd:Q4802225,Arundel,-0.5547,50.8547,England,"wikidata place ""Arundel"" (Q716658)"
+wd:Q4802243,Arundel and Shoreham,-0.5547,50.8547,England,"wikidata place ""Arundel"" (Q716658)"
+wd:Q4804663,Ashburton,-3.751,50.517,England,"wikidata place ""Ashburton"" (Q724915)"
+wd:Q4810984,Aston Manor,-1.89,52.5,England,"wikidata item ""Aston Manor"" (Q4810982)"
+wd:Q4815604,Athlone,-7.9425,53.4236,Ireland,"wikidata place ""Athlone"" (Q369911)"
+wd:Q4831609,Ayr,-4.6278,55.4639,Scotland,"wikidata place ""Ayr"" (Q654216)"
+wd:Q4831620,Ayr Burghs,-4.6278,55.4639,Scotland,"wikidata place ""Ayr"" (Q654216)"
+wd:Q4831674,Ayrshire,-4.6358,55.4611,Scotland,"wikidata county ""Ayrshire"""
+wd:Q4850815,Balham and Tooting,-0.1525,51.4434,England,"wikidata place ""Balham"" (Q804946)"
+wd:Q4854880,Banffshire,-3.0833,57.5,Scotland,"wikidata county ""Banffshire"""
+wd:Q4861118,Barkston Ash,-1.2542,53.8191,England,"OS Open Names ""Barkston Ash"""
+wd:Q4861421,Barnard Castle,-1.92,54.55,England,"wikidata place ""Barnard Castle"" (Q808437)"
+wd:Q4861592,Barnet,-0.1997,51.6444,England,"wikidata place ""Barnet"" (Q2884709)"
+wd:Q4861894,Barnsley,-1.4789,53.5536,England,"wikidata place ""Barnsley"" (Q54212)"
+wd:Q4861921,Barnsley East and Mexborough,-1.361,53.531,England,wikidata P625
+wd:Q4861936,Barnsley West and Penistone,-1.591,53.556,England,wikidata P625
+wd:Q4861963,Barnstaple,-4.0489,51.0823,England,"wikidata place ""Barnstaple"" (Q808532)"
+wd:Q4862991,Barons Court,-0.22,51.49,England,wikidata P625
+wd:Q4863950,Barry,-3.2667,51.4064,Wales,"wikidata place ""Barry"" (Q809009)"
+wd:Q4867302,Basildon,0.4,51.52,England,wikidata P625
+wd:Q4869322,Batley and Morley,-1.6356,53.7167,England,"wikidata place ""Batley"" (Q810847)"
+wd:Q4869752,Battersea North,-0.17,51.46,England,"wikidata P625 of constituency ""Battersea"""
+wd:Q4869757,Battersea South,-0.17,51.46,England,"wikidata P625 of constituency ""Battersea"""
+wd:Q4877528,Beaumaris,-4.094,53.263,Wales,"wikidata place ""Beaumaris"" (Q1992389)"
+wd:Q4878435,Bebington and Ellesmere Port,-3.003,53.35,England,"wikidata place ""Bebington"" (Q813552)"
+wd:Q4878437,Bebington,-3.003,53.35,England,"wikidata place ""Bebington"" (Q813552)"
+wd:Q4879234,Bedfordshire,-0.4216,52.0543,England,"wikidata county ""Bedfordshire"""
+wd:Q4879467,Bedwellty,-3.2068,51.6963,Wales,"OS Open Names ""Bedwellty"""
+wd:Q4880135,Beeston,-1.2156,52.9267,England,"wikidata place ""Beeston"" (Q814121)"
+wd:Q4882236,Belfast,-5.93,54.5967,Northern Ireland,"wikidata place ""Belfast"" (Q10686)"
+wd:Q4882269,Belfast Cromac,-5.93,54.5967,Northern Ireland,"wikidata place ""Belfast"" (Q10686)"
+wd:Q4882276,Belfast Duncairn,-5.93,54.5967,Northern Ireland,"wikidata place ""Belfast"" (Q10686)"
+wd:Q4882283,Belfast Falls,-5.93,54.5967,Northern Ireland,"wikidata place ""Belfast"" (Q10686)"
+wd:Q4882315,Belfast Ormeau,-5.93,54.5967,Northern Ireland,"wikidata place ""Belfast"" (Q10686)"
+wd:Q4882317,Belfast Pottinger,-5.898,54.594,Northern Ireland,"wikidata item ""Pottinger"" (Q7235361)"
+wd:Q4882327,Belfast Shankill,-5.93,54.5967,Northern Ireland,"wikidata place ""Belfast"" (Q10686)"
+wd:Q4882339,Belfast St Anne's,-5.93,54.5967,Northern Ireland,"wikidata place ""Belfast"" (Q10686)"
+wd:Q4882347,Belfast Victoria,-5.93,54.5967,Northern Ireland,"wikidata place ""Belfast"" (Q10686)"
+wd:Q4882360,Belfast Woodvale,-5.963,54.61,Northern Ireland,wikidata P625
+wd:Q4884651,Belper,-1.475,53.029,England,"wikidata place ""Belper"" (Q2080375)"
+wd:Q4892238,Berkshire,-1.1044,51.4669,England,"wikidata county ""Berkshire"""
+wd:Q4892594,Bermondsey West,-0.1119,51.4986,England,"wikidata place ""Bermondsey"" (Q822040), nudged 2.5 km by the direction in its name"
+wd:Q4896014,Berwick and Haddington,-2.7833,55.9561,Scotland,"wikidata place ""Haddington"" (Q2281658)"
+wd:Q4896015,Berwick and East Lothian,-2.7264,55.9475,Scotland,"wikidata P625 of constituency ""East Lothian"""
+wd:Q4896027,Berwickshire,-2.5,55.75,Scotland,"wikidata county ""Berwickshire"""
+wd:Q4898083,Bethnal Green,-0.066,51.5275,England,"wikidata place ""Bethnal Green"" (Q124204)"
+wd:Q4898084,Bethnal Green North East,-0.0298,51.55,England,"wikidata place ""Bethnal Green"" (Q124204), nudged 2.5 km by the direction in its name"
+wd:Q4898089,Bethnal Green South West,-0.1022,51.505,England,"wikidata place ""Bethnal Green"" (Q124204), nudged 2.5 km by the direction in its name"
+wd:Q4898091,Bethnal Green and Stepney,-0.0564,51.5223,England,"wikidata P625 of constituency ""Bethnal Green and Stepney"""
+wd:Q4899384,Beverley,-0.4316,53.8425,England,"wikidata place ""Beverley"" (Q851718)"
+wd:Q4899742,Bewdley,-2.3162,52.3752,England,"wikidata place ""Bewdley"" (Q766594)"
+wd:Q4899790,Bexley,0.149,51.441,England,"wikidata place ""Bexley"" (Q146416)"
+wd:Q4899808,Bexleyheath,0.14,51.45,England,wikidata P625
+wd:Q4906931,Biggleswade,-0.2557,52.0855,England,"wikidata place ""Biggleswade"" (Q2224167)"
+wd:Q4911795,Billericay,0.4184,51.628,England,"wikidata place ""Billericay"" (Q862832)"
+wd:Q4913608,Bilston,-2.0728,52.566,England,"wikidata place ""Bilston"" (Q1015967)"
+wd:Q4916431,Birkenhead East,-3.01,53.36,England,"wikidata P625 of constituency ""Birkenhead"""
+wd:Q4916451,Birkenhead West,-3.01,53.36,England,"wikidata P625 of constituency ""Birkenhead"""
+wd:Q4916587,Birmingham,-1.8982,52.4805,England,"wikidata place ""Birmingham"" (Q20986424)"
+wd:Q4916590,Birmingham Acock's Green,-1.8982,52.4805,England,"wikidata place ""Birmingham"" (Q20986424)"
+wd:Q4916592,Birmingham All Saints,-1.9222,52.4927,England,"OS Open Names ""All Saints"""
+wd:Q4916600,Birmingham Aston,-1.88,52.5,England,wikidata P625
+wd:Q4916620,Birmingham Bordesley,-1.8698,52.48,England,"wikidata place ""Bordesley"" (Q4944726)"
+wd:Q4916639,Birmingham Central,-1.8982,52.4805,England,"wikidata place ""Birmingham"" (Q20986424)"
+wd:Q4916681,Birmingham Deritend,-1.8832,52.4735,England,"OS Open Names ""Deritend"""
+wd:Q4916683,Birmingham Duddeston,-1.8826,52.4891,England,"wikidata item ""Duddeston"" (Q5311659)"
+wd:Q4916690,Birmingham East,-1.8612,52.4805,England,"wikidata place ""Birmingham"" (Q20986424), nudged 2.5 km by the direction in its name"
+wd:Q4916716,Birmingham Handsworth,-1.9499,52.5124,England,"wikidata place ""Handsworth"" (Q5647672)"
+wd:Q4916736,Birmingham King's Norton,-1.8982,52.4805,England,"wikidata place ""Birmingham"" (Q20986424)"
+wd:Q4916756,Birmingham Moseley,-1.8881,52.4467,England,"wikidata place ""Moseley"" (Q6915606)"
+wd:Q4916765,Birmingham North,-1.8982,52.503,England,"wikidata place ""Birmingham"" (Q20986424), nudged 2.5 km by the direction in its name"
+wd:Q4916806,Birmingham Small Heath,-1.8539,52.4625,England,"OS Open Names ""Small Heath"""
+wd:Q4916814,Birmingham Sparkbrook,-1.8712,52.462,England,"wikidata place ""Sparkbrook"" (Q2593284)"
+wd:Q4916815,Birmingham Sparkbrook and Small Heath,-1.847,52.457,England,wikidata P625
+wd:Q4916820,Birmingham Stechford,-1.8069,52.4828,England,"wikidata place ""Stechford"" (Q7605566)"
+wd:Q4916843,Birmingham West,-1.9352,52.4805,England,"wikidata place ""Birmingham"" (Q20986424), nudged 2.5 km by the direction in its name"
+wd:Q4922680,Blackburn East,-2.5,53.74,England,"wikidata P625 of constituency ""Blackburn"""
+wd:Q4922726,Blackburn West,-2.5,53.74,England,"wikidata P625 of constituency ""Blackburn"""
+wd:Q4923237,Blackpool,-3.0333,53.8333,England,"wikidata place ""Blackpool"" (Q20989106)"
+wd:Q4923259,Blackpool North,-2.914,53.863,England,wikidata P625
+wd:Q4923261,Blackpool North and Fleetwood,-2.914,53.863,England,wikidata P625
+wd:Q4936670,Bodmin,-4.718,50.466,England,"wikidata place ""Bodmin"" (Q889888)"
+wd:Q4940138,Bolton,-2.43,53.5783,England,"wikidata place ""Bolton"" (Q184579)"
+wd:Q4940166,Bolton East,-2.3921,53.5783,England,"wikidata place ""Bolton"" (Q184579), nudged 2.5 km by the direction in its name"
+wd:Q4943929,Boothferry,-0.883,53.736,England,wikidata P625
+wd:Q4947709,Boston,-0.0214,52.9746,England,"wikidata place ""Boston"" (Q311975)"
+wd:Q4948701,Bothwell,-4.0662,55.8023,Scotland,"wikidata place ""Bothwell"" (Q1773759)"
+wd:Q4950266,Bournemouth,-1.879,50.722,England,wikidata P625
+wd:Q4950281,Bournemouth East and Christchurch,-1.803,50.725,England,"wikidata P625 of constituency ""Bournemouth East"""
+wd:Q4950674,Bow and Poplar,-0.0288,51.5298,England,"wikidata place ""Bow"" (Q122607)"
+wd:Q4954575,Bradford,-1.754,53.792,England,"wikidata place ""Bradford"" (Q2834810)"
+wd:Q4954728,Bradford North,-1.75,53.8167,England,wikidata P625
+wd:Q4960072,Brecon,-3.3909,51.9468,Wales,"wikidata place ""Brecon"" (Q904472)"
+wd:Q4960089,Breconshire,-3.4167,52.0,Wales,"wikidata item ""Breconshire"" (Q60576225)"
+wd:Q4961611,Brentford,-0.3101,51.4861,England,"wikidata place ""Brentford"" (Q1013528)"
+wd:Q4961616,Brentford and Chiswick,-0.3101,51.4861,England,"wikidata place ""Brentford"" (Q1013528)"
+wd:Q4966900,Bridgnorth,-2.4195,52.535,England,"wikidata place ""Bridgnorth"" (Q914000)"
+wd:Q4966967,Bridlington,-0.192,54.083,England,wikidata P625
+wd:Q4966987,Bridport,-2.7667,50.7333,England,"wikidata place ""Bridport"" (Q914040)"
+wd:Q4967230,Brigg,-0.485,53.5529,England,"wikidata place ""Brigg"" (Q2058702)"
+wd:Q4967231,Brigg and Cleethorpes,-0.485,53.5529,England,"wikidata place ""Brigg"" (Q2058702)"
+wd:Q4967232,Brigg and Scunthorpe,-0.485,53.5529,England,"wikidata place ""Brigg"" (Q2058702)"
+wd:Q4967590,Brighton,-0.1375,50.8208,England,"wikidata place ""Brighton"" (Q131491)"
+wd:Q4968765,Bristol,-2.5975,51.4536,England,"wikidata place ""Bristol"" (Q23154)"
+wd:Q4968961,Bristol North East,-2.53,51.4751,England,"wikidata P625 of constituency ""Bristol North East"""
+wd:Q4968964,Bristol North,-2.6178,51.5029,England,wikidata P625
+wd:Q4969024,Bristol South East,-2.5614,51.4311,England,"wikidata place ""Bristol"" (Q23154), nudged 2.5 km by the direction in its name"
+wd:Q4971714,Brixton,-0.1175,51.4575,England,"wikidata place ""Brixton"" (Q146690)"
+wd:Q4973674,Bromley,0.0183,51.4064,England,"wikidata place ""Bromley"" (Q122892)"
+wd:Q4973772,Bromsgrove and Redditch,-2.1,52.4,England,"wikidata P625 of constituency ""Bromsgrove"""
+wd:Q49800769,Sudbury,0.7282,52.0417,England,"wikidata place ""Sudbury"" (Q1021319)"
+wd:Q49802606,St Albans,-0.337,51.74,England,"wikidata P625 of constituency ""St Albans"""
+wd:Q4983254,Buckinghamshire,-0.7952,51.7973,England,"wikidata county ""Buckinghamshire"""
+wd:Q4983390,Bucklow,-2.3748,53.3031,England,stand-in town Knutsford (OS Open Names)
+wd:Q4983457,Buckrose,-0.4401,54.0057,England,stand-in town Driffield (OS Open Names)
+wd:Q5000622,Burslem,-2.1879,53.0426,England,"wikidata place ""Burslem"" (Q1857589)"
+wd:Q5001072,Bury,-2.2986,53.5932,England,"wikidata place ""Bury"" (Q47822)"
+wd:Q5001127,Bury and Radcliffe,-2.2986,53.5932,England,"wikidata place ""Bury"" (Q47822)"
+wd:Q5002484,Bute and Northern Ayrshire,-4.6358,55.5962,Scotland,"wikidata county ""Ayrshire"", nudged 15 km by the direction in its name"
+wd:Q5002505,Buteshire,-5.25,55.75,Scotland,"wikidata county ""Buteshire"""
+wd:Q5016921,Caernarvonshire,-4.16,53.0824,Wales,"wikidata item ""Caernarvonshire"" (Q60595439)"
+wd:Q5017862,Caithness,-3.5,58.4167,Scotland,"wikidata county ""Caithness"""
+wd:Q5017872,Caithness and Sutherland,-4.47,58.09,Scotland,wikidata P625
+wd:Q5025061,Camberwell North,-0.0912,51.4961,England,"wikidata place ""Camberwell"" (Q385060), nudged 2.5 km by the direction in its name"
+wd:Q5025064,Camberwell North West,-0.1274,51.4961,England,"wikidata place ""Camberwell"" (Q385060), nudged 2.5 km by the direction in its name"
+wd:Q5025220,Camborne,-5.3,50.213,England,"wikidata place ""Camborne"" (Q1774403)"
+wd:Q5025572,Cambridge University,0.1167,52.2053,England,hand: university seat placed at Cambridge
+wd:Q5025647,Cambridgeshire,0.0441,52.3297,England,"wikidata county ""Cambridgeshire"""
+wd:Q5032723,Cannock,-2.029,52.688,England,"wikidata place ""Cannock"" (Q992665)"
+wd:Q5032736,Cannock and Burntwood,-2.029,52.688,England,"wikidata place ""Cannock"" (Q992665)"
+wd:Q5038364,Cardiff,-3.1792,51.4817,Wales,"wikidata place ""Cardiff"" (Q10690)"
+wd:Q5038413,Cardiff East,-3.156,51.491,Wales,wikidata P625
+wd:Q5038450,Cardiff North West,-3.2154,51.5042,Wales,"wikidata place ""Cardiff"" (Q10690), nudged 2.5 km by the direction in its name"
+wd:Q5038470,Cardiff South East,-3.143,51.4591,Wales,"wikidata place ""Cardiff"" (Q10690), nudged 2.5 km by the direction in its name"
+wd:Q5038499,Cardigan Boroughs,-4.6579,52.0842,Wales,"wikidata place ""Cardigan"" (Q779813)"
+wd:Q5042850,Carlow Borough,-6.8333,52.6667,Ireland,"wikidata county ""Carlow"""
+wd:Q5042851,Carlow County,-6.8333,52.6667,Ireland,"wikidata county ""Carlow"""
+wd:Q5042951,Carlton,-1.088,52.967,England,"wikidata place ""Carlton"" (Q2736123)"
+wd:Q5043220,Carmarthenshire,-4.1655,51.9018,Wales,"wikidata county ""Carmarthenshire"""
+wd:Q5046130,"Carrick, Cumnock and Doon Valley",-4.9083,56.1103,Scotland,"wikidata item ""Carrick"" (Q1044995)"
+wd:Q5046157,Carrickfergus,-5.8075,54.7136,Northern Ireland,"wikidata place ""Carrickfergus"" (Q1020354)"
+wd:Q5046870,Carshalton,-0.16,51.3655,England,"OS Open Names ""Carshalton"""
+wd:Q5048726,Cashel,-7.8894,52.5167,Ireland,"wikidata place ""Cashel"" (Q1002183)"
+wd:Q5054835,Cavan,-7.25,53.9167,Ireland,"wikidata county ""Cavan"""
+wd:Q5061013,Central Dunbartonshire,-4.53,55.96,Scotland,"wikidata county ""Dunbartonshire"""
+wd:Q5061072,Central Fife,-3.15,56.2167,Scotland,"wikidata county ""Fife"""
+wd:Q5061523,Central Norfolk,0.9493,52.6726,England,"wikidata county ""Norfolk"""
+wd:Q5061883,Central Suffolk,1.035,52.2122,England,"wikidata county ""Suffolk"""
+wd:Q5087627,Chatham,0.5333,51.3667,England,wikidata P625
+wd:Q5090037,Chelsea,-0.1684,51.4875,England,"wikidata place ""Chelsea"" (Q743535)"
+wd:Q5092587,Chertsey,-0.5074,51.3902,England,"wikidata place ""Chertsey"" (Q1070428)"
+wd:Q5092594,Chertsey and Walton,-0.45,51.38,England,wikidata P625
+wd:Q5093419,Chester-le-Street,-1.5699,54.8594,England,"wikidata place ""Chester-le-Street"" (Q2570025)"
+wd:Q5093858,Chesterton,0.1414,52.2185,England,"wikidata place ""Chesterton"" (Q1848958)"
+wd:Q5097246,Chigwell,0.0723,51.6225,England,"wikidata place ""Chigwell"" (Q944734)"
+wd:Q5101013,Chingford,0.0,51.63,England,wikidata P625
+wd:Q5102115,Chislehurst,0.0789,51.415,England,"wikidata place ""Chislehurst"" (Q122917)"
+wd:Q5109105,Christchurch and Lymington,-1.819,50.8079,England,"wikidata P625 of constituency ""Christchurch"""
+wd:Q5121860,Cirencester,-1.968,51.719,England,"wikidata place ""Cirencester"" (Q852772)"
+wd:Q5121881,Cirencester and Tewkesbury,-1.968,51.719,England,"wikidata place ""Cirencester"" (Q852772)"
+wd:Q5123767,City of London,-0.0923,51.5144,England,"OS Open Names ""City of London"""
+wd:Q5124892,Clackmannan,-3.7465,56.1091,Scotland,"wikidata place ""Clackmannan"" (Q1010098)"
+wd:Q5124897,Clackmannan and Eastern Stirlingshire,-3.5042,56.1091,Scotland,"wikidata place ""Clackmannan"" (Q1010098), nudged 15 km by the direction in its name"
+wd:Q5124900,Clackmannanshire and Kinross-shire,-3.7667,56.1333,Scotland,"wikidata county ""Clackmannanshire"""
+wd:Q5125862,Clapham,-0.1339,51.4632,England,"wikidata place ""Clapham"" (Q146659)"
+wd:Q5126106,Clare,-9.0,52.8333,Ireland,"wikidata county ""Clare"""
+wd:Q5129880,Clay Cross,-1.4128,53.1637,England,"wikidata place ""Clay Cross"" (Q2553931)"
+wd:Q5132049,Cleveland,-1.189,54.525,England,"wikidata item ""Cleveland"" (Q24550)"
+wd:Q5132297,Cleveland and Whitby,-1.189,54.525,England,"wikidata item ""Cleveland"" (Q24550)"
+wd:Q5134441,Clitheroe,-2.3916,53.8711,England,"wikidata place ""Clitheroe"" (Q1008765)"
+wd:Q5135040,Clonmel,-7.7116,52.3539,Ireland,"wikidata place ""Clonmel"" (Q217057)"
+wd:Q5136793,Clwyd North West,-3.5829,53.2844,Wales,stand-in town Abergele (OS Open Names)
+wd:Q5136794,Clwyd South West,-3.1704,52.9696,Wales,stand-in town Llangollen (OS Open Names)
+wd:Q5137077,Clydebank and Milngavie,-4.4006,55.8997,Scotland,"wikidata place ""Clydebank"" (Q996502)"
+wd:Q5137084,Clydesdale,-3.7759,55.6738,Scotland,stand-in town Lanark (OS Open Names)
+wd:Q5138593,Coatbridge,-4.0267,55.8625,Scotland,"wikidata place ""Coatbridge"" (Q1018723)"
+wd:Q5138597,Coatbridge and Airdrie,-4.0267,55.8625,Scotland,"wikidata place ""Coatbridge"" (Q1018723)"
+wd:Q5138600,Coatbridge and Chryston,-4.0267,55.8625,Scotland,"wikidata place ""Coatbridge"" (Q1018723)"
+wd:Q5139589,Cockermouth,-3.362,54.6613,England,"wikidata place ""Cockermouth"" (Q241684)"
+wd:Q5142101,Colchester North,0.9001,51.8868,England,"wikidata P625 of constituency ""Colchester"""
+wd:Q5144613,Coleraine,-6.661,55.133,Northern Ireland,"wikidata place ""Coleraine"" (Q1108185)"
+wd:Q5150853,Combined English Universities,-2.234,53.4668,England,hand: university seat placed at Manchester
+wd:Q5150880,Combined Scottish Universities,-3.1883,55.9474,Scotland,hand: university seat placed at Edinburgh
+wd:Q5163171,Consett,-1.83,54.85,England,"wikidata place ""Consett"" (Q2080364)"
+wd:Q5170760,Cork City,-8.75,52.0,Ireland,"wikidata county ""Cork"""
+wd:Q5170772,Cork County,-8.75,52.0,Ireland,"wikidata county ""Cork"""
+wd:Q5177699,County Kilkenny,-7.25,52.5833,Ireland,"wikidata county ""County Kilkenny"""
+wd:Q5177700,County Limerick,-8.75,52.5,Ireland,"wikidata county ""County Limerick"""
+wd:Q5177713,County Louth,-6.5,53.8333,Ireland,"wikidata county ""County Louth"""
+wd:Q5177770,County Waterford,-7.5,52.25,Ireland,"wikidata county ""County Waterford"""
+wd:Q5177778,County Wexford,-6.6667,52.5,Ireland,"wikidata county ""County Wexford"""
+wd:Q5179039,Coventry,-1.5167,52.4167,England,"wikidata place ""Coventry"" (Q6225)"
+wd:Q5179085,Coventry East,-1.46,52.425,England,"wikidata P625 of constituency ""Coventry East"""
+wd:Q5179104,Coventry North,-1.5167,52.4392,England,"wikidata place ""Coventry"" (Q6225), nudged 2.5 km by the direction in its name"
+wd:Q5179113,Coventry South East,-1.4798,52.3941,England,"wikidata place ""Coventry"" (Q6225), nudged 2.5 km by the direction in its name"
+wd:Q5179114,Coventry South West,-1.5536,52.3941,England,"wikidata place ""Coventry"" (Q6225), nudged 2.5 km by the direction in its name"
+wd:Q5179125,Coventry West,-1.5536,52.4167,England,"wikidata place ""Coventry"" (Q6225), nudged 2.5 km by the direction in its name"
+wd:Q5184814,Crewe,-2.44,53.099,England,"wikidata place ""Crewe"" (Q648810)"
+wd:Q5185072,Cricklade,-1.861,51.6414,England,"wikidata place ""Cricklade"" (Q533456)"
+wd:Q5189643,Croydon,-0.1099,51.3727,England,"wikidata place ""Croydon"" (Q2213391)"
+wd:Q5189664,Croydon East,-0.0443,51.3616,England,"wikidata P625 of constituency ""Croydon East"""
+wd:Q5189683,Croydon North East,-0.0738,51.3952,England,"wikidata place ""Croydon"" (Q2213391), nudged 2.5 km by the direction in its name"
+wd:Q5189685,Croydon North West,-0.11,51.39,England,wikidata P625
+wd:Q5189712,Croydon West,-0.0976,51.382,England,"wikidata P625 of constituency ""Croydon West"""
+wd:Q5194006,Cumbernauld and Kilsyth,-3.98,55.94,Scotland,"wikidata place ""Cumbernauld"" (Q996616)"
+wd:Q5194350,Cunninghame North,-4.8694,55.7943,Scotland,stand-in town Largs (OS Open Names)
+wd:Q5194353,Cunninghame South,-4.6649,55.6156,Scotland,stand-in town Irvine (OS Open Names)
+wd:Q5225669,Dartmouth,-3.5786,50.3503,England,"wikidata place ""Dartmouth"" (Q1007083)"
+wd:Q5225885,Darwen,-2.461,53.698,England,"wikidata place ""Darwen"" (Q1166842)"
+wd:Q5242235,Davyhulme,-2.36,53.46,England,wikidata P625
+wd:Q5247010,Dearne Valley,-1.3453,53.5024,England,"OS Open Names ""Wath upon Dearne"""
+wd:Q5256607,Denbigh,-3.4157,53.1872,Wales,"wikidata place ""Denbigh"" (Q1186888)"
+wd:Q5256623,Denbighshire,-3.406,53.125,Wales,"wikidata item ""Denbighshire"" (Q60576231)"
+wd:Q5260947,Deptford,-0.0265,51.478,England,"wikidata place ""Deptford"" (Q2308650)"
+wd:Q5261411,Derby,-1.4767,52.9217,England,"wikidata place ""Derby"" (Q43475)"
+wd:Q5295483,Doncaster,-1.1286,53.5225,England,"wikidata place ""Doncaster"" (Q1925846)"
+wd:Q5295601,Donegal,-8.0,54.92,Ireland,"wikidata county ""Donegal"""
+wd:Q5297591,Dorchester,-2.4397,50.7108,England,"wikidata place ""Dorchester"" (Q503331)"
+wd:Q5298039,Dorking,-0.33,51.233,England,wikidata P625
+wd:Q5298834,Dorset,-2.3337,50.8234,England,"wikidata county ""Dorset"""
+wd:Q5302778,Down,-5.94,54.36,Northern Ireland,"wikidata county ""Down"""
+wd:Q5303240,Downpatrick,-5.703,54.322,Northern Ireland,"wikidata place ""Downpatrick"" (Q1024917)"
+wd:Q5308187,Drogheda,-6.3525,53.715,Ireland,"wikidata place ""Drogheda"" (Q207223)"
+wd:Q5308237,Droitwich,-2.153,52.267,England,"wikidata item ""Droitwich"" (Q60576254)"
+wd:Q5308704,Droylsden,-2.1582,53.4828,England,"wikidata place ""Droylsden"" (Q305076)"
+wd:Q5310848,Dublin City,-6.2492,53.3551,Ireland,"wikidata item ""Dublin City"" (Q4169280)"
+wd:Q5310864,Dublin Clontarf,-6.21,53.365,Ireland,"wikidata place ""Clontarf"" (Q2328356)"
+wd:Q5310871,Dublin County,-6.2603,53.3497,Ireland,"wikidata place ""Dublin"" (Q1761)"
+wd:Q5310917,Dublin Harbour,-6.2603,53.3497,Ireland,"wikidata place ""Dublin"" (Q1761)"
+wd:Q5310947,Dublin Pembroke,-6.2603,53.3497,Ireland,"wikidata place ""Dublin"" (Q1761)"
+wd:Q5310955,Dublin Rathmines,-6.265,53.325,Ireland,"wikidata place ""Rathmines"" (Q2672384)"
+wd:Q5310972,Dublin St James's,-6.2603,53.3497,Ireland,"wikidata place ""Dublin"" (Q1761)"
+wd:Q5310973,Dublin St Patrick's,-6.2603,53.3497,Ireland,"wikidata place ""Dublin"" (Q1761)"
+wd:Q5310974,Dublin St Michan's,-6.2603,53.3497,Ireland,"wikidata place ""Dublin"" (Q1761)"
+wd:Q5310975,Dublin St Stephen's Green,-6.2603,53.3497,Ireland,"wikidata place ""Dublin"" (Q1761)"
+wd:Q5311857,Dudley East,-2.11,52.52,England,"wikidata P625 of constituency ""Dudley"""
+wd:Q5312015,Dudley West,-2.11,52.52,England,"wikidata P625 of constituency ""Dudley"""
+wd:Q5313538,Dulwich,-0.0779,51.4457,England,"wikidata place ""Dulwich"" (Q146766)"
+wd:Q5313676,Dumbarton,-4.5472,55.9486,Scotland,"wikidata place ""Dumbarton"" (Q34779)"
+wd:Q5313683,Dumbarton Burghs,-4.5472,55.9486,Scotland,"wikidata place ""Dumbarton"" (Q34779)"
+wd:Q5313792,Dumfries Burghs,-3.6167,55.0667,Scotland,"wikidata place ""Dumfries"" (Q652035)"
+wd:Q5313811,Dumfriesshire,-3.6083,55.0689,Scotland,"wikidata county ""Dumfriesshire"""
+wd:Q5314176,Dunbartonshire,-4.53,55.96,Scotland,"wikidata county ""Dunbartonshire"""
+wd:Q5314724,Dundalk,-6.4003,54.0044,Ireland,"wikidata place ""Dundalk"" (Q204956)"
+wd:Q5314798,Dundee,-2.9737,56.4584,Scotland,"OS Open Names ""Dundee"""
+wd:Q5315038,Dunfermline,-3.4617,56.0714,Scotland,"wikidata place ""Dunfermline"" (Q211950)"
+wd:Q5315042,Dunfermline Burghs,-3.4617,56.0714,Scotland,"wikidata place ""Dunfermline"" (Q211950)"
+wd:Q5315046,Dunfermline East,-3.4213,56.0714,Scotland,"wikidata place ""Dunfermline"" (Q211950), nudged 2.5 km by the direction in its name"
+wd:Q5315054,Dunfermline West,-3.502,56.0714,Scotland,"wikidata place ""Dunfermline"" (Q211950), nudged 2.5 km by the direction in its name"
+wd:Q5315079,Dungannon,-6.77,54.5,Northern Ireland,"wikidata place ""Dungannon"" (Q1025602)"
+wd:Q5315098,Dungarvan,-7.6397,52.0845,Ireland,"wikidata place ""Dungarvan"" (Q581790)"
+wd:Q5325468,Ealing,-0.3058,51.5111,England,"wikidata place ""Ealing"" (Q83726)"
+wd:Q5325471,Ealing Acton,-0.28,51.51,England,wikidata P625
+wd:Q5325480,Ealing East,-0.2696,51.5111,England,"wikidata place ""Ealing"" (Q83726), nudged 2.5 km by the direction in its name"
+wd:Q5325490,Ealing South,-0.3058,51.4886,England,"wikidata place ""Ealing"" (Q83726), nudged 2.5 km by the direction in its name"
+wd:Q5325493,Ealing West,-0.342,51.5111,England,"wikidata place ""Ealing"" (Q83726), nudged 2.5 km by the direction in its name"
+wd:Q5327630,Aberdeenshire East,-2.4174,57.1667,Scotland,"wikidata county ""Aberdeenshire"", nudged 15 km by the direction in its name"
+wd:Q5327708,East Angus,-2.921,56.797,Scotland,"wikidata P625 of constituency ""Angus"""
+wd:Q5327860,East Berkshire,-0.8875,51.4669,England,"wikidata county ""Berkshire"", nudged 15 km by the direction in its name"
+wd:Q5328008,East Carmarthenshire,-3.9465,51.9018,Wales,"wikidata county ""Carmarthenshire"", nudged 15 km by the direction in its name"
+wd:Q5328039,East Cavan,-7.0206,53.9167,Ireland,"wikidata county ""Cavan"", nudged 15 km by the direction in its name"
+wd:Q5328072,East Cheshire,-2.3325,53.1888,England,"wikidata county ""Cheshire"", nudged 15 km by the direction in its name"
+wd:Q5328090,East Clare,-8.7763,52.8333,Ireland,"wikidata county ""Clare"", nudged 15 km by the direction in its name"
+wd:Q5328168,East Cork,-8.5305,52.0,Ireland,"wikidata county ""Cork"", nudged 15 km by the direction in its name"
+wd:Q5328170,East Cornwall,-4.6132,50.3583,England,"wikidata county ""Cornwall"", nudged 15 km by the direction in its name"
+wd:Q5328196,East Cumberland,-2.7659,54.75,England,"wikidata county ""Cumberland"", nudged 15 km by the direction in its name"
+wd:Q5328216,East Denbighshire,-3.1808,53.125,Wales,"wikidata item ""Denbighshire"" (Q60576231), nudged 15 km by the direction in its name"
+wd:Q5328219,East Derbyshire,-1.379,53.1381,England,"wikidata county ""Derbyshire"", nudged 15 km by the direction in its name"
+wd:Q5328240,East Donegal,-7.7649,54.92,Ireland,"wikidata county ""Donegal"", nudged 15 km by the direction in its name"
+wd:Q5328241,East Dorset,-2.1198,50.8234,England,"wikidata county ""Dorset"", nudged 15 km by the direction in its name"
+wd:Q5328250,East Down,-5.7081,54.36,Northern Ireland,"wikidata county ""Down"", nudged 15 km by the direction in its name"
+wd:Q5328322,East Essex,0.7833,51.7591,England,"wikidata county ""Essex"", nudged 15 km by the direction in its name"
+wd:Q5328347,East Fife,-2.907,56.2167,Scotland,"wikidata county ""Fife"", nudged 15 km by the direction in its name"
+wd:Q5328358,East Flintshire,-3.1667,53.25,Wales,"wikidata item ""Flintshire"" (Q60576213)"
+wd:Q5328398,East Galway,-9.2238,53.3645,Ireland,"wikidata county ""Galway"", nudged 15 km by the direction in its name"
+wd:Q5328457,East Glamorganshire,-3.4488,51.6667,Wales,"wikidata item ""Glamorganshire"" (Q60576202), nudged 15 km by the direction in its name"
+wd:Q5328462,East Gloucestershire,-1.964,51.806,England,"wikidata county ""Gloucestershire"", nudged 15 km by the direction in its name"
+wd:Q5328528,East Ham North,0.059,51.527,England,"wikidata P625 of constituency ""East Ham"""
+wd:Q5328530,East Ham South,0.059,51.527,England,"wikidata P625 of constituency ""East Ham"""
+wd:Q5328576,East Hertfordshire,0.0097,51.8647,England,"wikidata county ""Hertfordshire"", nudged 15 km by the direction in its name"
+wd:Q5328697,East Kent,0.9272,51.2096,England,"wikidata county ""Kent"", nudged 15 km by the direction in its name"
+wd:Q5328712,East Kerry,-9.5297,52.1667,Ireland,"wikidata county ""Kerry"", nudged 15 km by the direction in its name"
+wd:Q5328719,East Kilbride,-4.166,55.7581,Scotland,"OS Open Names ""East Kilbride"""
+wd:Q5328833,East Limerick,-8.528,52.5,Ireland,"wikidata county ""Limerick"", nudged 15 km by the direction in its name"
+wd:Q5328840,East Lindsey,-0.0764,53.208,England,"wikidata place ""Horncastle"" (Q1628403), nudged 2.5 km by the direction in its name"
+wd:Q5328946,East Mayo,-9.0206,53.9,Ireland,"wikidata county ""Mayo"", nudged 15 km by the direction in its name"
+wd:Q5329047,East Norfolk,1.1722,52.6726,England,"wikidata county ""Norfolk"", nudged 15 km by the direction in its name"
+wd:Q5329051,East Northamptonshire,-0.5891,52.3166,England,"wikidata county ""Northamptonshire"", nudged 15 km by the direction in its name"
+wd:Q5329144,East Perthshire,-3.6969,56.4917,Scotland,"wikidata county ""Perthshire"", nudged 15 km by the direction in its name"
+wd:Q5329240,East Retford,-0.9031,53.3169,England,"wikidata place ""Retford"" (Q2462685), nudged 2.5 km by the direction in its name"
+wd:Q5329262,East Riding of Yorkshire,-0.4335,53.8434,England,stand-in town Beverley (OS Open Names)
+wd:Q5329407,East Somerset,-2.8641,51.1,England,"wikidata item ""Somerset"" (Q21694741), nudged 2.5 km by the direction in its name"
+wd:Q5329426,East Staffordshire,-1.8297,52.8104,England,"wikidata county ""Staffordshire"", nudged 15 km by the direction in its name"
+wd:Q5329450,East Suffolk,1.2555,52.2122,England,"wikidata county ""Suffolk"", nudged 15 km by the direction in its name"
+wd:Q5329459,East Sussex,0.0731,50.9471,England,"wikidata county ""Sussex"", nudged 15 km by the direction in its name"
+wd:Q5329546,East Tipperary,-7.6105,52.6667,Ireland,"wikidata county ""Tipperary"", nudged 15 km by the direction in its name"
+wd:Q5329578,East Tyrone,-6.9267,54.61,Northern Ireland,"wikidata county ""Tyrone"", nudged 15 km by the direction in its name"
+wd:Q5329645,East Waterford,-7.2793,52.25,Ireland,"wikidata county ""Waterford"", nudged 15 km by the direction in its name"
+wd:Q5329680,East Wicklow,-6.1921,53.0,Ireland,"wikidata county ""Wicklow"", nudged 15 km by the direction in its name"
+wd:Q5329711,East Worcestershire,-1.9445,52.2197,England,"wikidata county ""Worcestershire"", nudged 15 km by the direction in its name"
+wd:Q5330571,Eastern West Riding of Yorkshire,-1.264,53.8848,England,stand-in town Tadcaster (OS Open Names)
+wd:Q5331564,Ebbw Vale,-3.2117,51.7779,Wales,"wikidata place ""Ebbw Vale"" (Q2297559)"
+wd:Q5332195,Eccles,-2.34,53.48,England,wikidata P625
+wd:Q5338137,Edinburgh,-3.1891,55.9533,Scotland,"OS Open Names ""Edinburgh"""
+wd:Q5338163,Edinburgh Central,-3.1891,55.9533,Scotland,"OS Open Names ""Edinburgh"""
+wd:Q5338188,Edinburgh East and Musselburgh,-3.1052,55.9415,Scotland,"wikidata P625 of constituency ""Edinburgh East and Musselburgh"""
+wd:Q5338216,Edinburgh Leith,-3.17,55.9801,Scotland,"wikidata place ""Leith"" (Q1018540)"
+wd:Q5338226,Edinburgh North,-3.1891,55.9759,Scotland,"OS Open Names ""Edinburgh"", nudged 2.5 km by the direction in its name"
+wd:Q5338238,Edinburgh Pentlands,-3.1891,55.9533,Scotland,"OS Open Names ""Edinburgh"""
+wd:Q5338301,Edinburgh and St Andrews Universities,-3.1883,55.9474,Scotland,hand: university seat placed at Edinburgh
+wd:Q5348256,Egremont,-3.5306,54.484,England,"wikidata place ""Egremont"" (Q2486621)"
+wd:Q5348888,Eifion,-4.416,52.89,Wales,stand-in town Pwllheli (OS Open Names)
+wd:Q5360015,Elgin Burghs,-3.3153,57.6464,Scotland,"wikidata place ""Elgin"" (Q841074)"
+wd:Q5360080,Elginshire and Nairnshire,-3.8661,57.5861,Scotland,"wikidata county ""Nairnshire"""
+wd:Q5364628,Elland,-1.803,53.692,England,wikidata P625
+wd:Q5366729,Elmet,-1.404,53.818,England,wikidata P625
+wd:Q5377286,Enfield,-0.0808,51.6522,England,"wikidata place ""Enfield"" (Q544939)"
+wd:Q5377300,Enfield East,-0.0445,51.6522,England,"wikidata place ""Enfield"" (Q544939), nudged 2.5 km by the direction in its name"
+wd:Q5377329,Enfield West,-0.1171,51.6522,England,"wikidata place ""Enfield"" (Q544939), nudged 2.5 km by the direction in its name"
+wd:Q5379183,Ennis,-8.9807,52.8463,Ireland,"wikidata place ""Ennis"" (Q209128)"
+wd:Q5379206,Enniskillen,-7.6389,54.3447,Northern Ireland,"wikidata place ""Enniskillen"" (Q990109)"
+wd:Q5383866,Epping,0.1087,51.7004,England,"wikidata place ""Epping"" (Q990775)"
+wd:Q5383984,Epsom,-0.27,51.33,England,wikidata P625
+wd:Q5389577,Erith and Crayford,0.18,51.46,England,wikidata P625
+wd:Q5398049,Eskdale,-3.2663,54.3912,England,"wikidata item ""Eskdale"" (Q1367761)"
+wd:Q5404811,Eton and Slough,-0.6092,51.4881,England,"wikidata place ""Eton"" (Q617407)"
+wd:Q5418200,Evesham,-1.95,52.09,England,"wikidata place ""Evesham"" (Q585963)"
+wd:Q5422600,Eye,1.147,52.321,England,"wikidata place ""Eye"" (Q777509)"
+wd:Q5431932,Falkirk Burghs,-3.8712,56.0324,Scotland,"wikidata P625 of constituency ""Falkirk"""
+wd:Q5431933,Falkirk East,-3.8712,56.0324,Scotland,"wikidata P625 of constituency ""Falkirk"""
+wd:Q5431944,Falkirk West,-3.8712,56.0324,Scotland,"wikidata P625 of constituency ""Falkirk"""
+wd:Q5436015,Farnham,-0.796,51.214,England,wikidata P625
+wd:Q5436064,Farnworth,-2.3999,53.5452,England,"wikidata place ""Farnworth"" (Q1397011)"
+wd:Q5438571,Faversham,0.8928,51.3177,England,"wikidata place ""Faversham"" (Q1000115)"
+wd:Q5442642,Feltham,-0.4089,51.4496,England,"wikidata place ""Feltham"" (Q2545812)"
+wd:Q5444360,Fermanagh,-7.713,54.451,Northern Ireland,wikidata P625
+wd:Q5444374,Fermanagh and Tyrone,-7.116,54.618,Northern Ireland,wikidata P625
+wd:Q5447352,Fife,-3.15,56.2167,Scotland,"wikidata county ""Fife"""
+wd:Q5449840,Finchley,-0.187,51.599,England,"wikidata place ""Finchley"" (Q150217)"
+wd:Q5450917,Finsbury Central,-0.0925,51.5224,England,"wikidata place ""Finsbury"" (Q1817328)"
+wd:Q5450918,Finsbury,-0.0925,51.5224,England,"wikidata place ""Finsbury"" (Q1817328)"
+wd:Q5450919,Finsbury East,-0.0563,51.5224,England,"wikidata place ""Finsbury"" (Q1817328), nudged 2.5 km by the direction in its name"
+wd:Q5459480,Flint Boroughs,-3.132,53.244,Wales,"wikidata place ""Flint"" (Q1428848)"
+wd:Q5459604,Flintshire,-3.1667,53.25,Wales,"wikidata item ""Flintshire"" (Q60576213)"
+wd:Q5469523,Forfarshire,-2.889,56.6441,Scotland,stand-in town Forfar (OS Open Names)
+wd:Q5505727,Frome,-2.3215,51.2279,England,"wikidata place ""Frome"" (Q1242441)"
+wd:Q5507914,Fulham,-0.2138,51.4767,England,"wikidata place ""Fulham"" (Q3367868)"
+wd:Q5507919,Fulham East,-0.1776,51.4767,England,"wikidata place ""Fulham"" (Q3367868), nudged 2.5 km by the direction in its name"
+wd:Q5507929,Fulham West,-0.25,51.4767,England,"wikidata place ""Fulham"" (Q3367868), nudged 2.5 km by the direction in its name"
+wd:Q5511218,Fylde North,-2.939,53.918,England,wikidata P625
+wd:Q5511220,Fylde South,-2.923,53.781,England,wikidata P625
+wd:Q5517303,Gainsborough and Horncastle,-0.5,53.35,England,wikidata P625
+wd:Q5519175,Galloway,-4.4832,54.9672,Scotland,stand-in town Newton Stewart (OS Open Names)
+wd:Q5519186,Galloway and Upper Nithsdale,-3.9293,54.941,Scotland,stand-in town Castle Douglas (OS Open Names)
+wd:Q5519475,Galway Borough,-9.4503,53.3645,Ireland,"wikidata county ""Galway"""
+wd:Q5519480,Galway Connemara,-9.4503,53.3645,Ireland,"wikidata county ""Galway"""
+wd:Q5519481,Galway County,-9.4503,53.3645,Ireland,"wikidata county ""Galway"""
+wd:Q5527155,Gateshead East,-1.5951,54.9435,England,"wikidata P625 of constituency ""Gateshead"""
+wd:Q5527158,Gateshead East and Washington West,-1.555,54.937,England,wikidata P625
+wd:Q5527167,Gateshead West,-1.5951,54.9435,England,"wikidata P625 of constituency ""Gateshead"""
+wd:Q5562365,Gillingham,0.55,51.3833,England,wikidata P625
+wd:Q5566551,Glamorganshire,-3.6667,51.6667,Wales,"wikidata item ""Glamorganshire"" (Q60576202)"
+wd:Q5566631,Glanford and Scunthorpe,-0.5,53.6,England,"wikidata place ""Glanford"" (Q5566625)"
+wd:Q5566737,Glasgow,-4.2369,55.8636,Scotland,"OS Open Names ""Glasgow"""
+wd:Q5566747,Glasgow Baillieston,-4.2369,55.8636,Scotland,"OS Open Names ""Glasgow"""
+wd:Q5566749,Glasgow Anniesland,-4.3279,55.89,Scotland,"OS Open Names ""Anniesland"""
+wd:Q5566755,Glasgow Blackfriars and Hutchesontown,-4.2369,55.8636,Scotland,"OS Open Names ""Glasgow"""
+wd:Q5566759,Glasgow Bridgeton,-4.2267,55.8467,Scotland,"OS Open Names ""Bridgeton"""
+wd:Q5566762,Glasgow Camlachie,-4.215,55.8542,Scotland,"OS Open Names ""Camlachie"""
+wd:Q5566766,Glasgow Cathcart,-4.2626,55.8167,Scotland,"OS Open Names ""Cathcart"""
+wd:Q5566789,Glasgow College,-4.2369,55.8636,Scotland,"OS Open Names ""Glasgow"""
+wd:Q5566796,Glasgow Craigton,-4.3195,55.8498,Scotland,"OS Open Names ""Craigton"""
+wd:Q5566822,Glasgow Gorbals,-4.2576,55.8485,Scotland,"OS Open Names ""Gorbals"""
+wd:Q5566829,Glasgow Govan,-4.3207,55.8593,Scotland,"OS Open Names ""Govan"""
+wd:Q5566855,Glasgow Kelvin,-4.2369,55.8636,Scotland,"OS Open Names ""Glasgow"""
+wd:Q5566861,Glasgow Kelvingrove,-4.2838,55.8661,Scotland,"wikidata place ""Kelvingrove"" (Q67666986)"
+wd:Q5566864,Glasgow Maryhill,-4.2944,55.8941,Scotland,"wikidata place ""Maryhill"" (Q6781187)"
+wd:Q5566878,Glasgow Partick,-4.3028,55.8708,Scotland,"OS Open Names ""Partick"""
+wd:Q5566888,Glasgow Pollok,-4.2369,55.8636,Scotland,"OS Open Names ""Glasgow"""
+wd:Q5566890,Glasgow Queen's Park,-4.2701,55.831,Scotland,"OS Open Names ""Queen's Park"""
+wd:Q5566891,Glasgow Provan,-4.2369,55.8636,Scotland,"OS Open Names ""Glasgow"""
+wd:Q5566909,Glasgow Scotstoun,-4.3514,55.8797,Scotland,"OS Open Names ""Scotstoun"""
+wd:Q5566919,Glasgow Shettleston,-4.1668,55.851,Scotland,"OS Open Names ""Shettleston"""
+wd:Q5566922,Glasgow Springburn,-4.2268,55.883,Scotland,"OS Open Names ""Springburn"""
+wd:Q5566929,Glasgow St Rollox,-4.2369,55.8636,Scotland,"OS Open Names ""Glasgow"""
+wd:Q5566937,Glasgow Tradeston,-4.2688,55.8499,Scotland,"OS Open Names ""Tradeston"""
+wd:Q5566963,Glasgow Woodside,-4.2654,55.8733,Scotland,"OS Open Names ""Woodside"""
+wd:Q5566965,Glasgow and Aberdeen Universities,-4.2886,55.8721,Scotland,hand: university seat placed at Glasgow
+wd:Q5583933,Goole,-0.871,53.704,England,wikidata P625
+wd:Q5587446,Gosport and Fareham,-1.173,50.818,England,wikidata P625
+wd:Q5596622,Grantham,-0.6381,52.9181,England,"wikidata place ""Grantham"" (Q846683)"
+wd:Q5597912,Gravesend,0.3686,51.4417,England,"wikidata place ""Gravesend"" (Q676689)"
+wd:Q5599538,Great Marlow,-0.8042,51.5861,England,"wikidata item ""Great Marlow"" (Q1914721)"
+wd:Q5604345,Greenock,-4.7667,55.95,Scotland,"wikidata place ""Greenock"" (Q217831)"
+wd:Q5604359,Greenock and Inverclyde,-4.7667,55.95,Scotland,"wikidata place ""Greenock"" (Q217831)"
+wd:Q5604360,Greenock and Port Glasgow,-4.7667,55.95,Scotland,"wikidata place ""Greenock"" (Q217831)"
+wd:Q5604826,Greenwich,0.0,51.48,England,"wikidata place ""Greenwich"" (Q179385)"
+wd:Q56166267,City of York,-1.0833,53.95,England,"wikidata place ""York"" (Q42462)"
+wd:Q56166268,Northampton,-0.9,52.2333,England,"wikidata place ""Northampton"" (Q192240)"
+wd:Q56166269,Plymouth Devonport,-4.14,50.41,England,"wikidata P625 of constituency ""Plymouth Devonport"""
+wd:Q56166271,Ipswich,1.16,52.06,England,"wikidata P625 of constituency ""Ipswich"""
+wd:Q56166272,Bath,-2.3603,51.3809,England,"wikidata P625 of constituency ""Bath"""
+wd:Q56166273,Rochester,0.5,51.3833,England,"wikidata P625 of constituency ""Rochester"""
+wd:Q56166274,Merthyr Tydfil,-3.3781,51.7472,Wales,"wikidata place ""Merthyr Tydfil"" (Q752762)"
+wd:Q56166276,Halifax,-1.8833,53.7167,England,"wikidata P625 of constituency ""Halifax"""
+wd:Q56166277,Reading,-0.9731,51.4542,England,wikidata P625
+wd:Q56166278,City of London,-0.0923,51.5144,England,"OS Open Names ""City of London"""
+wd:Q56166279,Liverpool,-2.9167,53.4167,England,"wikidata place ""Liverpool"" (Q21665571)"
+wd:Q56166280,Birmingham,-1.8982,52.4805,England,"wikidata place ""Birmingham"" (Q20986424)"
+wd:Q56166282,Glasgow,-4.2369,55.8636,Scotland,"OS Open Names ""Glasgow"""
+wd:Q56166283,Manchester,-2.25,53.4167,England,"wikidata place ""Manchester"" (Q21525592)"
+wd:Q56166294,Galway Borough,-9.4503,53.3645,Ireland,"wikidata county ""Galway"""
+wd:Q56166297,Wycombe,-0.8,51.6,England,"wikidata P625 of constituency ""Wycombe"""
+wd:Q56185580,Chelsea,-0.1684,51.4875,England,"wikidata place ""Chelsea"" (Q743535)"
+wd:Q56185582,Coventry,-1.5167,52.4167,England,"wikidata place ""Coventry"" (Q6225)"
+wd:Q56185584,Dundee,-2.9737,56.4584,Scotland,"OS Open Names ""Dundee"""
+wd:Q56185586,Greenwich,0.0,51.48,England,"wikidata place ""Greenwich"" (Q179385)"
+wd:Q56185588,Hereford,-2.7,52.0,England,"wikidata P625 of constituency ""Hereford"""
+wd:Q56185590,Huntingdon,-0.2575,52.3008,England,"wikidata P625 of constituency ""Huntingdon"""
+wd:Q56185594,Huntingdon,-0.2575,52.3008,England,"wikidata P625 of constituency ""Huntingdon"""
+wd:Q56185597,Leominster,-2.7,52.22,England,"wikidata P625 of constituency ""Leominster"""
+wd:Q56185599,Lincoln,-0.54,53.23,England,"wikidata P625 of constituency ""Lincoln"""
+wd:Q56185602,Macclesfield,-2.1333,53.3167,England,"wikidata P625 of constituency ""Macclesfield"""
+wd:Q56185604,Maidstone,0.5294,51.2717,England,"wikidata place ""Maidstone"" (Q213180)"
+wd:Q56185607,North Norfolk,1.17,52.89,England,"wikidata P625 of constituency ""North Norfolk"""
+wd:Q56185612,Perth,-3.4333,56.3958,Scotland,"wikidata place ""Perth"" (Q203000)"
+wd:Q56185614,Scarborough,-0.4,54.2825,England,"wikidata place ""Scarborough"" (Q743521)"
+wd:Q56185616,Shrewsbury,-2.86,52.72,England,"wikidata P625 of constituency ""Shrewsbury"""
+wd:Q56185618,South Norfolk,1.4,52.5,England,"wikidata P625 of constituency ""South Norfolk"""
+wd:Q56185621,Taunton,-3.1,51.0192,England,"wikidata place ""Taunton"" (Q845619)"
+wd:Q56185625,Worcester,-2.2,52.2,England,"wikidata P625 of constituency ""Worcester"""
+wd:Q56185627,Rutland,-0.644,52.6554,England,"wikidata county ""Rutland"""
+wd:Q56185629,Bedford,-0.46,52.14,England,"wikidata P625 of constituency ""Bedford"""
+wd:Q56185634,Chippenham,-2.2038,51.3811,England,"wikidata P625 of constituency ""Chippenham"""
+wd:Q56185641,Leeds,-1.5436,53.7975,England,"wikidata place ""Leeds"" (Q39121)"
+wd:Q56185644,Newark,-0.9,53.1,England,"wikidata P625 of constituency ""Newark"""
+wd:Q56185647,Great Yarmouth,1.6495,52.6844,England,"wikidata P625 of constituency ""Great Yarmouth"""
+wd:Q56185650,City of Durham,-1.556,54.777,England,"wikidata P625 of constituency ""City of Durham"""
+wd:Q56185653,Cambridge,0.131,52.203,England,"wikidata P625 of constituency ""Cambridge"""
+wd:Q56185655,Chichester,-0.7792,50.8365,England,"wikidata P625 of constituency ""Chichester"""
+wd:Q56189343,Westminster,-0.1333,51.4995,England,"wikidata place ""Westminster"" (Q189960)"
+wd:Q56189344,Harwich,1.24,51.86,England,"wikidata P625 of constituency ""Harwich"""
+wd:Q56189346,Penryn and Falmouth,-5.107,50.169,England,"wikidata place ""Penryn"" (Q1025788)"
+wd:Q56189349,East Somerset,-2.8641,51.1,England,"wikidata item ""Somerset"" (Q21694741), nudged 2.5 km by the direction in its name"
+wd:Q56189350,Windsor,-0.6998,51.4349,England,"wikidata P625 of constituency ""Windsor"""
+wd:Q56189351,Northamptonshire Southern,-0.8101,52.1815,England,"wikidata county ""Northamptonshire"", nudged 15 km by the direction in its name"
+wd:Q56189352,Stroud,-2.28,51.74,England,"wikidata P625 of constituency ""Stroud"""
+wd:Q56189356,Derbyshire Southern,-1.6043,53.003,England,"wikidata county ""Derbyshire"", nudged 15 km by the direction in its name"
+wd:Q56189357,Salford,-2.2997,53.4937,England,"wikidata P625 of constituency ""Salford"""
+wd:Q56189362,Lichfield,-1.8203,52.755,England,"wikidata P625 of constituency ""Lichfield"""
+wd:Q56189364,Tewkesbury,-2.0733,51.935,England,"wikidata P625 of constituency ""Tewkesbury"""
+wd:Q56189365,Tamworth,-1.7514,52.6244,England,"wikidata P625 of constituency ""Tamworth"""
+wd:Q56189366,Stafford,-2.1346,52.7792,England,"wikidata P625 of constituency ""Stafford"""
+wd:Q56189368,Truro,-5.051,50.26,England,"wikidata place ""Truro"" (Q180803)"
+wd:Q56189369,South Lancashire,-2.62,53.6575,England,"wikidata county ""Lancashire"", nudged 15 km by the direction in its name"
+wd:Q56189371,East Worcestershire,-1.9445,52.2197,England,"wikidata county ""Worcestershire"", nudged 15 km by the direction in its name"
+wd:Q56189372,Stoke-upon-Trent,-2.1877,53.0066,England,"wikidata place ""Stoke-upon-Trent"" (Q727839)"
+wd:Q56189374,Waterford City,-7.1153,52.2592,Ireland,"wikidata item ""Waterford City"" (Q60498987)"
+wd:Q56189375,North Northamptonshire,-0.8101,52.4517,England,"wikidata county ""Northamptonshire"", nudged 15 km by the direction in its name"
+wd:Q56189378,Carlow County,-6.8333,52.6667,Ireland,"wikidata county ""Carlow"""
+wd:Q56189380,Limerick City,-8.6247,52.6616,Ireland,"wikidata item ""Limerick City"" (Q60499088)"
+wd:Q56189381,Bury St Edmunds,0.9,52.25,England,"wikidata P625 of constituency ""Bury St Edmunds"""
+wd:Q56189382,Richmond (Yorks),-1.653,54.405,England,"wikidata P625 of constituency ""Richmond (Yorks)"""
+wd:Q56189384,Aylesbury,-0.817,51.816,England,"wikidata P625 of constituency ""Aylesbury"""
+wd:Q56189388,Tiverton,-3.488,50.903,England,"wikidata place ""Tiverton"" (Q637298)"
+wd:Q56189389,Wells,-2.7216,51.2133,England,"wikidata P625 of constituency ""Wells"""
+wd:Q56189392,Wigan,-2.64,53.54,England,"wikidata P625 of constituency ""Wigan"""
+wd:Q56189393,Totnes,-3.689,50.3479,England,"wikidata P625 of constituency ""Totnes"""
+wd:Q56189395,Totnes,-3.689,50.3479,England,"wikidata P625 of constituency ""Totnes"""
+wd:Q56189396,Salisbury,-1.79,51.07,England,"wikidata P625 of constituency ""Salisbury"""
+wd:Q56189397,Poole,-1.98,50.72,England,"wikidata P625 of constituency ""Poole"""
+wd:Q56189398,Poole,-1.98,50.72,England,"wikidata P625 of constituency ""Poole"""
+wd:Q56189399,Newcastle-under-Lyme,-2.3,53.04,England,"wikidata P625 of constituency ""Newcastle-under-Lyme"""
+wd:Q56189400,Peterborough,-0.25,52.5833,England,"wikidata P625 of constituency ""Peterborough"""
+wd:Q56189401,Colchester,0.9001,51.8868,England,"wikidata P625 of constituency ""Colchester"""
+wd:Q56189402,Colchester,0.9001,51.8868,England,"wikidata P625 of constituency ""Colchester"""
+wd:Q56189404,Buckingham,-0.988,52.0,England,"wikidata P625 of constituency ""Buckingham"""
+wd:Q56189405,Canterbury,1.05,51.3,England,"wikidata P625 of constituency ""Canterbury"""
+wd:Q56189406,Lewes,0.018,50.876,England,"wikidata P625 of constituency ""Lewes"""
+wd:Q56189407,Berwick-upon-Tweed,-1.9167,55.55,England,"wikidata P625 of constituency ""Berwick-upon-Tweed"""
+wd:Q56189408,Dover,1.2766,51.1775,England,"wikidata P625 of constituency ""Dover"""
+wd:Q56189410,Devizes,-1.995,51.352,England,"wikidata P625 of constituency ""Devizes"""
+wd:Q56189411,Gloucester,-2.249,51.867,England,"wikidata P625 of constituency ""Gloucester"""
+wd:Q56189413,Exeter,-3.534,50.722,England,"wikidata P625 of constituency ""Exeter"""
+wd:Q56189420,Ripon,-1.5236,54.1381,England,"wikidata place ""Ripon"" (Q661529)"
+wd:Q56189422,Guildford,-0.552,51.246,England,"wikidata P625 of constituency ""Guildford"""
+wd:Q56189424,Maldon,0.7279,51.6829,England,"wikidata P625 of constituency ""Maldon"""
+wd:Q56189425,Maldon,0.7279,51.6829,England,"wikidata P625 of constituency ""Maldon"""
+wd:Q56189426,City of Chester,-2.9167,53.1667,England,"wikidata P625 of constituency ""City of Chester"""
+wd:Q56189427,Carlisle,-2.937,54.879,England,"wikidata P625 of constituency ""Carlisle"""
+wd:Q56189428,Ludlow,-2.746,52.488,England,"wikidata P625 of constituency ""Ludlow"""
+wd:Q56189429,Barnstaple,-4.0489,51.0823,England,"wikidata place ""Barnstaple"" (Q808532)"
+wd:Q56189431,Bodmin,-4.718,50.466,England,"wikidata place ""Bodmin"" (Q889888)"
+wd:Q56189432,Andover,-1.4667,51.2167,England,"wikidata place ""Andover"" (Q492805)"
+wd:Q56189433,Boston,-0.0214,52.9746,England,"wikidata place ""Boston"" (Q311975)"
+wd:Q56189434,Bridgnorth,-2.4195,52.535,England,"wikidata place ""Bridgnorth"" (Q914000)"
+wd:Q56189435,Bridport,-2.7667,50.7333,England,"wikidata place ""Bridport"" (Q914040)"
+wd:Q56189451,Honiton,-3.19,50.8,England,"wikidata place ""Honiton"" (Q647123)"
+wd:Q56189453,Hertford,-0.078,51.795,England,"wikidata place ""Hertford"" (Q9681)"
+wd:Q56189454,Knaresborough,-1.467,54.0084,England,"wikidata place ""Knaresborough"" (Q535902)"
+wd:Q56189456,King's Lynn,0.3976,52.7543,England,"wikidata place ""King's Lynn"" (Q157341)"
+wd:Q56189458,Marlborough,-1.7274,51.4212,England,"wikidata place ""Marlborough"" (Q539528)"
+wd:Q56189459,Malton,-0.792,54.139,England,"wikidata place ""Malton"" (Q280506)"
+wd:Q56189461,Lymington,-1.55,50.75,England,"wikidata place ""Lymington"" (Q1018133)"
+wd:Q56189462,Oxford,-1.26,51.75,England,"wikidata P625 of constituency ""Oxford"""
+wd:Q56189464,Newport (Isle of Wight),-1.2883,50.701,England,"wikidata place ""Newport"" (Q985594)"
+wd:Q56189466,Pontefract,-1.312,53.691,England,"wikidata place ""Pontefract"" (Q1009235)"
+wd:Q56189468,Stamford,-0.4837,52.6556,England,"wikidata place ""Stamford"" (Q1000662)"
+wd:Q56189470,Tavistock,-4.1442,50.55,England,"wikidata place ""Tavistock"" (Q668262)"
+wd:Q56189475,Winchester,-1.317,51.063,England,"wikidata P625 of constituency ""Winchester"""
+wd:Q56189476,Cirencester,-1.968,51.719,England,"wikidata place ""Cirencester"" (Q852772)"
+wd:Q56189478,Cockermouth,-3.362,54.6613,England,"wikidata place ""Cockermouth"" (Q241684)"
+wd:Q56189479,Cricklade,-1.861,51.6414,England,"wikidata place ""Cricklade"" (Q533456)"
+wd:Q56189482,Evesham,-1.95,52.09,England,"wikidata place ""Evesham"" (Q585963)"
+wd:Q56189483,Dorchester,-2.4397,50.7108,England,"wikidata place ""Dorchester"" (Q503331)"
+wd:Q56189484,Grantham,-0.6381,52.9181,England,"wikidata place ""Grantham"" (Q846683)"
+wd:Q56189487,Hastings,0.57,50.85,England,"wikidata place ""Hastings"" (Q21886138)"
+wd:Q56189488,Great Marlow,-0.8042,51.5861,England,"wikidata item ""Great Marlow"" (Q1914721)"
+wd:Q5637336,Hackney,-0.0595,51.5433,England,"wikidata place ""Hackney"" (Q58888182)"
+wd:Q5637345,Hackney Central,-0.0595,51.5433,England,"wikidata place ""Hackney"" (Q58888182)"
+wd:Q5637371,Hackney North,-0.0595,51.5658,England,"wikidata place ""Hackney"" (Q58888182), nudged 2.5 km by the direction in its name"
+wd:Q5637381,Hackney South,-0.0595,51.5208,England,"wikidata place ""Hackney"" (Q58888182), nudged 2.5 km by the direction in its name"
+wd:Q5637662,Haddington Burghs,-2.7833,55.9561,Scotland,"wikidata place ""Haddington"" (Q2281658)"
+wd:Q5637673,Haddingtonshire,-2.7838,55.9554,Scotland,stand-in town Haddington (OS Open Names)
+wd:Q5638684,Haggerston,-0.0766,51.5346,England,"wikidata place ""Haggerston"" (Q2146341)"
+wd:Q5641520,Halesowen and Stourbridge,-2.06,52.46,England,"wikidata P625 of constituency ""Halesowen"""
+wd:Q5642766,Hallamshire,-1.465,53.4396,England,stand-in town Ecclesfield (OS Open Names)
+wd:Q5643601,Haltemprice,-0.428,53.751,England,wikidata P625
+wd:Q5644826,Hamilton,-4.039,55.777,Scotland,"wikidata place ""Hamilton"" (Q4131)"
+wd:Q5645079,Hamilton North and Bellshill,-4.039,55.7995,Scotland,"wikidata place ""Hamilton"" (Q4131), nudged 2.5 km by the direction in its name"
+wd:Q5645154,Hamilton South,-4.039,55.7545,Scotland,"wikidata place ""Hamilton"" (Q4131), nudged 2.5 km by the direction in its name"
+wd:Q5645749,Hammersmith North,-0.23,51.51,England,"wikidata P625 of constituency ""Hammersmith"""
+wd:Q5645753,Hammersmith South,-0.23,51.51,England,"wikidata P625 of constituency ""Hammersmith"""
+wd:Q5646107,Hampstead,-0.1744,51.5541,England,"wikidata place ""Hampstead"" (Q25610)"
+wd:Q5648586,Hanley,-2.1729,53.0246,England,"wikidata place ""Hanley"" (Q1575653)"
+wd:Q5666491,Harrow Central,-0.34,51.58,England,wikidata P625
+wd:Q5680260,Hastings,0.57,50.85,England,"wikidata place ""Hastings"" (Q21886138)"
+wd:Q5683139,Havant and Waterloo,-0.98,50.82,England,"wikidata P625 of constituency ""Havant"""
+wd:Q5683762,Haverfordwest,-4.9694,51.8011,Wales,"wikidata place ""Haverfordwest"" (Q990103)"
+wd:Q5684762,Hawick Burghs,-2.7844,55.4247,Scotland,"wikidata place ""Hawick"" (Q407183)"
+wd:Q5710584,Helston,-5.27,50.1,England,"wikidata place ""Helston"" (Q1012535)"
+wd:Q5713575,Hendon North,-0.25,51.62,England,wikidata P625
+wd:Q5713603,Hendon South,-0.19,51.56,England,wikidata P625
+wd:Q5738069,Herefordshire,-2.7486,52.0938,England,"wikidata county ""Herefordshire"""
+wd:Q5744680,Hertford,-0.078,51.795,England,"wikidata place ""Hertford"" (Q9681)"
+wd:Q5744736,Hertford and Stevenage,-0.078,51.795,England,"wikidata place ""Hertford"" (Q9681)"
+wd:Q5746542,Heston and Isleworth,-0.3788,51.4852,England,"wikidata place ""Heston"" (Q2571386)"
+wd:Q5749903,Heywood and Royton,-2.219,53.59,England,"wikidata place ""Heywood"" (Q1013970)"
+wd:Q578636,Bristol South,-2.5859,51.4281,England,wikidata P625
+wd:Q581626,Airdrie and Shotts,-3.892,55.845,Scotland,wikidata P625
+wd:Q581697,Aldershot,-0.756,51.274,England,wikidata P625
+wd:Q581792,Aldridge-Brownhills,-1.93,52.61,England,wikidata P625
+wd:Q586563,Beaconsfield,-0.645,51.61,England,wikidata P625
+wd:Q586663,North East Fife,-2.9653,56.3158,Scotland,wikidata P625
+wd:Q5878675,Holborn,-0.1136,51.5204,England,"wikidata place ""Holborn"" (Q123624)"
+wd:Q5878698,Holborn and St Pancras South,-0.135,51.535,England,"wikidata P625 of constituency ""Holborn and St Pancras"""
+wd:Q5879629,Holderness,-0.172,53.795,England,"wikidata place ""Holderness"" (Q5879632)"
+wd:Q5881150,Holland with Boston,-0.1529,52.7858,England,"wikidata place ""Spalding"" (Q1185203)"
+wd:Q588875,Bexleyheath and Crayford,0.16,51.46,England,wikidata P625
+wd:Q588969,Altrincham and Sale West,-2.35,53.39,England,wikidata P625
+wd:Q589079,York Outer,-1.082,53.958,England,wikidata P625
+wd:Q589328,York Central,-1.082,53.957,England,wikidata P625
+wd:Q5896278,Honiton,-3.19,50.8,England,"wikidata place ""Honiton"" (Q647123)"
+wd:Q5904186,Hornchurch,0.201,51.529,England,wikidata P625
+wd:Q5906341,Horsham and Worthing,-0.3362,51.0434,England,"wikidata P625 of constituency ""Horsham"""
+wd:Q5912924,Houghton-le-Spring,-1.468,54.841,England,"wikidata place ""Houghton-le-Spring"" (Q2326854)"
+wd:Q5913011,Houghton and Washington East,-1.4667,54.8667,England,wikidata P625
+wd:Q5921455,Howdenshire,-0.8678,53.7458,England,stand-in town Howden (OS Open Names)
+wd:Q593845,East Grinstead,-0.0082,51.1241,England,"OS Open Names ""East Grinstead"""
+wd:Q5945155,Huntingdonshire,-0.2205,52.3813,England,"wikidata county ""Huntingdonshire"""
+wd:Q5953492,Hyde,-2.082,53.447,England,wikidata P625
+wd:Q597358,Lewisham Deptford,-0.04,51.47,England,wikidata P625
+wd:Q5997728,Ilford,0.0858,51.5575,England,"wikidata place ""Ilford"" (Q2297044)"
+wd:Q6014210,Ince,-2.6129,53.5384,England,"OS Open Names ""Ince-in-Makerfield"""
+wd:Q6060178,"Inverness, Nairn and Lochaber",-4.2258,57.4839,Scotland,"wikidata place ""Inverness"" (Q160493)"
+wd:Q6060192,Inverness,-4.2258,57.4839,Scotland,"wikidata place ""Inverness"" (Q160493)"
+wd:Q6060195,Inverness-shire,-4.6667,57.0833,Scotland,"wikidata county ""Inverness-shire"""
+wd:Q6060209,Inverness Burghs,-4.2258,57.4839,Scotland,"wikidata place ""Inverness"" (Q160493)"
+wd:Q6060240,"Inverness East, Nairn and Lochaber",-4.1839,57.4839,Scotland,"wikidata place ""Inverness"" (Q160493), nudged 2.5 km by the direction in its name"
+wd:Q6083907,Isle of Ely,0.2625,52.3996,England,stand-in town Ely (OS Open Names)
+wd:Q6084336,Islington Central,-0.1027,51.544,England,"wikidata place ""Islington"" (Q125163)"
+wd:Q6084357,Islington East,-0.0665,51.544,England,"wikidata place ""Islington"" (Q125163), nudged 2.5 km by the direction in its name"
+wd:Q6084398,Islington South,-0.1027,51.5215,England,"wikidata place ""Islington"" (Q125163), nudged 2.5 km by the direction in its name"
+wd:Q6084401,Islington South West,-0.1389,51.5215,England,"wikidata place ""Islington"" (Q125163), nudged 2.5 km by the direction in its name"
+wd:Q6084404,Islington West,-0.1389,51.544,England,"wikidata place ""Islington"" (Q125163), nudged 2.5 km by the direction in its name"
+wd:Q611841,Easington,-1.352,54.79,England,wikidata P625
+wd:Q612645,Oxfordshire,-1.2836,51.7792,England,"wikidata county ""Oxfordshire"""
+wd:Q613294,Worcester,-2.2,52.2,England,wikidata P625
+wd:Q6388837,Kendal,-2.745,54.326,England,"wikidata place ""Kendal"" (Q994575)"
+wd:Q6390915,Kennington,-0.1197,51.4813,England,"wikidata place ""Kennington"" (Q146696)"
+wd:Q6391484,Kensington South,-0.2,51.505,England,"wikidata P625 of constituency ""Kensington"""
+wd:Q6394447,Kerry,-9.75,52.1667,Ireland,"wikidata county ""Kerry"""
+wd:Q6406713,Kildare,-6.8,53.2,Ireland,"wikidata county ""Kildare"""
+wd:Q6407030,Kilkenny City,-7.25,52.5833,Ireland,"wikidata county ""Kilkenny"""
+wd:Q6407975,Kilmarnock,-4.4944,55.6117,Scotland,"wikidata place ""Kilmarnock"" (Q576562)"
+wd:Q6407976,Kilmarnock Burghs,-4.4944,55.6117,Scotland,"wikidata place ""Kilmarnock"" (Q576562)"
+wd:Q6410461,Kincardine and Western Aberdeenshire,-2.9159,57.1667,Scotland,"wikidata county ""Aberdeenshire"", nudged 15 km by the direction in its name"
+wd:Q6410465,Kincardineshire,-2.5,56.9167,Scotland,"wikidata county ""Kincardineshire"""
+wd:Q6410909,King's County,-7.4889,53.2739,Ireland,stand-in town Tullamore (GeoNames)
+wd:Q6410910,Tullamore,-7.5,53.2667,Ireland,"wikidata place ""Tullamore"" (Q321091)"
+wd:Q6410911,Birr,-7.9133,53.0914,Ireland,"wikidata place ""Birr"" (Q865849)"
+wd:Q6410993,King's Lynn,0.3976,52.7543,England,"wikidata place ""King's Lynn"" (Q157341)"
+wd:Q6413649,Kingston upon Hull Central,-0.3325,53.7444,England,"wikidata place ""Kingston upon Hull"" (Q128147)"
+wd:Q6413650,Kingston upon Hull,-0.3325,53.7444,England,"wikidata place ""Kingston upon Hull"" (Q128147)"
+wd:Q6413658,Kingston upon Hull North West,-0.5617,53.8796,England,"wikidata place ""Kingston upon Hull"" (Q128147), nudged 15 km by the direction in its name"
+wd:Q6413659,Kingston upon Hull South West,-0.5603,53.6093,England,"wikidata place ""Kingston upon Hull"" (Q128147), nudged 15 km by the direction in its name"
+wd:Q6413661,Kingston upon Hull West,-0.561,53.7444,England,"wikidata place ""Kingston upon Hull"" (Q128147), nudged 15 km by the direction in its name"
+wd:Q6413750,Kingswinford,-2.1657,52.4981,England,"wikidata place ""Kingswinford"" (Q6413749)"
+wd:Q6414228,Kinross and Western Perthshire,-3.6629,56.2,Scotland,"wikidata place ""Kinross"" (Q781885), nudged 15 km by the direction in its name"
+wd:Q6414238,Kinsale,-8.5306,51.7075,Ireland,"wikidata place ""Kinsale"" (Q840681)"
+wd:Q6415611,Kirkcaldy,-3.1674,56.1107,Scotland,"wikidata place ""Kirkcaldy"" (Q691685)"
+wd:Q6415613,Kirkcaldy Burghs,-3.1674,56.1107,Scotland,"wikidata place ""Kirkcaldy"" (Q691685)"
+wd:Q6415634,Kirkcudbright Stewartry,-4.0517,54.8353,Scotland,"wikidata place ""Kirkcudbright"" (Q1011387)"
+wd:Q6421779,Knaresborough,-1.467,54.0084,England,"wikidata place ""Knaresborough"" (Q535902)"
+wd:Q6423483,Knowsley North,-2.828,53.461,England,"wikidata P625 of constituency ""Knowsley"""
+wd:Q6423484,Knowsley North and Sefton East,-2.828,53.461,England,wikidata P625
+wd:Q6423490,Knowsley South,-2.824,53.425,England,wikidata P625
+wd:Q6481408,Lambeth,-0.1193,51.4903,England,"wikidata place ""Lambeth"" (Q148349)"
+wd:Q6481418,Lambeth Central,-0.1193,51.4903,England,"wikidata place ""Lambeth"" (Q148349)"
+wd:Q6482932,Lanarkshire,-3.8333,55.5833,Scotland,wikidata P625
+wd:Q6483099,Lancaster,-2.801,54.047,England,"wikidata place ""Lancaster"" (Q168052)"
+wd:Q6483288,Lancaster and Wyre,-2.928,53.992,England,wikidata P625
+wd:Q6485743,Langbaurgh,-1.1419,54.4978,England,"OS Open Names ""Langbaurgh"""
+wd:Q6498334,Launceston,-4.354,50.635,England,"wikidata place ""Launceston"" (Q287590)"
+wd:Q650377,Isle of Wight,-1.32,50.684,England,wikidata P625
+wd:Q6516050,Leeds North,-1.5436,53.82,England,"wikidata place ""Leeds"" (Q39121), nudged 2.5 km by the direction in its name"
+wd:Q6516097,Leeds South,-1.52,53.78,England,wikidata P625
+wd:Q6516099,Leeds South East,-1.5055,53.775,England,"wikidata place ""Leeds"" (Q39121), nudged 2.5 km by the direction in its name"
+wd:Q6516209,Leek,-2.0234,53.108,England,"wikidata place ""Leek"" (Q2070717)"
+wd:Q6519147,Leicester,-1.1331,52.6361,England,"wikidata place ""Leicester"" (Q83065)"
+wd:Q6519203,Leicester North East,-1.0959,52.6586,England,"wikidata place ""Leicester"" (Q83065), nudged 2.5 km by the direction in its name"
+wd:Q6519205,Leicester North West,-1.1702,52.6586,England,"wikidata place ""Leicester"" (Q83065), nudged 2.5 km by the direction in its name"
+wd:Q6519226,Leicester South East,-1.096,52.6136,England,"wikidata place ""Leicester"" (Q83065), nudged 2.5 km by the direction in its name"
+wd:Q6519228,Leicester South West,-1.1701,52.6136,England,"wikidata place ""Leicester"" (Q83065), nudged 2.5 km by the direction in its name"
+wd:Q6520375,Leith,-3.17,55.9801,Scotland,"wikidata place ""Leith"" (Q1018540)"
+wd:Q6520434,Leitrim,-8.0,54.1167,Ireland,"wikidata county ""Leitrim"""
+wd:Q6537299,Lewisham,-0.0054,51.4615,England,"wikidata place ""Lewisham"" (Q6537297)"
+wd:Q6537330,Lewisham South,-0.0054,51.4389,England,"wikidata place ""Lewisham"" (Q6537297), nudged 2.5 km by the direction in its name"
+wd:Q6538136,Leyton,-0.0155,51.5606,England,"wikidata place ""Leyton"" (Q2750829)"
+wd:Q6538140,Leyton East,0.0208,51.5606,England,"wikidata place ""Leyton"" (Q2750829), nudged 2.5 km by the direction in its name"
+wd:Q6538155,Leyton West,-0.0517,51.5606,England,"wikidata place ""Leyton"" (Q2750829), nudged 2.5 km by the direction in its name"
+wd:Q6543282,Lichfield and Tamworth,-1.8203,52.755,England,"wikidata P625 of constituency ""Lichfield"""
+wd:Q6549174,Limehouse,-0.0318,51.5158,England,"wikidata place ""Limehouse"" (Q123741)"
+wd:Q6549245,Limerick City,-8.6247,52.6616,Ireland,"wikidata item ""Limerick City"" (Q60499088)"
+wd:Q6554468,Linlithgow,-3.6106,55.9753,Scotland,"wikidata place ""Linlithgow"" (Q1016911)"
+wd:Q6558664,Lisburn,-6.0333,54.5167,Northern Ireland,"wikidata place ""Lisburn"" (Q1828035)"
+wd:Q661360,Edinburgh East,-3.1414,55.9441,Scotland,wikidata P625
+wd:Q6652902,Littleborough and Saddleworth,-2.1,53.64,England,wikidata P625
+wd:Q6658297,Liverpool,-2.9167,53.4167,England,"wikidata place ""Liverpool"" (Q21665571)"
+wd:Q6658313,Liverpool Abercromby,-2.9167,53.4167,England,"wikidata place ""Liverpool"" (Q21665571)"
+wd:Q6658326,Liverpool Broadgreen,-2.8965,53.4062,England,"wikidata place ""Broadgreen"" (Q15204944)"
+wd:Q6658410,Liverpool Edge Hill,-2.9527,53.4036,England,"OS Open Names ""Edge Hill"""
+wd:Q6658422,Liverpool Everton,-2.9661,53.4188,England,"wikidata place ""Everton"" (Q3740854)"
+wd:Q6658428,Liverpool Exchange,-2.9167,53.4167,England,"wikidata place ""Liverpool"" (Q21665571)"
+wd:Q6658485,Liverpool Kirkdale,-2.9791,53.4333,England,"OS Open Names ""Kirkdale"""
+wd:Q6658511,Liverpool Mossley Hill,-2.909,53.383,England,wikidata P625
+wd:Q6658554,Liverpool Scotland Exchange,-2.9167,53.4167,England,"wikidata place ""Liverpool"" (Q21665571)"
+wd:Q6658555,Liverpool Scotland,-2.981,53.415,England,"wikidata item ""Scotland"" (Q136463410)"
+wd:Q6658596,Liverpool Toxteth,-2.9718,53.3868,England,"OS Open Names ""Toxteth"""
+wd:Q6658629,Liverpool West Toxteth,-2.9545,53.4167,England,"wikidata place ""Liverpool"" (Q21665571), nudged 2.5 km by the direction in its name"
+wd:Q6670993,London University,-0.129,51.522,England,"hand: university seat placed at Bloomsbury, London"
+wd:Q6671187,Londonderry County,-6.85,54.92,Northern Ireland,"wikidata county ""Londonderry"""
+wd:Q6671190,Londonderry City,-6.85,54.92,Northern Ireland,"wikidata county ""Londonderry"""
+wd:Q6673825,Longford,-7.75,53.6667,Ireland,"wikidata county ""Longford"""
+wd:Q6674824,Lonsdale,-2.7675,54.1289,England,stand-in town Carnforth (OS Open Names)
+wd:Q6689838,"Louth, Lincolnshire",-0.224,53.1173,England,"wikidata county ""Lincolnshire"""
+wd:Q6694032,Lowestoft,1.68,52.45,England,wikidata P625
+wd:Q6705897,Luton West,-0.4644,51.8911,England,"wikidata place ""Luton"" (Q21683239), nudged 2.5 km by the direction in its name"
+wd:Q6708159,Lyme Regis,-2.9353,50.725,England,"wikidata place ""Lyme Regis"" (Q82490)"
+wd:Q6708178,Lymington,-1.55,50.75,England,"wikidata place ""Lymington"" (Q1018133)"
+wd:Q672633,Kingston-upon-Thames,-0.3036,51.409,England,stand-in town Kingston upon Thames (OS Open Names)
+wd:Q672693,Carmarthen,-4.1712,51.9373,Wales,"wikidata P625 of constituency ""Carmarthen"""
+wd:Q6735490,Maidstone,0.5294,51.2717,England,"wikidata place ""Maidstone"" (Q213180)"
+wd:Q6744298,Mallow,-8.6415,52.131,Ireland,"wikidata item ""Mallow"" (Q922247)"
+wd:Q6744359,Malmesbury,-2.0996,51.5848,England,"wikidata place ""Malmesbury"" (Q570153)"
+wd:Q6744914,Malton,-0.792,54.139,England,"wikidata place ""Malton"" (Q280506)"
+wd:Q6747249,Manchester,-2.25,53.4167,England,"wikidata place ""Manchester"" (Q21525592)"
+wd:Q6747273,Manchester Ardwick,-2.2161,53.4722,England,"wikidata place ""Ardwick"" (Q2860767)"
+wd:Q6747315,Manchester Cheetham,-2.25,53.4167,England,"wikidata place ""Manchester"" (Q21525592)"
+wd:Q6747394,Manchester East,-2.2122,53.4167,England,"wikidata place ""Manchester"" (Q21525592), nudged 2.5 km by the direction in its name"
+wd:Q6747435,Manchester Hulme,-2.247,53.467,England,"OS Open Names ""Hulme"""
+wd:Q6747464,Manchester North,-2.21,53.51,England,wikidata P625
+wd:Q6747466,Manchester North East,-2.2122,53.4392,England,"wikidata place ""Manchester"" (Q21525592), nudged 2.5 km by the direction in its name"
+wd:Q6747472,Manchester Openshaw,-2.25,53.4167,England,"wikidata place ""Manchester"" (Q21525592)"
+wd:Q6747481,Manchester Platting,-2.25,53.4167,England,"wikidata place ""Manchester"" (Q21525592)"
+wd:Q6747501,Manchester Rusholme,-2.2317,53.4574,England,"wikidata P625 of constituency ""Manchester Rusholme"""
+wd:Q6747511,Manchester South West,-2.2878,53.3941,England,"wikidata place ""Manchester"" (Q21525592), nudged 2.5 km by the direction in its name"
+wd:Q6747520,Manchester South,-2.25,53.3941,England,"wikidata place ""Manchester"" (Q21525592), nudged 2.5 km by the direction in its name"
+wd:Q6747560,Manchester Wythenshawe,-2.269,53.397,England,wikidata P625
+wd:Q6771655,Marlborough,-1.7274,51.4212,England,"wikidata place ""Marlborough"" (Q539528)"
+wd:Q6781582,Marylebone,-0.147,51.5177,England,"wikidata place ""Marylebone"" (Q123634)"
+wd:Q6781592,Marylebone East,-0.1108,51.5177,England,"wikidata place ""Marylebone"" (Q123634), nudged 2.5 km by the direction in its name"
+wd:Q6781595,Marylebone West,-0.1832,51.5177,England,"wikidata place ""Marylebone"" (Q123634), nudged 2.5 km by the direction in its name"
+wd:Q678298,Peebles and Southern Midlothian,-3.1889,55.6294,Scotland,"wikidata place ""Peebles"" (Q1011507), nudged 2.5 km by the direction in its name"
+wd:Q6797487,Mayo,-9.25,53.9,Ireland,"wikidata county ""Mayo"""
+wd:Q6804290,Meath,-6.6667,53.6667,Ireland,"wikidata county ""Meath"""
+wd:Q6807397,Medway,0.5,51.4333,England,wikidata P625
+wd:Q6813781,Melton,-0.8,52.8,England,"wikidata place ""Melton"" (Q1853349)"
+wd:Q6819499,Merioneth,-3.8333,52.8333,Wales,"wikidata item ""Merioneth"" (Q60576214)"
+wd:Q6820675,Merthyr,-4.3949,51.8618,Wales,"OS Open Names ""Merthyr"""
+wd:Q6820684,Merthyr Tydfil,-3.3781,51.7472,Wales,"wikidata place ""Merthyr Tydfil"" (Q752762)"
+wd:Q6820739,Merton and Morden,-0.1836,51.4139,England,"OS Open Names ""Merton"""
+wd:Q6840910,Mid Antrim,-6.28,54.865,Northern Ireland,"wikidata county ""Antrim"""
+wd:Q6840917,Mid Armagh,-6.656,54.348,Northern Ireland,"wikidata P625 of constituency ""Armagh"""
+wd:Q6840936,Mid Cheshire,-2.5157,53.2143,England,"wikidata P625 of constituency ""Mid Cheshire"""
+wd:Q6840948,Mid Cork,-8.75,52.0,Ireland,"wikidata county ""Cork"""
+wd:Q6840954,Mid Durham,-1.6143,54.7287,England,"wikidata county ""Durham"""
+wd:Q6840961,Mid Glamorganshire,-3.6667,51.6667,Wales,"wikidata item ""Glamorganshire"" (Q60576202)"
+wd:Q6840966,Mid Kent,0.7115,51.2096,England,"wikidata county ""Kent"""
+wd:Q6840968,Mid Kent,0.7115,51.2096,England,"wikidata county ""Kent"""
+wd:Q6840970,Mid Lanarkshire,-4.21,55.81,Scotland,wikidata P625
+wd:Q6840976,Mid Lincolnshire,-0.224,53.1173,England,"wikidata county ""Lincolnshire"""
+wd:Q6840987,Mid Northamptonshire,-0.8101,52.3166,England,"wikidata county ""Northamptonshire"""
+wd:Q6840997,Mid Somerset,-2.9,51.1,England,"wikidata item ""Somerset"" (Q21694741)"
+wd:Q6841003,Mid Staffordshire,-2.0532,52.8104,England,"wikidata county ""Staffordshire"""
+wd:Q6841016,Mid Surrey,-0.4116,51.2597,England,"wikidata county ""Surrey"""
+wd:Q6841025,Mid Tipperary,-7.8333,52.6667,Ireland,"wikidata county ""Tipperary"""
+wd:Q6841028,Mid Tyrone,-7.16,54.61,Northern Ireland,"wikidata county ""Tyrone"""
+wd:Q6841848,Middlesbrough East,-1.2239,54.5589,England,"wikidata P625 of constituency ""Middlesbrough"""
+wd:Q6841864,Middlesbrough West,-1.2239,54.5589,England,"wikidata P625 of constituency ""Middlesbrough"""
+wd:Q6841887,Middlesex,-0.27,51.54,England,"wikidata county ""Middlesex"""
+wd:Q6841998,Middleton,-2.188,53.5552,England,"wikidata place ""Middleton"" (Q2560244)"
+wd:Q6842052,Middleton and Prestwich,-2.188,53.5552,England,"wikidata place ""Middleton"" (Q2560244)"
+wd:Q6842577,Midlothian,-3.1078,55.8217,Scotland,"wikidata P625 of constituency ""Midlothian"""
+wd:Q6842595,Midlothian and Peebles Northern,-3.1078,55.8217,Scotland,"wikidata P625 of constituency ""Midlothian"""
+wd:Q6851063,Mile End,0.8919,51.9132,England,"wikidata place ""Mile End"" (Q21337965)"
+wd:Q6861205,Milton Keynes,-0.7667,52.0333,England,"wikidata place ""Milton Keynes"" (Q204234)"
+wd:Q6861254,North East Milton Keynes,-0.648,52.056,England,wikidata P625
+wd:Q6861280,Milton Keynes South West,-0.721,52.009,England,wikidata P625
+wd:Q6881035,Mitcham,-0.1517,51.4009,England,"wikidata place ""Mitcham"" (Q687798)"
+wd:Q6897887,Monaghan,-7.04,54.244,Ireland,"wikidata county ""Monaghan"""
+wd:Q6900916,Monklands East,-3.9809,55.866,Scotland,stand-in town Airdrie (OS Open Names)
+wd:Q6900918,Monklands West,-4.0291,55.8624,Scotland,stand-in town Coatbridge (OS Open Names)
+wd:Q6901058,Monmouth Boroughs,-2.811,51.768,Wales,"wikidata P625 of constituency ""Monmouth"""
+wd:Q6901156,Monmouthshire,-2.811,51.768,Wales,wikidata P625
+wd:Q6906468,Montrose Burghs,-2.467,56.708,Scotland,"wikidata place ""Montrose"" (Q420303)"
+wd:Q6909455,Moray and Nairn,-3.248,57.512,Scotland,"wikidata P625 of constituency ""Moray"""
+wd:Q6912506,Morley,-1.6023,53.7492,England,"wikidata place ""Morley"" (Q1021179)"
+wd:Q6912563,Morley and Leeds South,-1.52,53.78,England,"wikidata P625 of constituency ""Leeds South"""
+wd:Q6912564,Morley and Rothwell,-1.602,53.749,England,wikidata P625
+wd:Q6913337,Morpeth,-1.6908,55.1675,England,"wikidata place ""Morpeth"" (Q736785)"
+wd:Q6916674,Mossley,-2.0387,53.5147,England,"wikidata place ""Mossley"" (Q613847)"
+wd:Q6917603,Motherwell,-3.9956,55.7892,Scotland,"wikidata place ""Motherwell"" (Q737547)"
+wd:Q6917614,Motherwell North,-3.9956,55.8117,Scotland,"wikidata place ""Motherwell"" (Q737547), nudged 2.5 km by the direction in its name"
+wd:Q6964385,Nantwich,-2.522,53.067,England,"wikidata place ""Nantwich"" (Q1077003)"
+wd:Q6990791,Nelson and Colne,-2.218,53.8346,England,"wikidata place ""Nelson"" (Q1857774)"
+wd:Q7007620,New Forest,-1.633,50.879,England,"wikidata place ""New Forest"" (Q1972541)"
+wd:Q7011340,New Ross,-6.9451,52.3956,Ireland,"wikidata item ""New Ross"" (Q1016292)"
+wd:Q7017352,Newcastle-upon-Tyne,-1.6133,54.9778,England,wikidata P625
+wd:Q7018267,Newington Walworth,-0.0905,51.4898,England,"wikidata place ""Walworth"" (Q1231883)"
+wd:Q7018541,Newmarket,0.4105,52.2459,England,"wikidata place ""Newmarket"" (Q1382713)"
+wd:Q7018738,Newport (Isle of Wight),-1.2883,50.701,England,"wikidata place ""Newport"" (Q985594)"
+wd:Q7018745,Newport (Shropshire),-2.3787,52.7691,England,"wikidata place ""Newport"" (Q1027134)"
+wd:Q7020113,Newton,-2.645,53.4541,England,"OS Open Names ""Newton-le-Willows"""
+wd:Q7053945,North Angus and Mearns,-2.921,56.797,Scotland,"wikidata P625 of constituency ""Angus"""
+wd:Q7054037,North Ayrshire,-4.6358,55.5962,Scotland,"wikidata county ""Ayrshire"", nudged 15 km by the direction in its name"
+wd:Q7054123,North Bedfordshire,-0.4,52.19,England,wikidata P625
+wd:Q7054798,North Cheshire,-2.558,53.3239,England,"wikidata county ""Cheshire"", nudged 15 km by the direction in its name"
+wd:Q7054910,North Cork,-8.75,52.1351,Ireland,"wikidata county ""Cork"", nudged 15 km by the direction in its name"
+wd:Q7054951,North County Dublin,-6.1903,53.5869,Ireland,wikidata P625
+wd:Q7054978,North Cumberland,-3.0,54.8851,England,"wikidata county ""Cumberland"", nudged 15 km by the direction in its name"
+wd:Q7055109,North Derbyshire,-1.6043,53.2733,England,"wikidata county ""Derbyshire"", nudged 15 km by the direction in its name"
+wd:Q7055183,North East Cork,-8.5298,52.1351,Ireland,"wikidata county ""Cork"", nudged 15 km by the direction in its name"
+wd:Q7055209,North East Lanarkshire,-3.76,55.829,Scotland,wikidata P625
+wd:Q7055211,North East Lancashire,-2.3905,53.9277,England,"wikidata county ""Lancashire"", nudged 15 km by the direction in its name"
+wd:Q7055238,North East Tyrone,-6.9259,54.7451,Northern Ireland,"wikidata county ""Tyrone"", nudged 15 km by the direction in its name"
+wd:Q7055347,North Fermanagh,-7.713,54.451,Northern Ireland,"wikidata P625 of constituency ""Fermanagh"""
+wd:Q7055530,North Hampshire,-1.2835,51.1888,England,"wikidata county ""Hampshire"", nudged 15 km by the direction in its name"
+wd:Q7055589,North Hertfordshire,-0.2091,51.9999,England,"wikidata county ""Hertfordshire"", nudged 15 km by the direction in its name"
+wd:Q7055776,North Kerry,-9.75,52.3018,Ireland,"wikidata county ""Kerry"", nudged 15 km by the direction in its name"
+wd:Q7055786,North Kildare,-6.8,53.3351,Ireland,"wikidata county ""Kildare"", nudged 15 km by the direction in its name"
+wd:Q7055789,North Kilkenny,-7.25,52.7185,Ireland,"wikidata county ""Kilkenny"", nudged 15 km by the direction in its name"
+wd:Q7055938,North Leitrim,-8.0,54.2518,Ireland,"wikidata county ""Leitrim"", nudged 15 km by the direction in its name"
+wd:Q7055951,North Lincolnshire,-0.224,53.2525,England,"wikidata county ""Lincolnshire"", nudged 15 km by the direction in its name"
+wd:Q7055984,North Londonderry,-6.85,55.0551,Northern Ireland,"wikidata county ""Londonderry"", nudged 15 km by the direction in its name"
+wd:Q7055993,North Lonsdale,-3.0926,54.1954,England,stand-in town Ulverston (OS Open Names)
+wd:Q7056001,North Louth,-6.5,53.9685,Ireland,"wikidata county ""Louth"", nudged 15 km by the direction in its name"
+wd:Q7056058,North Mayo,-9.25,54.0351,Ireland,"wikidata county ""Mayo"", nudged 15 km by the direction in its name"
+wd:Q7056063,North Meath,-6.6667,53.8018,Ireland,"wikidata county ""Meath"", nudged 15 km by the direction in its name"
+wd:Q7056135,North Monaghan,-7.04,54.3791,Ireland,"wikidata county ""Monaghan"", nudged 15 km by the direction in its name"
+wd:Q7056138,North Monmouthshire,-2.811,51.768,Wales,"wikidata P625 of constituency ""Monmouthshire"""
+wd:Q7056200,North Northumberland,-1.91,55.51,England,"wikidata P625 of constituency ""North Northumberland"""
+wd:Q7056495,North Riding of Yorkshire,-1.4346,54.3409,England,stand-in town Northallerton (OS Open Names)
+wd:Q7056797,North Southwark and Bermondsey,-0.071,51.496,England,wikidata P625
+wd:Q7057004,North Tipperary,-7.8333,52.8018,Ireland,"wikidata county ""Tipperary"", nudged 15 km by the direction in its name"
+wd:Q7057070,North Tyrone,-7.16,54.7451,Northern Ireland,"wikidata county ""Tyrone"", nudged 15 km by the direction in its name"
+wd:Q7057267,North West Lanarkshire,-4.06,55.828,Scotland,wikidata P625
+wd:Q7057324,North West Staffordshire,-2.2775,52.9455,England,"wikidata county ""Staffordshire"", nudged 15 km by the direction in its name"
+wd:Q7057325,North West Surrey,-0.6282,51.3949,England,"wikidata county ""Surrey"", nudged 15 km by the direction in its name"
+wd:Q7057328,North West Tyrone,-7.3941,54.7451,Northern Ireland,"wikidata county ""Tyrone"", nudged 15 km by the direction in its name"
+wd:Q7057370,North Westmeath,-7.5,53.6351,Ireland,"wikidata county ""Westmeath"", nudged 15 km by the direction in its name"
+wd:Q7057378,North Wexford,-6.6667,52.6351,Ireland,"wikidata county ""Wexford"", nudged 15 km by the direction in its name"
+wd:Q7057425,North Worcestershire,-2.165,52.3548,England,"wikidata county ""Worcestershire"", nudged 15 km by the direction in its name"
+wd:Q7057582,Northampton,-0.9,52.2333,England,"wikidata place ""Northampton"" (Q192240)"
+wd:Q7057688,Northavon,-2.518,51.604,England,wikidata P625
+wd:Q7059137,Northern West Riding of Yorkshire,-2.0177,53.9602,England,stand-in town Skipton (OS Open Names)
+wd:Q7060431,Northwich,-2.518,53.259,England,"wikidata place ""Northwich"" (Q2009813)"
+wd:Q7061462,Norwich,1.3723,52.6202,England,"wikidata place ""Norwich"" (Q21886147)"
+wd:Q7061601,Norwood,-0.0986,51.4279,England,"OS Open Names ""West Norwood"""
+wd:Q7063585,Nottingham,-1.1492,52.955,England,"wikidata place ""Nottingham"" (Q41262)"
+wd:Q7063673,Nottingham North West,-1.1866,52.9775,England,"wikidata place ""Nottingham"" (Q41262), nudged 2.5 km by the direction in its name"
+wd:Q7076322,Ochil,-3.7917,56.116,Scotland,stand-in town Alloa (OS Open Names)
+wd:Q7085512,Oldbury and Halesowen,-2.0159,52.505,England,"wikidata place ""Oldbury"" (Q1857563)"
+wd:Q7085618,Oldham,-2.1183,53.5447,England,"wikidata place ""Oldham"" (Q202628)"
+wd:Q7085627,Oldham Central and Royton,-2.1183,53.5447,England,"wikidata place ""Oldham"" (Q202628)"
+wd:Q7085640,Oldham East,-2.0804,53.5447,England,"wikidata place ""Oldham"" (Q202628), nudged 2.5 km by the direction in its name"
+wd:Q7085662,Oldham West,-2.1562,53.5447,England,"wikidata place ""Oldham"" (Q202628), nudged 2.5 km by the direction in its name"
+wd:Q7103487,Ormskirk,-2.8869,53.5665,England,"wikidata place ""Ormskirk"" (Q1020958)"
+wd:Q7106525,Osgoldcross,-1.0281,53.6913,England,stand-in town Snaith (OS Open Names)
+wd:Q7108253,Oswestry,-3.055,52.861,England,"wikidata place ""Oswestry"" (Q574484)"
+wd:Q7108884,Otley,-1.687,53.905,England,"wikidata place ""Otley"" (Q658902)"
+wd:Q7115222,Oxford,-1.26,51.75,England,wikidata P625
+wd:Q7115504,Oxford University,-1.2546,51.7548,England,hand: university seat placed at Oxford
+wd:Q7123322,Paddington,-0.173,51.5172,England,"wikidata place ""Paddington"" (Q124230)"
+wd:Q7123334,Paddington North,-2.5541,53.422,England,"wikidata place ""Paddington"" (Q123137421), nudged 2.5 km by the direction in its name"
+wd:Q7123337,Paddington South,-2.5541,53.377,England,"wikidata place ""Paddington"" (Q123137421), nudged 2.5 km by the direction in its name"
+wd:Q7125170,Paisley,-4.4239,55.8456,Scotland,"wikidata place ""Paisley"" (Q211870)"
+wd:Q7125199,Paisley South,-4.4239,55.823,Scotland,"wikidata place ""Paisley"" (Q211870), nudged 2.5 km by the direction in its name"
+wd:Q7158743,Peckham,-0.0693,51.4772,England,"wikidata P625 of constituency ""Peckham"""
+wd:Q7160146,Peeblesshire,-3.1919,55.6532,Scotland,"wikidata county ""Peeblesshire"""
+wd:Q7161945,Pembroke,-4.9158,51.676,Wales,"wikidata place ""Pembroke"" (Q1762242)"
+wd:Q7161985,Pembroke and Haverfordwest,-4.9158,51.676,Wales,"wikidata place ""Pembroke"" (Q1762242)"
+wd:Q7161988,Pembrokeshire,-4.95,51.8333,Wales,"wikidata county ""Pembrokeshire"""
+wd:Q7163017,Penistone,-1.629,53.525,England,"wikidata place ""Penistone"" (Q2010576)"
+wd:Q7164597,Penrith,-2.7548,54.6648,England,"wikidata place ""Penrith"" (Q798906)"
+wd:Q7164618,Penrith and Cockermouth,-2.7548,54.6648,England,"wikidata place ""Penrith"" (Q798906)"
+wd:Q7164669,Penryn and Falmouth,-5.107,50.169,England,"wikidata place ""Penryn"" (Q1025788)"
+wd:Q7170803,Perth,-3.4333,56.3958,Scotland,"wikidata place ""Perth"" (Q203000)"
+wd:Q7170909,Perth and East Perthshire,-3.1892,56.3958,Scotland,"wikidata place ""Perth"" (Q203000), nudged 15 km by the direction in its name"
+wd:Q7170910,Perth and Kinross,-3.4833,56.4167,Scotland,"wikidata item ""Perth and Kinross"" (Q207679)"
+wd:Q7170933,Perthshire,-3.9417,56.4917,Scotland,"wikidata county ""Perthshire"""
+wd:Q7178213,Petersfield,-0.9345,51.0038,England,"wikidata place ""Petersfield"" (Q1247815)"
+wd:Q7200802,Plaistow,0.0245,51.5243,England,"wikidata place ""Plaistow"" (Q2407244)"
+wd:Q7205758,Plymouth,-4.1422,50.3714,England,"wikidata place ""Plymouth"" (Q43382)"
+wd:Q7205799,Plymouth Drake,-4.1352,50.3783,England,"wikidata item ""Drake"" (Q5305586)"
+wd:Q7228170,Pontefract,-1.312,53.691,England,"wikidata place ""Pontefract"" (Q1009235)"
+wd:Q7228406,Pontypool,-3.041,51.703,Wales,"wikidata place ""Pontypool"" (Q1021164)"
+wd:Q7229377,Poplar,-0.0178,51.5066,England,"wikidata place ""Poplar"" (Q123360)"
+wd:Q7229427,Poplar South,-0.0178,51.4841,England,"wikidata place ""Poplar"" (Q123360), nudged 2.5 km by the direction in its name"
+wd:Q7231525,Portarlington,-7.1903,53.1611,Ireland,"wikidata place ""Portarlington"" (Q1989246)"
+wd:Q7232428,Portsmouth,-1.0872,50.8058,England,"wikidata place ""Portsmouth"" (Q72259)"
+wd:Q7232434,Portsmouth Central,-1.0872,50.8058,England,"wikidata place ""Portsmouth"" (Q72259)"
+wd:Q7232475,Portsmouth Langstone,-1.0872,50.8058,England,"wikidata place ""Portsmouth"" (Q72259)"
+wd:Q7232506,Portsmouth West,-1.1229,50.8058,England,"wikidata place ""Portsmouth"" (Q72259), nudged 2.5 km by the direction in its name"
+wd:Q7241954,Preston North,-2.6915,53.7721,England,"wikidata P625 of constituency ""Preston"""
+wd:Q7241996,Preston South,-2.6915,53.7721,England,"wikidata P625 of constituency ""Preston"""
+wd:Q7242069,Prestwich,-2.2833,53.5333,England,"wikidata place ""Prestwich"" (Q1003559)"
+wd:Q7269965,Queen's County,-7.2998,53.0344,Ireland,stand-in town Portlaoise (GeoNames)
+wd:Q7269966,Leix,-7.2998,53.0344,Ireland,stand-in town Portlaoise (GeoNames)
+wd:Q7269967,Ossory,-7.2998,53.0344,Ireland,stand-in town Portlaoise (GeoNames)
+wd:Q7270141,Queen's University of Belfast,-5.935,54.5844,Northern Ireland,hand: university seat placed at Belfast
+wd:Q7280017,Radcliffe-cum-Farnworth,-2.3277,53.5611,England,stand-in town Radcliffe (OS Open Names)
+wd:Q7281491,Radnorshire,-3.25,52.25,Wales,"wikidata county ""Radnorshire"""
+wd:Q7290200,Ramsey,-0.12,52.45,England,"wikidata place ""Ramsey"" (Q547659)"
+wd:Q7296493,Ravensbourne,-0.013,51.3733,England,stand-in town West Wickham (OS Open Names)
+wd:Q7298478,Rayleigh,0.66,51.59,England,wikidata P625
+wd:Q7300456,Reading,-0.9731,51.4542,England,wikidata P625
+wd:Q7300532,Reading North,-0.9731,51.4542,England,"wikidata P625 of constituency ""Reading"""
+wd:Q7300564,Reading South,-0.9731,51.4542,England,"wikidata P625 of constituency ""Reading"""
+wd:Q730581,Preston,-2.6915,53.7721,England,wikidata P625
+wd:Q7313178,Renfrew West and Inverclyde,-4.4068,55.8667,Scotland,"wikidata place ""Renfrew"" (Q615693), nudged 2.5 km by the direction in its name"
+wd:Q7313180,Renfrewshire,-4.5083,55.8416,Scotland,"wikidata county ""Renfrewshire"""
+wd:Q731571,Kingston upon Hull East,-0.287,53.767,England,wikidata P625
+wd:Q7321390,Rhondda East,-3.491,51.6548,Wales,"wikidata P625 of constituency ""Rhondda"""
+wd:Q7321401,Rhondda West,-3.491,51.6548,Wales,"wikidata P625 of constituency ""Rhondda"""
+wd:Q7330751,Richmond (Surrey),-0.301,51.456,England,"wikidata place ""Richmond"" (Q2500974)"
+wd:Q7331045,Richmond and Barnes,-0.301,51.456,England,"wikidata place ""Richmond"" (Q2500974)"
+wd:Q7354068,Rochford,0.71,51.58,England,wikidata P625
+wd:Q7363323,Romsey,-1.491,51.004,England,wikidata P625
+wd:Q7367568,Roscommon,-8.25,53.75,Ireland,"wikidata county ""Roscommon"""
+wd:Q736909,North Tyneside,-1.546,55.008,England,wikidata P625
+wd:Q7369140,"Ross, Cromarty and Skye",-4.037,57.6816,Scotland,"wikidata place ""Cromarty"" (Q1012390)"
+wd:Q7369147,"Ross, Skye and Inverness West",-4.2677,57.4839,Scotland,"wikidata place ""Inverness"" (Q160493), nudged 2.5 km by the direction in its name"
+wd:Q7369157,Ross,-2.5837,51.9139,England,"OS Open Names ""Ross-on-Wye"""
+wd:Q7369728,Ross and Cromarty,-5.0,57.6667,Scotland,"wikidata item ""Ross and Cromarty"" (Q1586842)"
+wd:Q7369780,Rossendale,-2.24,53.708,England,wikidata P625
+wd:Q7370453,Rotherhithe,-0.0426,51.4989,England,"wikidata place ""Rotherhithe"" (Q2886632)"
+wd:Q7370523,Rothwell,-1.4736,53.7553,England,"wikidata place ""Rothwell"" (Q2162284)"
+wd:Q7372244,Rowley Regis and Tipton,-2.06,52.48,England,"wikidata place ""Rowley Regis"" (Q2571152)"
+wd:Q7372391,"Roxburgh, Selkirk and Peebles",-2.476,55.5693,Scotland,"OS Open Names ""Roxburgh"""
+wd:Q7372401,Roxburgh and Berwickshire,-2.476,55.5693,Scotland,"OS Open Names ""Roxburgh"""
+wd:Q7372407,Roxburgh and Selkirk,-2.476,55.5693,Scotland,"OS Open Names ""Roxburgh"""
+wd:Q7372409,Roxburghshire,-2.4783,55.5689,Scotland,"wikidata county ""Roxburghshire"""
+wd:Q7375272,Royton,-2.121,53.566,England,"wikidata place ""Royton"" (Q2338847)"
+wd:Q7378259,Rugby and Kenilworth,-1.35,52.35,England,wikidata P625
+wd:Q7378807,Ruislip-Northwood,-0.435,51.589,England,wikidata P625
+wd:Q7379726,Runcorn,-2.7336,53.3419,England,"wikidata place ""Runcorn"" (Q1009316)"
+wd:Q7383370,Rutherglen,-4.133,55.8136,Scotland,"wikidata P625 of constituency ""Rutherglen"""
+wd:Q7383475,Rutland,-0.644,52.6554,England,"wikidata county ""Rutland"""
+wd:Q7383514,Rutland and Stamford,-0.5523,52.6993,England,"wikidata P625 of constituency ""Rutland and Stamford"""
+wd:Q7384947,Rye,0.7333,50.95,England,"wikidata place ""Rye"" (Q1020800)"
+wd:Q7384999,Ryedale,-0.79,54.139,England,wikidata P625
+wd:Q740118,Stratford-on-Avon,-1.7,52.15,England,wikidata P625
+wd:Q7404378,Salford East,-2.2997,53.4937,England,"wikidata P625 of constituency ""Salford"""
+wd:Q7404384,Salford North,-2.2997,53.4937,England,"wikidata P625 of constituency ""Salford"""
+wd:Q7404390,Salford South,-2.2997,53.4937,England,"wikidata P625 of constituency ""Salford"""
+wd:Q7404394,Salford West,-2.2997,53.4937,England,"wikidata P625 of constituency ""Salford"""
+wd:Q7417071,Sandwich,1.3389,51.2747,England,"wikidata place ""Sandwich"" (Q26163)"
+wd:Q7430262,Scarborough,-0.4,54.2825,England,"wikidata place ""Scarborough"" (Q743521)"
+wd:Q7440479,Seaham,-1.34,54.84,England,"wikidata place ""Seaham"" (Q2345990)"
+wd:Q7447544,Selby,-1.079,53.777,England,wikidata P625
+wd:Q7448561,Selkirkshire,-3.0,55.5,Scotland,"wikidata county ""Selkirkshire"""
+wd:Q745443,Glasgow Hillhead,-4.289,55.8725,Scotland,"OS Open Names ""Hillhead"""
+wd:Q7461115,Shaftesbury,-2.198,51.0066,England,"wikidata place ""Shaftesbury"" (Q631444)"
+wd:Q747784,Westminster,-0.1333,51.4995,England,"wikidata place ""Westminster"" (Q189960)"
+wd:Q748130,Truro and St Austell,-4.915,50.316,England,wikidata P625
+wd:Q7492573,Sheffield,-1.4703,53.3808,England,"wikidata place ""Sheffield"" (Q42448)"
+wd:Q7492582,Sheffield Attercliffe,-1.428,53.371,England,wikidata P625
+wd:Q7492662,Sheffield Ecclesall,-1.512,53.356,England,"wikidata place ""Ecclesall"" (Q130525765)"
+wd:Q7492712,Sheffield Neepsend,-1.474,53.393,England,"wikidata place ""Neepsend"" (Q6986915)"
+wd:Q7492722,Sheffield Park,-1.4703,53.3808,England,"wikidata place ""Sheffield"" (Q42448)"
+wd:Q7501397,Shoreditch and Finsbury,-0.078,51.526,England,"wikidata place ""Shoreditch"" (Q1027127)"
+wd:Q7501403,Shoreditch,-0.078,51.526,England,"wikidata place ""Shoreditch"" (Q1027127)"
+wd:Q7501413,Shoreham,0.1799,51.3334,England,"OS Open Names ""Shoreham"""
+wd:Q7503656,Shrewsbury,-2.86,52.72,England,"wikidata P625 of constituency ""Shrewsbury"""
+wd:Q750582,Alyn and Deeside,-3.117,53.208,Wales,wikidata P625
+wd:Q750643,Amber Valley,-1.4,53.03,England,wikidata P625
+wd:Q750661,Ynys Môn,-4.363,53.265,Wales,wikidata P625
+wd:Q750677,Yeovil,-2.81,50.9,England,wikidata P625
+wd:Q750690,Wythenshawe and Sale East,-2.27,53.41,England,wikidata P625
+wd:Q750781,Wyre Forest,-2.25,52.4,England,wikidata P625
+wd:Q7508023,Sidcup,0.1024,51.4263,England,"wikidata place ""Sidcup"" (Q146705)"
+wd:Q750810,Wyre and Preston North,-2.772,53.903,England,wikidata P625
+wd:Q750841,Wycombe,-0.8,51.6,England,wikidata P625
+wd:Q750870,Wrexham,-2.9497,53.0761,Wales,wikidata P625
+wd:Q750906,Worthing West,-0.4285,50.8165,England,wikidata P625
+wd:Q750956,Angus,-2.921,56.797,Scotland,wikidata P625
+wd:Q750978,Arfon,-4.2,53.2,Wales,wikidata P625
+wd:Q750994,Argyll and Bute,-5.349,55.933,Scotland,wikidata P625
+wd:Q751016,Arundel and South Downs,-0.4547,50.9278,England,wikidata P625
+wd:Q751043,Ashfield,-1.27,53.12,England,wikidata P625
+wd:Q751068,Ashford,0.8,51.1,England,wikidata P625
+wd:Q751233,Ashton-under-Lyne,-2.1,53.48,England,wikidata P625
+wd:Q751262,Aylesbury,-0.817,51.816,England,wikidata P625
+wd:Q751285,"Ayr, Carrick and Cumnock",-4.618,55.301,Scotland,wikidata P625
+wd:Q751381,Putney,-0.224,51.454,England,wikidata P625
+wd:Q751466,Uxbridge and South Ruislip,-0.44,51.54,England,wikidata P625
+wd:Q751562,Belfast East,-5.8928,54.5983,Northern Ireland,wikidata P625
+wd:Q751580,Belfast North,-5.965,54.663,Northern Ireland,wikidata P625
+wd:Q751599,Belfast South,-5.9251,54.5824,Northern Ireland,wikidata P625
+wd:Q751608,Belfast West,-5.9566,54.6063,Northern Ireland,wikidata P625
+wd:Q751620,East Antrim,-5.952,54.9058,Northern Ireland,wikidata P625
+wd:Q751629,East Londonderry,-6.953,54.946,Northern Ireland,wikidata P625
+wd:Q751637,Fermanagh and South Tyrone,-7.309,54.542,Northern Ireland,wikidata P625
+wd:Q751642,Foyle,-7.2,54.93,Northern Ireland,wikidata P625
+wd:Q751651,Lagan Valley,-6.047,54.509,Northern Ireland,wikidata P625
+wd:Q751660,Mid Ulster,-6.941,54.722,Northern Ireland,wikidata P625
+wd:Q751675,Newry and Armagh,-6.6017,54.2478,Northern Ireland,wikidata P625
+wd:Q751685,North Antrim,-6.329,55.121,Northern Ireland,wikidata P625
+wd:Q7516863,Silvertown,0.03,51.5,England,"wikidata place ""Silvertown"" (Q2695621)"
+wd:Q751693,North Down,-5.69,54.6339,Northern Ireland,wikidata P625
+wd:Q751699,South Antrim,-6.241,54.721,Northern Ireland,wikidata P625
+wd:Q751715,South Down,-5.939,54.2344,Northern Ireland,wikidata P625
+wd:Q751724,Strangford,-5.618,54.484,Northern Ireland,wikidata P625
+wd:Q751737,Upper Bann,-6.3961,54.4217,Northern Ireland,wikidata P625
+wd:Q751745,West Tyrone,-7.5,54.522,Northern Ireland,wikidata P625
+wd:Q7535845,Skipton,-2.017,53.962,England,"wikidata place ""Skipton"" (Q516131)"
+wd:Q7539579,Sleaford,-0.413,52.996,England,"wikidata place ""Sleaford"" (Q1891939)"
+wd:Q7540492,Sligo Borough,-8.6667,54.25,Ireland,"wikidata county ""Sligo"""
+wd:Q7540496,Sligo County,-8.6667,54.25,Ireland,"wikidata county ""Sligo"""
+wd:Q7544484,Smethwick,-2.0,52.4833,England,wikidata P625
+wd:Q7565990,South Angus,-2.921,56.797,Scotland,"wikidata P625 of constituency ""Angus"""
+wd:Q7566010,South Armagh,-6.656,54.348,Northern Ireland,"wikidata P625 of constituency ""Armagh"""
+wd:Q7566218,South Ayrshire,-4.6358,55.3259,Scotland,"wikidata county ""Ayrshire"", nudged 15 km by the direction in its name"
+wd:Q7566290,South Bedfordshire,-0.4216,51.9192,England,"wikidata county ""Bedfordshire"", nudged 15 km by the direction in its name"
+wd:Q7566449,South Buckinghamshire,-0.7952,51.6622,England,"wikidata county ""Buckinghamshire"", nudged 15 km by the direction in its name"
+wd:Q7566801,South Cheshire,-2.504,53.109,England,wikidata P625
+wd:Q7566877,South Colchester and Maldon,0.9001,51.8868,England,"wikidata P625 of constituency ""Colchester"""
+wd:Q7566898,South Cork,-8.75,51.8649,Ireland,"wikidata county ""Cork"", nudged 15 km by the direction in its name"
+wd:Q7566909,South County Dublin,-6.25,53.3941,Ireland,"wikidata item ""County Dublin"" (Q173500), nudged 2.5 km by the direction in its name"
+wd:Q7567036,South Devon,-3.7152,50.3499,England,"wikidata P625 of constituency ""South Devon"""
+wd:Q7567065,South Donegal,-8.0,54.7849,Ireland,"wikidata county ""Donegal"", nudged 15 km by the direction in its name"
+wd:Q7567087,South Durham,-1.6143,54.5936,England,"wikidata county ""Durham"", nudged 15 km by the direction in its name"
+wd:Q7567106,South East Cork,-8.5312,51.8649,Ireland,"wikidata county ""Cork"", nudged 15 km by the direction in its name"
+wd:Q7567114,South East Durham,-1.3811,54.5936,England,"wikidata county ""Durham"", nudged 15 km by the direction in its name"
+wd:Q7567119,South East Essex,0.7827,51.624,England,"wikidata county ""Essex"", nudged 15 km by the direction in its name"
+wd:Q7567124,South East Lancashire,-2.3919,53.6575,England,"wikidata county ""Lancashire"", nudged 15 km by the direction in its name"
+wd:Q7567135,South East Staffordshire,-1.8304,52.6752,England,"wikidata county ""Staffordshire"", nudged 15 km by the direction in its name"
+wd:Q7567196,South Essex,0.565,51.624,England,"wikidata county ""Essex"", nudged 15 km by the direction in its name"
+wd:Q7567216,South Fermanagh,-7.713,54.451,Northern Ireland,"wikidata P625 of constituency ""Fermanagh"""
+wd:Q7567326,South Galway,-9.4503,53.2294,Ireland,"wikidata county ""Galway"", nudged 15 km by the direction in its name"
+wd:Q7567361,South Glamorganshire,-3.6667,51.5315,Wales,"wikidata item ""Glamorganshire"" (Q60576202), nudged 15 km by the direction in its name"
+wd:Q7567362,South Gloucestershire,-2.1826,51.6708,England,"wikidata county ""Gloucestershire"", nudged 15 km by the direction in its name"
+wd:Q7567414,South Hampshire,-1.2835,50.9185,England,"wikidata county ""Hampshire"", nudged 15 km by the direction in its name"
+wd:Q7567422,South Hams,-3.687,50.4314,England,stand-in town Totnes (OS Open Names)
+wd:Q7567451,South Hertfordshire,-0.2091,51.7296,England,"wikidata county ""Hertfordshire"", nudged 15 km by the direction in its name"
+wd:Q7567610,South Kerry,-9.75,52.0315,Ireland,"wikidata county ""Kerry"", nudged 15 km by the direction in its name"
+wd:Q7567620,South Kildare,-6.8,53.0649,Ireland,"wikidata county ""Kildare"", nudged 15 km by the direction in its name"
+wd:Q7567621,South Kilkenny,-7.25,52.4482,Ireland,"wikidata county ""Kilkenny"", nudged 15 km by the direction in its name"
+wd:Q7567784,South Lanarkshire,-3.8333,55.5833,Scotland,"wikidata P625 of constituency ""Lanarkshire"""
+wd:Q7567790,South Lancashire,-2.62,53.6575,England,"wikidata county ""Lancashire"", nudged 15 km by the direction in its name"
+wd:Q7567814,South Leitrim,-8.0,53.9815,Ireland,"wikidata county ""Leitrim"", nudged 15 km by the direction in its name"
+wd:Q7567823,South Lincolnshire,-0.224,52.9822,England,"wikidata county ""Lincolnshire"", nudged 15 km by the direction in its name"
+wd:Q7567857,South Londonderry,-6.897,54.838,Northern Ireland,wikidata P625
+wd:Q7567858,South Longford,-7.75,53.5315,Ireland,"wikidata county ""Longford"", nudged 15 km by the direction in its name"
+wd:Q7567867,South Louth,-6.5,53.6982,Ireland,"wikidata county ""Louth"", nudged 15 km by the direction in its name"
+wd:Q7567921,South Mayo,-9.25,53.7649,Ireland,"wikidata county ""Mayo"", nudged 15 km by the direction in its name"
+wd:Q7567924,South Meath,-6.6667,53.5315,Ireland,"wikidata county ""Meath"", nudged 15 km by the direction in its name"
+wd:Q7567971,South Molton,-3.8338,51.0179,England,"OS Open Names ""South Molton"""
+wd:Q7567973,South Monaghan,-7.04,54.1089,Ireland,"wikidata county ""Monaghan"", nudged 15 km by the direction in its name"
+wd:Q7567975,South Monmouthshire,-2.811,51.768,Wales,"wikidata P625 of constituency ""Monmouthshire"""
+wd:Q7568038,South Northumberland,-2.0253,55.0636,England,"wikidata county ""Northumberland"", nudged 15 km by the direction in its name"
+wd:Q7568050,South Nottinghamshire,-1.004,53.0194,England,"wikidata county ""Nottinghamshire"", nudged 15 km by the direction in its name"
+wd:Q7568347,South Roscommon,-8.25,53.6149,Ireland,"wikidata county ""Roscommon"", nudged 15 km by the direction in its name"
+wd:Q7568459,South Shropshire,-2.65,52.53,England,"wikidata P625 of constituency ""South Shropshire"""
+wd:Q7568507,South Sligo,-8.6667,54.1149,Ireland,"wikidata county ""Sligo"", nudged 15 km by the direction in its name"
+wd:Q7568519,South Somerset,-2.9,51.0775,England,"wikidata item ""Somerset"" (Q21694741), nudged 2.5 km by the direction in its name"
+wd:Q7568659,South Tipperary,-7.8333,52.5315,Ireland,"wikidata county ""Tipperary"", nudged 15 km by the direction in its name"
+wd:Q7568708,South Tyrone,-7.16,54.4749,Northern Ireland,"wikidata county ""Tyrone"", nudged 15 km by the direction in its name"
+wd:Q7568804,South Warwickshire,-1.5847,52.1983,England,"wikidata county ""Warwickshire"", nudged 15 km by the direction in its name"
+wd:Q7568833,South West Cambridgeshire,-0.1764,52.1946,England,"wikidata county ""Cambridgeshire"", nudged 15 km by the direction in its name"
+wd:Q7568862,South West Lancashire,-2.848,53.6575,England,"wikidata county ""Lancashire"", nudged 15 km by the direction in its name"
+wd:Q7568888,South West Staffordshire,-2.2761,52.6752,England,"wikidata county ""Staffordshire"", nudged 15 km by the direction in its name"
+wd:Q7568921,South Westmeath,-7.5,53.3649,Ireland,"wikidata county ""Westmeath"", nudged 15 km by the direction in its name"
+wd:Q7568946,South Wiltshire,-1.9149,51.1722,England,"wikidata county ""Wiltshire"", nudged 15 km by the direction in its name"
+wd:Q7568970,South Worcestershire,-2.165,52.0845,England,"wikidata county ""Worcestershire"", nudged 15 km by the direction in its name"
+wd:Q7569067,Southall,-0.3756,51.5111,England,"wikidata place ""Southall"" (Q83434)"
+wd:Q7569533,Southend,0.7147,51.5367,England,"wikidata place ""Southend-on-Sea"" (Q21487155)"
+wd:Q7569538,Southend East,0.7509,51.5367,England,"wikidata place ""Southend-on-Sea"" (Q21487155), nudged 2.5 km by the direction in its name"
+wd:Q7570626,Southern West Riding of Yorkshire,-1.3547,53.4307,England,stand-in town Rotherham (OS Open Names)
+wd:Q7571116,Southwark,-0.0901,51.4988,England,"wikidata place ""Southwark"" (Q5273898)"
+wd:Q7571133,Southwark Central,-0.0901,51.4988,England,"wikidata place ""Southwark"" (Q5273898)"
+wd:Q7571155,Southwark North,-0.0901,51.5213,England,"wikidata place ""Southwark"" (Q5273898), nudged 2.5 km by the direction in its name"
+wd:Q7571165,Southwark South East,-0.0539,51.4763,England,"wikidata place ""Southwark"" (Q5273898), nudged 2.5 km by the direction in its name"
+wd:Q7571172,Southwark West,-0.1263,51.4988,England,"wikidata place ""Southwark"" (Q5273898), nudged 2.5 km by the direction in its name"
+wd:Q7571174,Southwark and Bermondsey,-0.0901,51.4988,England,"wikidata place ""Southwark"" (Q5273898)"
+wd:Q7571870,Sowerby,-1.937,53.705,England,wikidata P625
+wd:Q7572965,Spalding,-0.1529,52.7858,England,"wikidata place ""Spalding"" (Q1185203)"
+wd:Q7575931,Spen Valley,-1.7,53.71,England,"wikidata P625 of constituency ""Spen Valley"""
+wd:Q7576301,Spennymoor,-1.59,54.7,England,"wikidata place ""Spennymoor"" (Q2219517)"
+wd:Q7592434,St Andrews Burghs,-3.019,56.285,Scotland,wikidata P625
+wd:Q7592531,St Augustine's,1.0225,51.2474,England,"OS Open Names ""St Augustine's"""
+wd:Q7592563,St Austell,-4.795,50.338,England,"wikidata place ""St Austell"" (Q772614)"
+wd:Q7593208,St George,-0.0667,51.5075,England,"OS Open Names ""Wapping"""
+wd:Q7593337,St Helens,-2.7461,53.4541,England,"wikidata place ""St Helens"" (Q153647)"
+wd:Q7594668,St Marylebone,-2.6275,53.56,England,stand-in town Marylebone (OS Open Names)
+wd:Q7595035,St Pancras East,-0.0816,51.5262,England,"wikidata place ""St Pancras"" (Q2065416), nudged 2.5 km by the direction in its name"
+wd:Q7595041,St Pancras North,-0.1178,51.5487,England,"wikidata place ""St Pancras"" (Q2065416), nudged 2.5 km by the direction in its name"
+wd:Q7595043,St Pancras South,-0.1178,51.5037,England,"wikidata place ""St Pancras"" (Q2065416), nudged 2.5 km by the direction in its name"
+wd:Q7595044,St Pancras South East,-0.0816,51.5037,England,"wikidata place ""St Pancras"" (Q2065416), nudged 2.5 km by the direction in its name"
+wd:Q7595045,St Pancras West,-0.154,51.5262,England,"wikidata place ""St Pancras"" (Q2065416), nudged 2.5 km by the direction in its name"
+wd:Q7595046,St Pancras South West,-0.154,51.5037,England,"wikidata place ""St Pancras"" (Q2065416), nudged 2.5 km by the direction in its name"
+wd:Q7596670,Stafford and Stone,-2.1346,52.7792,England,"wikidata P625 of constituency ""Stafford"""
+wd:Q7597341,Stalybridge,-2.04,53.4834,England,"wikidata place ""Stalybridge"" (Q1398653)"
+wd:Q7597374,Stamford,-0.4837,52.6556,England,"wikidata place ""Stamford"" (Q1000662)"
+wd:Q7597419,Stamford and Spalding,-0.4837,52.6556,England,"wikidata place ""Stamford"" (Q1000662)"
+wd:Q7611045,Stepney,-0.0462,51.5152,England,"wikidata place ""Stepney"" (Q123627)"
+wd:Q7611053,Stepney and Poplar,-0.0462,51.5152,England,"wikidata place ""Stepney"" (Q123627)"
+wd:Q7617564,Stirling Burghs,-4.082,56.119,Scotland,"wikidata P625 of constituency ""Stirling"""
+wd:Q7617591,Stirling and Falkirk,-3.847,56.061,Scotland,"wikidata item ""Stirling and Falkirk"" (Q7617588)"
+wd:Q7617604,Stirlingshire,-3.9382,56.1187,Scotland,"wikidata county ""Stirlingshire"""
+wd:Q7618165,Stockport North,-2.1696,53.4108,England,"wikidata P625 of constituency ""Stockport"""
+wd:Q7618170,Stockport South,-2.1696,53.4108,England,"wikidata P625 of constituency ""Stockport"""
+wd:Q7618214,Stockton-on-Tees,-1.3333,54.55,England,"wikidata place ""Stockton-on-Tees"" (Q894094)"
+wd:Q7618428,"Stoke-on-Trent, Stoke",1.1545,52.0484,England,"wikidata place ""Stoke"" (Q2372942)"
+wd:Q7618435,Stoke-upon-Trent,-2.1877,53.0066,England,"wikidata place ""Stoke-upon-Trent"" (Q727839)"
+wd:Q7618473,Stoke Newington,-0.0835,51.5572,England,"wikidata place ""Stoke Newington"" (Q2483346)"
+wd:Q7620717,Stowmarket,0.99,52.19,England,wikidata P625
+wd:Q7621219,Strand,-0.1248,51.5128,England,"OS Open Names ""Strand"""
+wd:Q7621998,Stratford West Ham,0.013,51.54,England,"wikidata P625 of constituency ""West Ham"""
+wd:Q7622117,Strathkelvin and Bearsden,-4.3332,55.9192,Scotland,"wikidata place ""Bearsden"" (Q1908426)"
+wd:Q7623502,Stretford,-2.3086,53.4467,England,"wikidata place ""Stretford"" (Q374458)"
+wd:Q7633491,Sudbury,0.7282,52.0417,England,"wikidata place ""Sudbury"" (Q1021319)"
+wd:Q7633546,Sudbury and Woodbridge,0.7282,52.0417,England,"wikidata place ""Sudbury"" (Q1021319)"
+wd:Q7639684,Sunderland,-1.3811,54.9044,England,"wikidata place ""Sunderland"" (Q188304)"
+wd:Q7639743,Sunderland South,-1.378,54.89,England,wikidata P625
+wd:Q7645503,Surbiton,-0.3,51.3923,England,"wikidata place ""Surbiton"" (Q2453259)"
+wd:Q7649960,Sutherland,-4.0322,58.082,Scotland,"wikidata county ""Sutherland"""
+wd:Q7653655,Swansea,-4.0,51.5833,Wales,"wikidata place ""Swansea"" (Q10996863)"
+wd:Q7653679,Swansea District,-4.0,51.5833,Wales,"wikidata place ""Swansea"" (Q10996863)"
+wd:Q7658414,Swindon,-1.74,51.57,England,"wikidata place ""Swindon"" (Q894093)"
+wd:Q767602,Wirral West,-3.159,53.3801,England,wikidata P625
+wd:Q7689122,Tavistock,-4.1442,50.55,England,"wikidata place ""Tavistock"" (Q668262)"
+wd:Q7710264,Thanet East,1.4,51.35,England,wikidata P625
+wd:Q7710265,Thanet West,1.3667,51.3667,England,wikidata P625
+wd:Q7783561,Thetford,0.74,52.41,England,"wikidata place ""Thetford"" (Q237250)"
+wd:Q7785130,Thirsk,-1.342,54.2327,England,"wikidata place ""Thirsk"" (Q641274)"
+wd:Q7796297,Thornaby,-1.303,54.548,England,"wikidata item ""Thornaby"" (Q20972980)"
+wd:Q7796330,Thornbury,-2.5249,51.6094,England,"wikidata place ""Thornbury"" (Q1234779)"
+wd:Q7808888,Tipperary,-7.8333,52.6667,Ireland,"wikidata county ""Tipperary"""
+wd:Q7810397,Tiverton,-3.488,50.903,England,"wikidata place ""Tiverton"" (Q637298)"
+wd:Q7820767,Tonbridge,0.24,50.99,England,wikidata P625
+wd:Q7826776,Torquay,-3.5281,50.4625,England,"wikidata place ""Torquay"" (Q209055)"
+wd:Q7827137,Torrington,-4.1433,50.9522,England,stand-in town Great Torrington (OS Open Names)
+wd:Q7828455,Tottenham North,-0.083,51.5868,England,"wikidata P625 of constituency ""Tottenham"""
+wd:Q7828461,Tottenham South,-0.083,51.5868,England,"wikidata P625 of constituency ""Tottenham"""
+wd:Q7829661,Tower Hamlets,1.3004,51.1292,England,"wikidata place ""Tower Hamlets"" (Q22154125)"
+wd:Q7833094,Tralee,-9.7026,52.2721,Ireland,"wikidata place ""Tralee"" (Q213358)"
+wd:Q7852826,Tunbridge,0.2722,51.1926,England,stand-in town Tonbridge (OS Open Names)
+wd:Q7857484,"Tweeddale, Ettrick and Lauderdale",-3.25,55.75,Scotland,"wikidata item ""Tweeddale"" (Q3542517)"
+wd:Q785779,Eastwood,-4.2998,55.7963,Scotland,"wikidata item ""Eastwood"" (Q64759353)"
+wd:Q785849,Birmingham South,-1.8982,52.458,England,"wikidata place ""Birmingham"" (Q20986424), nudged 2.5 km by the direction in its name"
+wd:Q7860478,Tyne Bridge,-1.606,54.968,England,wikidata P625
+wd:Q7860529,Tynemouth and North Shields,-1.443,55.0314,England,"OS Open Names ""North Shields"", nudged 2.5 km by the direction in its name"
+wd:Q7860537,Tyneside,-1.5336,54.9911,England,stand-in town Wallsend (OS Open Names)
+wd:Q7861573,Tyrone,-7.16,54.61,Northern Ireland,"wikidata county ""Tyrone"""
+wd:Q7896553,University of Wales,-4.064,52.4153,Wales,hand: university seat placed at Aberystwyth
+wd:Q7898389,Upminster,0.264,51.573,England,wikidata P625
+wd:Q7899370,Upton,0.0274,51.5387,England,"wikidata place ""Upton"" (Q24046264)"
+wd:Q7904008,Uxbridge,-0.463,51.539,England,wikidata P625
+wd:Q7909565,Vale of York,-1.19,54.098,England,wikidata P625
+wd:Q7963098,Wallingford,-1.125,51.599,England,"wikidata place ""Wallingford"" (Q988100)"
+wd:Q7963251,Wallsend,-1.533,54.991,England,wikidata P625
+wd:Q7963761,Walsall,-1.9825,52.585,England,"wikidata place ""Walsall"" (Q178356)"
+wd:Q7966639,Walthamstow West,-0.0208,51.5849,England,"wikidata P625 of constituency ""Walthamstow"""
+wd:Q7967299,Wandsworth,-0.192,51.455,England,"wikidata place ""Wandsworth"" (Q2166359)"
+wd:Q7967300,Wandsworth Central,-0.192,51.455,England,"wikidata place ""Wandsworth"" (Q2166359)"
+wd:Q7968078,Wansdyke,-2.5,51.3333,England,wikidata P625
+wd:Q7968105,Wanstead and Woodford,0.0286,51.5778,England,"wikidata place ""Wanstead"" (Q2491351)"
+wd:Q7969269,Wareham,-2.108,50.685,England,"wikidata place ""Wareham"" (Q387419)"
+wd:Q7969495,Warley East,-1.99,52.48,England,"wikidata P625 of constituency ""Warley"""
+wd:Q7969497,Warley West,-1.99,52.48,England,"wikidata P625 of constituency ""Warley"""
+wd:Q7970714,Warrington,-2.6029,53.3873,England,"wikidata place ""Warrington"" (Q215733)"
+wd:Q7971105,Warwick,-1.59,52.28,England,"wikidata place ""Warwick"" (Q549761)"
+wd:Q7974005,Waterford City,-7.1153,52.2592,Ireland,"wikidata item ""Waterford City"" (Q60498987)"
+wd:Q7974206,Waterloo,-3.029,53.491,England,"wikidata P625 of constituency ""Crosby"""
+wd:Q7979211,Wednesbury,-2.02,52.553,England,"wikidata place ""Wednesbury"" (Q501023)"
+wd:Q7981319,Wellington (Somerset),-3.2243,50.9755,England,"wikidata place ""Wellington"" (Q1026685)"
+wd:Q7982182,Wembley North,-0.3042,51.5785,England,"wikidata place ""Wembley"" (Q146858), nudged 2.5 km by the direction in its name"
+wd:Q7982188,Wembley South,-0.3042,51.5335,England,"wikidata place ""Wembley"" (Q146858), nudged 2.5 km by the direction in its name"
+wd:Q7983001,Wentworth,-1.375,53.475,England,wikidata P625
+wd:Q7984229,West Aberdeenshire,-2.9159,57.1667,Scotland,"wikidata county ""Aberdeenshire"", nudged 15 km by the direction in its name"
+wd:Q7984576,West Bromwich,-1.9939,52.5197,England,"wikidata P625 of constituency ""West Bromwich"""
+wd:Q7984658,West Carmarthenshire,-4.3846,51.9018,Wales,"wikidata county ""Carmarthenshire"", nudged 15 km by the direction in its name"
+wd:Q7984674,West Cavan,-7.4794,53.9167,Ireland,"wikidata county ""Cavan"", nudged 15 km by the direction in its name"
+wd:Q7984704,West Cheshire,-2.7836,53.1888,England,"wikidata county ""Cheshire"", nudged 15 km by the direction in its name"
+wd:Q7984705,West Chelmsford,0.44,51.76,England,wikidata P625
+wd:Q7984742,West Clare,-9.2237,52.8333,Ireland,"wikidata county ""Clare"", nudged 15 km by the direction in its name"
+wd:Q7984868,West Cork,-8.9695,52.0,Ireland,"wikidata county ""Cork"", nudged 15 km by the direction in its name"
+wd:Q7984874,West Cornwall,-5.0368,50.3583,England,"wikidata county ""Cornwall"", nudged 15 km by the direction in its name"
+wd:Q7984919,West Cumberland,-3.2341,54.75,England,"wikidata county ""Cumberland"", nudged 15 km by the direction in its name"
+wd:Q7984942,West Denbighshire,-3.6312,53.125,Wales,"wikidata item ""Denbighshire"" (Q60576231), nudged 15 km by the direction in its name"
+wd:Q7984962,West Devon,-4.0193,50.7176,England,"wikidata county ""Devon"", nudged 15 km by the direction in its name"
+wd:Q7984976,West Donegal,-8.2351,54.92,Ireland,"wikidata county ""Donegal"", nudged 15 km by the direction in its name"
+wd:Q7984985,West Down,-6.1719,54.36,Northern Ireland,"wikidata county ""Down"", nudged 15 km by the direction in its name"
+wd:Q7985120,West Essex,0.3467,51.7591,England,"wikidata county ""Essex"", nudged 15 km by the direction in its name"
+wd:Q7985155,West Fife,-3.393,56.2167,Scotland,"wikidata county ""Fife"", nudged 15 km by the direction in its name"
+wd:Q7985160,West Flintshire,-3.3925,53.25,Wales,"wikidata item ""Flintshire"" (Q60576213), nudged 15 km by the direction in its name"
+wd:Q7985288,West Ham North,0.013,51.54,England,"wikidata P625 of constituency ""West Ham"""
+wd:Q7985292,West Ham South,0.013,51.54,England,"wikidata P625 of constituency ""West Ham"""
+wd:Q7985350,West Hertfordshire,-0.428,51.8647,England,"wikidata county ""Hertfordshire"", nudged 15 km by the direction in its name"
+wd:Q7985607,West Kent,0.4958,51.2096,England,"wikidata county ""Kent"", nudged 15 km by the direction in its name"
+wd:Q7985613,West Kerry,-9.9703,52.1667,Ireland,"wikidata county ""Kerry"", nudged 15 km by the direction in its name"
+wd:Q7985749,West Limerick,-8.972,52.5,Ireland,"wikidata county ""Limerick"", nudged 15 km by the direction in its name"
+wd:Q7985812,West Lothian,-3.6418,55.9025,Scotland,stand-in town Bathgate (OS Open Names)
+wd:Q7985866,West Mayo,-9.4794,53.9,Ireland,"wikidata county ""Mayo"", nudged 15 km by the direction in its name"
+wd:Q7986082,West Norfolk,0.7265,52.6726,England,"wikidata county ""Norfolk"", nudged 15 km by the direction in its name"
+wd:Q7986337,West Renfrewshire,-4.749,55.8416,Scotland,"wikidata county ""Renfrewshire"", nudged 15 km by the direction in its name"
+wd:Q7986362,West Riding of Yorkshire,-1.4982,53.6837,England,stand-in town Wakefield (OS Open Names)
+wd:Q7986543,West Somerset,-2.9359,51.1,England,"wikidata item ""Somerset"" (Q21694741), nudged 2.5 km by the direction in its name"
+wd:Q7986578,West Staffordshire,-2.2768,52.8104,England,"wikidata county ""Staffordshire"", nudged 15 km by the direction in its name"
+wd:Q7986585,West Stirlingshire,-4.1806,56.1187,Scotland,"wikidata county ""Stirlingshire"", nudged 15 km by the direction in its name"
+wd:Q7986607,West Surrey,-0.6276,51.2597,England,"wikidata county ""Surrey"", nudged 15 km by the direction in its name"
+wd:Q7986984,West Waterford,-7.7207,52.25,Ireland,"wikidata county ""Waterford"", nudged 15 km by the direction in its name"
+wd:Q7986993,West Wicklow,-6.6412,53.0,Ireland,"wikidata county ""Wicklow"", nudged 15 km by the direction in its name"
+wd:Q7989084,Westmeath,-7.5,53.5,Ireland,"wikidata county ""Westmeath"""
+wd:Q7989114,Westminster Abbey,-0.1333,51.4995,England,"wikidata place ""Westminster"" (Q189960)"
+wd:Q7989218,Westminster St George's,-0.1333,51.4995,England,"wikidata place ""Westminster"" (Q189960)"
+wd:Q7989303,Westmorland,-2.5833,54.5,England,"wikidata county ""Westmorland"""
+wd:Q7990242,Wexford Borough,-6.6667,52.5,Ireland,"wikidata county ""Wexford"""
+wd:Q7990377,Weymouth and Melcombe Regis,-2.4569,50.6131,England,"wikidata item ""Weymouth and Melcombe Regis"" (Q60576268)"
+wd:Q7994162,Whitby,-2.905,53.276,England,"wikidata place ""Whitby"" (Q125610530)"
+wd:Q7995769,Whitechapel,-0.0692,51.5164,England,"wikidata place ""Whitechapel"" (Q124539)"
+wd:Q7995781,Whitechapel and St Georges,-0.0692,51.5164,England,"wikidata place ""Whitechapel"" (Q124539)"
+wd:Q7996010,Whitehaven,-3.5855,54.548,England,"wikidata place ""Whitehaven"" (Q1012481)"
+wd:Q7998231,Wick Burghs,-3.0917,58.4432,Scotland,"wikidata place ""Wick"" (Q1012502)"
+wd:Q7998425,Wicklow,-6.4167,53.0,Ireland,"wikidata county ""Wicklow"""
+wd:Q7998759,Widnes,-2.728,53.363,England,"wikidata place ""Widnes"" (Q1022741)"
+wd:Q7999732,Wigtown Burghs,-4.4439,54.8675,Scotland,"wikidata place ""Wigtown"" (Q1017196)"
+wd:Q7999736,Wigtownshire,-4.75,54.8333,Scotland,"wikidata county ""Wigtownshire"""
+wd:Q8003680,Willesden East,-0.1933,51.5468,England,"wikidata place ""Willesden"" (Q146702), nudged 2.5 km by the direction in its name"
+wd:Q8003689,Willesden West,-0.2657,51.5468,England,"wikidata place ""Willesden"" (Q146702), nudged 2.5 km by the direction in its name"
+wd:Q8023356,Wilton,-1.864,51.08,England,"wikidata place ""Wilton"" (Q1018668)"
+wd:Q8024739,Windsor and Maidenhead,-0.6667,51.4667,England,"wikidata place ""Windsor and Maidenhead"" (Q1368496)"
+wd:Q8026981,Wirral,-3.0119,53.397,England,"wikidata place ""Wirral"" (Q11365639)"
+wd:Q8027061,Wisbech,0.1603,52.6642,England,"wikidata place ""Wisbech"" (Q1012031)"
+wd:Q8030501,Wolverhampton East,-2.0882,52.5842,England,"wikidata place ""Wolverhampton"" (Q126269), nudged 2.5 km by the direction in its name"
+wd:Q8030512,Wolverhampton South,-2.1253,52.5616,England,"wikidata place ""Wolverhampton"" (Q126269), nudged 2.5 km by the direction in its name"
+wd:Q8030522,Wolverhampton West,-2.16,52.5885,England,"wikidata P625 of constituency ""Wolverhampton West"""
+wd:Q8032204,Wood Green,-0.1149,51.5981,England,"wikidata place ""Wood Green"" (Q1992780)"
+wd:Q8032407,Woodbridge,1.32,52.0939,England,"wikidata place ""Woodbridge"" (Q1021350)"
+wd:Q8032646,Woodford,0.0298,51.6048,England,"wikidata place ""Woodford"" (Q15103231)"
+wd:Q8033405,Woodstock,-1.354,51.845,England,"wikidata place ""Woodstock"" (Q752111)"
+wd:Q8033980,Woolwich East,0.1,51.49,England,wikidata P625
+wd:Q8033988,Woolwich West,0.0305,51.4917,England,"wikidata place ""Woolwich"" (Q1006232), nudged 2.5 km by the direction in its name"
+wd:Q8037104,Worsley,-2.41,53.51,England,wikidata P625
+wd:Q8037199,Worthing,-0.3869,50.8319,England,"wikidata place ""Worthing"" (Q21886170)"
+wd:Q8040446,Wyre,-2.763,53.985,England,wikidata P625
+wd:Q8057743,Youghal,-7.8456,51.9517,Ireland,"wikidata place ""Youghal"" (Q1012476)"
+wd:Q85751320,Ceredigion and Pembroke North,-4.0723,52.2559,Wales,"wikidata P625 of constituency ""Ceredigion"""
+wd:Q873520,Vale of Clwyd,-3.4072,53.2575,Wales,wikidata P625
+wd:Q873604,Vale of Glamorgan,-3.351,51.429,Wales,wikidata P625
+wd:Q873637,Vauxhall,-0.119,51.482,England,wikidata P625
+wd:Q873975,Worsley and Eccles South,-2.386,53.5096,England,wikidata P625
+wd:Q873994,Workington,-3.549,54.643,England,wikidata P625
+wd:Q874041,Wolverhampton South West,-2.17,52.59,England,wikidata P625
+wd:Q874069,Wolverhampton South East,-2.1,52.56,England,wikidata P625
+wd:Q874095,Wolverhampton North East,-2.11,52.61,England,wikidata P625
+wd:Q874123,Westminster North,-0.18,51.525,England,wikidata P625
+wd:Q874153,Wokingham,-0.9891,51.408,England,wikidata P625
+wd:Q874173,Woking,-0.6,51.3,England,wikidata P625
+wd:Q874194,Witney,-1.5,51.8,England,wikidata P625
+wd:Q874215,Witham,0.65,51.8,England,wikidata P625
+wd:Q874256,Wirral South,-3.0334,53.3342,England,wikidata P625
+wd:Q874276,Windsor,-0.6998,51.4349,England,wikidata P625
+wd:Q874300,Winchester,-1.317,51.063,England,wikidata P625
+wd:Q874319,Wimbledon,-0.218,51.417,England,wikidata P625
+wd:Q874340,Wigan,-2.64,53.54,England,wikidata P625
+wd:Q874356,Weston-super-Mare,-2.8772,51.3447,England,wikidata P625
+wd:Q874372,Westmorland and Lonsdale,-2.88,54.312,England,wikidata P625
+wd:Q874393,West Worcestershire,-2.3,52.15,England,wikidata P625
+wd:Q874416,West Suffolk,0.655,52.3466,England,wikidata P625
+wd:Q874435,West Lancashire,-2.818,53.56,England,wikidata P625
+wd:Q874463,West Ham,0.013,51.54,England,wikidata P625
+wd:Q874488,Wakefield,-1.499,53.683,England,wikidata P625
+wd:Q874525,East Dunbartonshire,-4.211,55.976,Scotland,wikidata P625
+wd:Q874545,West Dorset,-2.598,50.7889,England,wikidata P625
+wd:Q874568,West Bromwich West,-2.05,52.53,England,wikidata P625
+wd:Q874585,West Bromwich East,-1.98,52.54,England,wikidata P625
+wd:Q874607,West Aberdeenshire and Kincardine,-3.29,57.25,Scotland,wikidata P625
+wd:Q874623,Wentworth and Dearne,-1.41,53.509,England,wikidata P625
+wd:Q874643,Welwyn Hatfield,-0.1944,51.7694,England,wikidata P625
+wd:Q874666,Wells,-2.7216,51.2133,England,wikidata P625
+wd:Q874686,Wellingborough,-0.7,52.3,England,wikidata P625
+wd:Q874700,Weaver Vale,-2.531,53.26,England,wikidata P625
+wd:Q874714,Wealden,0.212,50.999,England,wikidata P625
+wd:Q874871,Waveney,1.5,52.4,England,wikidata P625
+wd:Q874921,Washington and Sunderland West,-1.499,54.891,England,wikidata P625
+wd:Q874946,Warwick and Leamington,-1.6,52.3,England,wikidata P625
+wd:Q874959,Warrington South,-2.55,53.3667,England,wikidata P625
+wd:Q874974,Warrington North,-2.5667,53.4,England,wikidata P625
+wd:Q874986,Warley,-1.99,52.48,England,wikidata P625
+wd:Q875011,Wantage,-1.43,51.6,England,wikidata P625
+wd:Q875033,Wansbeck,-1.6354,55.1657,England,wikidata P625
+wd:Q875059,Walthamstow,-0.0208,51.5849,England,wikidata P625
+wd:Q875087,Walsall South,-1.98,52.57,England,wikidata P625
+wd:Q875108,Walsall North,-2.01,52.61,England,wikidata P625
+wd:Q875135,Wallasey,-3.0742,53.4184,England,wikidata P625
+wd:Q875175,Tynemouth,-1.418,55.033,England,wikidata P625
+wd:Q875210,Twickenham,-0.345,51.428,England,wikidata P625
+wd:Q875225,Tunbridge Wells,0.3333,51.1167,England,wikidata P625
+wd:Q875246,Truro and Falmouth,-5.016,50.197,England,wikidata P625
+wd:Q875261,Tottenham,-0.083,51.5868,England,wikidata P625
+wd:Q875285,Totnes,-3.689,50.3479,England,wikidata P625
+wd:Q875359,Torridge and West Devon,-4.263,50.715,England,wikidata P625
+wd:Q875403,Streatham,-0.125,51.439,England,wikidata P625
+wd:Q875434,Torfaen,-3.063,51.696,Wales,wikidata P625
+wd:Q875454,Torbay,-3.538,50.46,England,wikidata P625
+wd:Q875474,Tooting,-0.165,51.438,England,wikidata P625
+wd:Q875493,Tonbridge and Malling,0.3333,51.2333,England,wikidata P625
+wd:Q93637808,West Staffordshire,-2.2768,52.8104,England,"wikidata county ""Staffordshire"", nudged 15 km by the direction in its name"
+wd:Q961816,Bermondsey,-0.0757,51.4986,England,"wikidata place ""Bermondsey"" (Q822040)"
+wd:Q972528,West Gloucestershire,-2.4011,51.806,England,"wikidata county ""Gloucestershire"", nudged 15 km by the direction in its name"
+wd:Q974748,Newcastle upon Tyne East,-1.57,54.99,England,wikidata P625
+wd:Q978713,Dudley,-2.11,52.52,England,"wikidata P625 of constituency ""Dudley"""
+wd:Q987857,Tiverton and Honiton,-3.349,50.827,England,wikidata P625
+wd:Q987872,Thurrock,0.32,51.48,England,wikidata P625
+wd:Q987884,Thornbury and Yate,-2.477,51.573,England,wikidata P625
+wd:Q987899,Thirsk and Malton,-0.9946,54.1984,England,wikidata P625
+wd:Q987915,The Wrekin,-2.454,52.716,England,wikidata P625
+wd:Q987938,The Cotswolds,-1.769,51.756,England,wikidata P625
+wd:Q987959,Tewkesbury,-2.0733,51.935,England,wikidata P625
+wd:Q987980,Telford,-2.449,52.678,England,wikidata P625
+wd:Q988001,Taunton Deane,-3.17,51.0,England,wikidata P625
+wd:Q988027,Tatton,-2.384,53.312,England,wikidata P625
+wd:Q988057,Tamworth,-1.7514,52.6244,England,wikidata P625
+wd:Q988068,Swansea West,-3.9864,51.6183,Wales,wikidata P625
+wd:Q988081,Swansea East,-3.9194,51.6503,Wales,wikidata P625
+wd:Q988127,Sutton Coldfield,-1.81,52.56,England,wikidata P625
+wd:Q988153,Sutton and Cheam,-0.209,51.362,England,wikidata P625
+wd:Q988166,Surrey Heath,-0.7,51.35,England,wikidata P625
+wd:Q988171,Sunderland Central,-1.381,54.904,England,wikidata P625
+wd:Q988194,Suffolk Coastal,1.5,52.15,England,wikidata P625
+wd:Q988211,Stroud,-2.28,51.74,England,wikidata P625
+wd:Q988219,Stretford and Urmston,-2.33,53.45,England,wikidata P625
+wd:Q988231,Stourbridge,-2.13,52.45,England,wikidata P625
+wd:Q988242,Stone,-2.1724,52.8724,England,wikidata P625
+wd:Q988262,Stoke-on-Trent South,-2.15,52.9833,England,wikidata P625
+wd:Q988278,Stoke-on-Trent North,-2.2,53.05,England,wikidata P625
+wd:Q988288,Stoke-on-Trent Central,-2.1833,53.0167,England,wikidata P625
+wd:Q988304,Stockton South,-1.322,54.523,England,wikidata P625
+wd:Q988335,Stockton North,-1.312,54.597,England,wikidata P625
+wd:Q988356,Stockport,-2.1696,53.4108,England,wikidata P625
+wd:Q988375,Stirling,-4.082,56.119,Scotland,wikidata P625
+wd:Q988387,Stevenage,-0.1667,51.8833,England,wikidata P625
+wd:Q988399,Stalybridge and Hyde,-2.06,53.46,England,wikidata P625
+wd:Q988407,Staffordshire Moorlands,-1.9833,53.0667,England,wikidata P625
+wd:Q988420,Stafford,-2.1346,52.7792,England,wikidata P625
+wd:Q988435,St Ives,-5.48,50.21,England,wikidata P625
+wd:Q988454,St Helens South and Whiston,-2.731,53.448,England,wikidata P625
+wd:Q988477,Romsey and Southampton North,-1.465,50.986,England,wikidata P625
+wd:Q988495,"Ruislip, Northwood and Pinner",-0.45,51.6,England,wikidata P625
+wd:Q988509,Runnymede and Weybridge,-0.53,51.388,England,wikidata P625
+wd:Q988533,St Helens North,-2.714,53.486,England,wikidata P625
+wd:Q988556,St Austell and Newquay,-4.926,50.375,England,wikidata P625
+wd:Q988569,St Albans,-0.337,51.74,England,wikidata P625
+wd:Q988587,South Dorset,-2.4541,50.5666,England,wikidata P625
+wd:Q988595,Spelthorne,-0.46,51.42,England,wikidata P625
+wd:Q988601,Southport,-3.007,53.647,England,wikidata P625
+wd:Q988607,Southend West,0.66,51.55,England,wikidata P625
+wd:Q988615,Southampton Test,-1.4167,50.9333,England,wikidata P625
+wd:Q988625,Southampton Itchen,-1.35,50.9167,England,wikidata P625
+wd:Q988637,South Basildon and East Thurrock,0.48,51.5355,England,wikidata P625
+wd:Q988645,South Cambridgeshire,0.154,52.12,England,wikidata P625
+wd:Q988730,South Derbyshire,-1.55,52.8,England,wikidata P625
+wd:Q988740,South East Cambridgeshire,0.31,52.131,England,wikidata P625
+wd:Q988746,South West Wiltshire,-2.186,51.26,England,wikidata P625
+wd:Q988793,South West Surrey,-0.7,51.15,England,wikidata P625
+wd:Q988801,South West Norfolk,0.6,52.5,England,wikidata P625
+wd:Q988809,South West Hertfordshire,-0.5333,51.7333,England,wikidata P625
+wd:Q988814,South West Devon,-3.992,50.395,England,wikidata P625
+wd:Q988826,South West Bedfordshire,-0.491,51.958,England,wikidata P625
+wd:Q988835,South Thanet,1.3667,51.3,England,wikidata P625
+wd:Q988843,South Swindon,-1.782,51.559,England,wikidata P625
+wd:Q988848,South Suffolk,0.9,52.0,England,wikidata P625
+wd:Q988851,South Staffordshire,-2.1548,52.6592,England,wikidata P625
+wd:Q988859,South Shields,-1.414,54.973,England,wikidata P625
+wd:Q988873,South Ribble,-2.697,53.717,England,wikidata P625
+wd:Q988884,South Northamptonshire,-1.05,52.1,England,wikidata P625
+wd:Q988942,South Norfolk,1.4,52.5,England,wikidata P625
+wd:Q988954,South Leicestershire,-1.2,52.5,England,wikidata P625
+wd:Q988966,South Holland and The Deepings,-0.1,52.75,England,wikidata P625
+wd:Q988977,South East Cornwall,-4.52,50.414,England,wikidata P625
+wd:Q989007,Slough,-0.592,51.512,England,wikidata P625
+wd:Q989017,Somerton and Frome,-2.51,51.1,England,wikidata P625
+wd:Q989027,Solihull,-1.78,52.41,England,wikidata P625
+wd:Q989041,Scunthorpe,-0.57,53.5,England,wikidata P625
+wd:Q989206,Sleaford and North Hykeham,-0.5,53.05,England,wikidata P625
+wd:Q989226,Skipton and Ripon,-1.833,54.162,England,wikidata P625
+wd:Q989270,Banbury,-1.3,51.96,England,wikidata P625
