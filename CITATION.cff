@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this data or code, please cite it as below."
+title: "Who Won Here? Every UK General Election since 1832 on One Map"
+type: dataset
+authors:
+  - family-names: Hotham
+    given-names: Tristan
+    orcid: "https://orcid.org/0000-0003-4931-9349"
+    affiliation: "Independent researcher"
+doi: "10.5281/zenodo.23761425"
+url: "https://maps.tristanhotham.com/elections-since-1832/"
+repository-code: "https://github.com/Tristan-Hotham/elections-since-1832"
+license: CC-BY-SA-4.0
+keywords:
+  - "UK general elections"
+  - "electoral history"
+  - "constituency results"
+  - "party systems"
+  - "uncontested elections"
+  - "electoral geography"
+  - "House of Commons"
+  - "open data"
+  - "Red Wall"
+  - "Wikidata"
